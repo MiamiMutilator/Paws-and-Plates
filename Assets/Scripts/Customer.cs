@@ -64,8 +64,8 @@ public class Customer : MonoBehaviour
 
     private void Start()
     {
-        randomSeed = Random.Range(0, 15);
-        Random.InitState(randomSeed);
+        //randomSeed = Random.Range(0, 15);
+        //Random.InitState(randomSeed);
         typeOfCustomer = Random.Range(0, 6); // fixed max so type 5 is possible
         customerBehavior();
     }
