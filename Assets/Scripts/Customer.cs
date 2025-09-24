@@ -11,6 +11,7 @@ public class Customer : MonoBehaviour
     public int typeOfCustomer;
     public int customerPatience = 60;
     public int dialogueNum;
+    public string customersFood;
 
     public TextMeshProUGUI customerOrder;
 
@@ -50,7 +51,6 @@ public class Customer : MonoBehaviour
         customerDialogues[4] = new string[]
         {
             "I want a Donut!",
-            "Donut me up!",
             "Got any donuts?"
         };
 
@@ -67,11 +67,36 @@ public class Customer : MonoBehaviour
         //randomSeed = Random.Range(0, 15);
         //Random.InitState(randomSeed);
         typeOfCustomer = Random.Range(0, 6); // fixed max so type 5 is possible
+        switch (typeOfCustomer)
+        {
+            case 1:
+                customersFood = "Pizza";
+                break;
+            case 2:
+                customersFood = "Burger";
+                break;
+            case 3:
+                customersFood = "Coffee";
+                break;
+            case 4:
+                customersFood = "Donut";
+                break;
+            case 5:
+                customersFood = "Latte";
+                break;
+            default:
+                customersFood = "Untagged";
+                break;
+        }
         customerBehavior();
     }
 
     private void Update()
     {
+        if (Input.GetKeyDown(KeyCode.R))
+        {
+            restartScene();
+        }
         if (customerPatience == 0)
         {
             StopCoroutine(patienceTimer());
@@ -82,21 +107,16 @@ public class Customer : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.CompareTag("Meat Food"))
+        if (collision.gameObject.CompareTag(customersFood) || typeOfCustomer == 0)
         {
-            switch (typeOfCustomer)
-            {
-                case 0:
-                case 2:
-                    customerOrder.text = "Yum!";
-                    Debug.Log("Yum!");
-                    Destroy(collision.gameObject);
-                    break;
-                default:
-                    customerOrder.text = "I don't want this!";
-                    Debug.Log("I don't want this!");
-                    break;
-            }
+            customerOrder.text = "Yum!";
+            Debug.Log("Yum!");
+            Destroy(collision.gameObject);
+        }
+        else
+        {
+            customerOrder.text = "I don't want this!";
+            Debug.Log("I don't want this!");
         }
     }
 
@@ -120,5 +140,10 @@ public class Customer : MonoBehaviour
             customerPatience--;
             yield return new WaitForSeconds(1);
         }
+    }
+
+    private void restartScene()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 }

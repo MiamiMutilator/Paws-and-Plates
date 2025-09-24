@@ -4,8 +4,10 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - Meat Food
   - Customer
+  - Coffee
+  - Burger
+  - Latte
   layers:
   - Default
   - TransparentFX
