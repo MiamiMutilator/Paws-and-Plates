@@ -14,6 +14,10 @@ public class Gacha : MonoBehaviour
 
     public int randomSeed;
 
+    //gacha probabilities
+    private int[] weights = { 50, 30, 10, 7, 3 };
+    private int totalWeight;
+
     public TextMeshProUGUI rollText;
     public TextMeshProUGUI BurgerText;
     public TextMeshProUGUI PizzaText;
@@ -34,6 +38,11 @@ public class Gacha : MonoBehaviour
         randomSeed = Random.Range(0, 15);
         Random.InitState(randomSeed);
 
+        foreach (int w in weights)
+        {
+            totalWeight += w;
+        }
+
     }
 
     // Update is called once per frame
@@ -46,7 +55,7 @@ public class Gacha : MonoBehaviour
     {
         if (cc != null && cc.coinCount >= 6)
         {
-            RollNumber = Random.Range(0, 5);
+            RollNumber = GetWeightedRandom();
             StartCoroutine("Rolling");
             cc.coinCount -= 6;
             Debug.Log("Roll made!");
@@ -70,6 +79,21 @@ public class Gacha : MonoBehaviour
         rollText.text = "Press Roll!";
     }
 
+    private int GetWeightedRandom()
+    {
+        int r = Random.Range(0, totalWeight);
+        int sum = 0;
+
+        for (int i = 0; i < weights.Length; i++)
+        {
+            sum += weights[i];
+            if (r < sum)
+                return i;
+        }
+
+        return 0;
+    }
+
     private IEnumerator Rolling()
     {
         rollText.text = "Rolling...";
@@ -80,56 +104,76 @@ public class Gacha : MonoBehaviour
             case 0:
                 bool alreadyGotBurger = Burger > 0;
                 Burger++;
-                rollText.text = "Burger";
-                BurgerText.text = "Burgers: " + Burger;
+                rollText.text = "Burger " + weights[RollNumber] + "% chance";
+                if (Burger > 0)
+                {
+                    BurgerText.text = "Burger";
+
+                }
                 if (alreadyGotBurger && cc != null)
                 {
-                    cc.coinCount += 3;
-                    rollText.text = "Already gotten, 3 coin refund!";
+                    cc.coinCount += 1;
+                    rollText.text = "Already gotten Burger, 1 coin refund!";
                 }
                 break;
             case 1:
                 bool alreadyGotPizza = Pizza > 0;
                 Pizza++;
-                rollText.text = "Pizza";
-                PizzaText.text = "Pizzas: " + Pizza;
+                rollText.text = "Pizza " + weights[RollNumber] + "% chance";
+                if (Pizza > 0)
+                {
+                    PizzaText.text = "Pizza";
+
+                }
                 if (alreadyGotPizza && cc != null)
                 {
-                    cc.coinCount += 3;
-                    rollText.text = "Already gotten, 3 coin refund!";
+                    cc.coinCount += 2;
+                    rollText.text = "Already gotten Pizza, 2 coin refund!";
                 }
                 break;
             case 2:
                 bool alreadyGotCoffee = Coffee > 0;
                 Coffee++;
-                rollText.text = "Coffee";
-                CoffeeText.text = "Coffees: " + Coffee;
+                rollText.text = "Coffee " + weights[RollNumber] + "% chance";
+                if (Coffee > 0)
+                {
+                    CoffeeText.text = "Coffee";
+
+                }
                 if (alreadyGotCoffee && cc != null)
                 {
                     cc.coinCount += 3;
-                    rollText.text = "Already gotten, 3 coin refund!";
+                    rollText.text = "Already gotten Coffee, 3 coin refund!";
                 }
                 break;
             case 3:
                 bool alreadyGotDonut = Donut > 0;
                 Donut++;
-                rollText.text = "Donut";
-                DonutText.text = "Donuts: " + Donut;
+                rollText.text = "Donut " + weights[RollNumber] + "% chance";
+                if (Donut > 0)
+                {
+                    DonutText.text = "Donut";
+
+                }
                 if (alreadyGotDonut && cc != null)
                 {
-                    cc.coinCount += 3;
-                    rollText.text = "Already gotten, 3 coin refund!";
+                    cc.coinCount += 4;
+                    rollText.text = "Already gotten Donut, 4 coin refund!";
                 }
                 break;
             case 4:
                 bool alreadyGotLatte = Latte > 0;
                 Latte++;
-                rollText.text = "Latte";
-                LatteText.text = "Latte: " + Latte;
+                rollText.text = "Latte " + weights[RollNumber] + "% chance";
+                if (Latte > 0)
+                {
+                    LatteText.text = "Latte";
+
+                }
                 if (alreadyGotLatte && cc != null)
                 {
-                    cc.coinCount += 3;
-                    rollText.text = "Already gotten, 3 coin refund!";
+                    cc.coinCount += 6;
+                    rollText.text = "Already gotten Latte, 6 coin refund!";
                 }
                 break;
 
