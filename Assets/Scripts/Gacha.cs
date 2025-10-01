@@ -25,6 +25,8 @@ public class Gacha : MonoBehaviour
     public Canvas inventoryCanvas;
     public Canvas gachaCanvas;
 
+    public CoinCounter cc;
+
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -42,8 +44,18 @@ public class Gacha : MonoBehaviour
 
     public void RollButton()
     {
-        RollNumber = Random.Range(0, 5);
-        StartCoroutine("Rolling");
+        if (cc != null && cc.coinCount >= 6)
+        {
+            RollNumber = Random.Range(0, 5);
+            StartCoroutine("Rolling");
+            cc.coinCount -= 6;
+            Debug.Log("Roll made!");
+        }
+        else
+        {
+            rollText.text = "Not enough coins!";
+        }
+
     }
 
     public void InventoryButton()
@@ -66,33 +78,61 @@ public class Gacha : MonoBehaviour
         switch (RollNumber)
         {
             case 0:
+                bool alreadyGotBurger = Burger > 0;
                 Burger++;
                 rollText.text = "Burger";
                 BurgerText.text = "Burgers: " + Burger;
+                if (alreadyGotBurger && cc != null)
+                {
+                    cc.coinCount += 3;
+                    rollText.text = "Already gotten, 3 coin refund!";
+                }
                 break;
             case 1:
+                bool alreadyGotPizza = Pizza > 0;
                 Pizza++;
                 rollText.text = "Pizza";
                 PizzaText.text = "Pizzas: " + Pizza;
-
+                if (alreadyGotPizza && cc != null)
+                {
+                    cc.coinCount += 3;
+                    rollText.text = "Already gotten, 3 coin refund!";
+                }
                 break;
             case 2:
+                bool alreadyGotCoffee = Coffee > 0;
                 Coffee++;
                 rollText.text = "Coffee";
                 CoffeeText.text = "Coffees: " + Coffee;
-
+                if (alreadyGotCoffee && cc != null)
+                {
+                    cc.coinCount += 3;
+                    rollText.text = "Already gotten, 3 coin refund!";
+                }
                 break;
             case 3:
+                bool alreadyGotDonut = Donut > 0;
                 Donut++;
                 rollText.text = "Donut";
                 DonutText.text = "Donuts: " + Donut;
-
+                if (alreadyGotDonut && cc != null)
+                {
+                    cc.coinCount += 3;
+                    rollText.text = "Already gotten, 3 coin refund!";
+                }
                 break;
             case 4:
+                bool alreadyGotLatte = Latte > 0;
                 Latte++;
                 rollText.text = "Latte";
                 LatteText.text = "Latte: " + Latte;
+                if (alreadyGotLatte && cc != null)
+                {
+                    cc.coinCount += 3;
+                    rollText.text = "Already gotten, 3 coin refund!";
+                }
                 break;
+
         }
     }
 }
