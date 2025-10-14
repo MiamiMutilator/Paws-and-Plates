@@ -908,6 +908,7 @@ MonoBehaviour:
   type: 6
   player: {fileID: 1052541002}
   icon: {fileID: 0}
+  inventoryUi: {fileID: 581622290}
 --- !u!114 &461379760
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1057,6 +1058,7 @@ MonoBehaviour:
   type: 3
   player: {fileID: 1052541002}
   icon: {fileID: 0}
+  inventoryUi: {fileID: 581622290}
 --- !u!114 &497949436
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1206,6 +1208,7 @@ MonoBehaviour:
   type: 1
   player: {fileID: 1052541002}
   icon: {fileID: 0}
+  inventoryUi: {fileID: 581622290}
 --- !u!114 &509619603
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2013,6 +2016,7 @@ MonoBehaviour:
   type: 4
   player: {fileID: 1052541002}
   icon: {fileID: 0}
+  inventoryUi: {fileID: 581622290}
 --- !u!114 &809618765
 MonoBehaviour:
   m_ObjectHideFlags: 0

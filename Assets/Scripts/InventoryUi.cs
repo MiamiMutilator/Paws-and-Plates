@@ -11,19 +11,8 @@ public class InventoryUi : MonoBehaviour
     public List<SlotUi> slots = new List<SlotUi>();
 
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
 
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
-
-    void Setup()
+    public void Setup()
     {
         if (slots.Count == player.inventory.slots.Count)
         {

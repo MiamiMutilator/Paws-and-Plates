@@ -7,11 +7,13 @@ public class Ingredient : MonoBehaviour
     public CollectableType type;
     public Player player;
     public Sprite icon;
+    public InventoryUi inventoryUi;
 
 
     public void IngredientButton()
     {
         player.inventory.Add(this);
+        inventoryUi.Setup();
     }
 
 }
