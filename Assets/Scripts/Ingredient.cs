@@ -26,5 +26,10 @@ public enum CollectableType
     BANANA,
     STRAWBERRY,
     COFFEE,
-    ICE
+    ICE,
+    PINEAPPLE,
+    MANGO,
+    VANILLA,
+    COCONUT,
+    PEACH
 }
