@@ -29,4 +29,13 @@ public class Scenes : MonoBehaviour
     {
         SceneManager.LoadScene("Gacha");
     }
+
+    public void Theme()
+    {
+        SceneManager.LoadScene("Theme");
+    }
+    public void Customers()
+    {
+        SceneManager.LoadScene("Customers");
+    }
 }
