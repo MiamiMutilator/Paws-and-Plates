@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a2738d26e47b3e242b334569321c9bac
+guid: a19c9746aefec8c4dbffffd685cbdd29
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1727774167247321605
-    second: PawsLatte_0
+      213: 6093388138514002018
+    second: UI Title_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PawsLatte_0
+      name: UI Title_0
       rect:
         serializedVersion: 2
-        x: 660
-        y: 56
-        width: 941
-        height: 1941
+        x: 0
+        y: 0
+        width: 1791
+        height: 1009
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 50a7fd273794af710800000000000000
-      internalID: 1727774167247321605
+      spriteID: 260b4b25a30109450800000000000000
+      internalID: 6093388138514002018
       vertices: []
       indices: 
       edges: []
@@ -160,8 +160,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      PawsLatte_0: 1727774167247321605
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
