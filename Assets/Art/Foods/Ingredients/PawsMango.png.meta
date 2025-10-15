@@ -132,7 +132,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 256
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -634,7 +634,28 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PawsMango_0: -612998046394059693
+      PawsMango_1: -2560141764142419254
+      PawsMango_10: 3416533731624019055
+      PawsMango_11: -8660659171780541283
+      PawsMango_12: 3454956846799511241
+      PawsMango_13: 6325299517887998439
+      PawsMango_14: 7051098483554011801
+      PawsMango_15: 2029811463404266234
+      PawsMango_16: 52719863507678032
+      PawsMango_17: 3318678729721679505
+      PawsMango_18: -8601054453744567531
+      PawsMango_19: 6648895239560257315
+      PawsMango_2: 3554548791767885647
+      PawsMango_20: -9100743072567708274
+      PawsMango_3: -820248858437402083
+      PawsMango_4: 7981091926882124614
+      PawsMango_5: -8642943333337416828
+      PawsMango_6: -2755111444272234522
+      PawsMango_7: 8983469288648648200
+      PawsMango_8: -2760144657561022083
+      PawsMango_9: 8434892846620875116
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

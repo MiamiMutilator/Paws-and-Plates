@@ -8,6 +8,23 @@ TagManager:
   - Coffee
   - Burger
   - Latte
+  - Banana
+  - Ice
+  - Milk
+  - CoffeeBean
+  - Mango
+  - Coconut
+  - Strawberry
+  - Peach
+  - Pineapple
+  - Vanilla
+  - Matcha
+  - MatchaLatte
+  - StrawBanSmoothie
+  - ManPeachSmoothie
+  - PineCocoSmoothie
+  - VanFrappe
+  - IceCoffee
   layers:
   - Default
   - TransparentFX

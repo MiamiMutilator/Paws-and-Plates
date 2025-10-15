@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PawsStartingBackground_0: -733221143534532303
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

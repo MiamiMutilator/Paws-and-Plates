@@ -81,7 +81,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 256
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PawsPeach_0: 7775943141744729456
+      PawsPeach_1: -129565593243201876
+      PawsPeach_2: 6471225132385635327
+      PawsPeach_3: -2594399639068063472
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

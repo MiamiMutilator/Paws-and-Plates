@@ -1,5 +1,4 @@
 using UnityEngine;
-using UnityEngine.SceneManagement;
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
@@ -93,10 +92,7 @@ public class Customer : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.R))
-        {
-            restartScene();
-        }
+        
         if (customerPatience == 0)
         {
             StopCoroutine(patienceTimer());
@@ -142,8 +138,4 @@ public class Customer : MonoBehaviour
         }
     }
 
-    private void restartScene()
-    {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-    }
 }

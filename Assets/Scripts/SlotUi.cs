@@ -8,7 +8,6 @@ using TMPro;
 public class SlotUi : MonoBehaviour
 {
     public Image itemIcon;
-    
 
     public void SetItem(Inventory.Slot slot)
     {
@@ -22,6 +21,7 @@ public class SlotUi : MonoBehaviour
 
     public void SetEmpty()
     {
+        
         itemIcon.sprite = null;
         itemIcon.color = new Color(1, 1, 1, 0);
         
