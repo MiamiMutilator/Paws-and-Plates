@@ -27,37 +27,32 @@ public class Customer : MonoBehaviour
 
         customerDialogues[1] = new string[]
         {
-            "I want a pizza!",
-            "Got any pizza for me?",
-            "Pizza sounds perfect right now."
+            "I want a Strawberry Banana Smoothie!"
         };
 
         customerDialogues[2] = new string[]
         {
-            "I want a burger!",
-            "A burger would hit the spot!",
-            "Got any burgers around here?",
-            "Give me a nice juicy burger, please!"
+            "I want a Mango Peach Smoothie!"
         };
 
         customerDialogues[3] = new string[]
         {
-            "I want a Coffee!",
-            "Can I get a coffee, please?",
-            "I need some caffeine!"
+            "I want an Iced Coffee!"
         };
 
         customerDialogues[4] = new string[]
         {
-            "I want a Donut!",
-            "Got any donuts?"
+            "I want a Matcha Latte!"
         };
 
         customerDialogues[5] = new string[]
         {
-            "I want a Latte!",
-            "Latte, please!",
-            "I need something fancy – a latte!"
+            "I want a Vanilla Frappe!"
+        };
+
+        customerDialogues[6] = new string[]
+        {
+            "I want a Pineapple Coconut Smoothie!"
         };
     }
 
@@ -65,24 +60,27 @@ public class Customer : MonoBehaviour
     {
         //randomSeed = Random.Range(0, 15);
         //Random.InitState(randomSeed);
-        typeOfCustomer = Random.Range(0, 6); // fixed max so type 5 is possible
+        typeOfCustomer = Random.Range(0, 7); 
         switch (typeOfCustomer)
         {
             case 1:
-                customersFood = "Pizza";
+                customersFood = "StrawBanSmoothie";
                 break;
             case 2:
-                customersFood = "Burger";
+                customersFood = "ManPeachSmoothie";
                 break;
             case 3:
-                customersFood = "Coffee";
+                customersFood = "IceCoffee";
                 break;
             case 4:
-                customersFood = "Donut";
+                customersFood = "MatchaLatte";
                 break;
             case 5:
-                customersFood = "Latte";
+                customersFood = "VanFrappe";
                 break;
+            case 6:
+                customersFood = "PineCocoSmoothie";
+                    break;
             default:
                 customersFood = "Untagged";
                 break;
