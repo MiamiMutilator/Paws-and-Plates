@@ -63,5 +63,21 @@ public enum CollectableType
     MANGO,
     VANILLA,
     COCONUT,
-    PEACH
+    PEACH,
+    BURGER,
+    BUN,
+    SPINACH,
+    ONION,
+    TORTILLA,
+    TOMATO,
+    YOGURT,
+    FLOUR,
+    CHEESE,
+    BUTTER,
+    LETTUCE,
+    GREENONION,
+    EGG,
+    BACON,
+    CROUTONS
+
 }

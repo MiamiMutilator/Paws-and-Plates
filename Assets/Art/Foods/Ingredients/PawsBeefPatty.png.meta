@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: ca1a495dca0fc7b41b4031201f30b246
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3607408263339043743
+    second: PawsBeefPatty_0
+  - first:
+      213: -1195466032926900737
+    second: PawsBeefPatty_1
+  - first:
+      213: 4929750907044140127
+    second: PawsBeefPatty_2
+  - first:
+      213: 2035637806812159432
+    second: PawsBeefPatty_3
+  - first:
+      213: -2713292858540631929
+    second: PawsBeefPatty_4
+  - first:
+      213: 8482449996200207756
+    second: PawsBeefPatty_5
+  - first:
+      213: 6798940314981311726
+    second: PawsBeefPatty_6
+  - first:
+      213: 3426310776310246951
+    second: PawsBeefPatty_7
+  - first:
+      213: -5198868613890680390
+    second: PawsBeefPatty_8
+  - first:
+      213: -1436999077098566708
+    second: PawsBeefPatty_9
+  - first:
+      213: 7957696775593517202
+    second: PawsBeefPatty_10
+  - first:
+      213: 2482261620505521824
+    second: PawsBeefPatty_11
+  - first:
+      213: 1281323678334517068
+    second: PawsBeefPatty_12
+  - first:
+      213: -8374647302760829537
+    second: PawsBeefPatty_13
+  - first:
+      213: -2384373792323725630
+    second: PawsBeefPatty_14
+  - first:
+      213: -2600801212352011195
+    second: PawsBeefPatty_15
+  - first:
+      213: -8974657545540995649
+    second: PawsBeefPatty_16
+  - first:
+      213: 733589830390454607
+    second: PawsBeefPatty_17
+  - first:
+      213: 4124300497965099682
+    second: PawsBeefPatty_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PawsBeefPatty_0
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1666
+        width: 91
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1641edf1c49efedc0800000000000000
+      internalID: -3607408263339043743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBeefPatty_1
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1675
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdb8561af9d86fe0800000000000000
+      internalID: -1195466032926900737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBeefPatty_2
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1587
+        width: 157
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54968db45ef96440800000000000000
+      internalID: 4929750907044140127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBeefPatty_3
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1612
+        width: 150
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdd46eccc9004c10800000000000000
+      internalID: 2035637806812159432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBeefPatty_4
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1629
+        width: 133
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788d4135582785ad0800000000000000
+      internalID: -2713292858540631929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBeefPatty_5
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 442
+        width: 1697
+        height: 1159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85e6806457b7b570800000000000000
+      internalID: 8482449996200207756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBeefPatty_6
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1576
+        width: 129
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee42b83b130ba5e50800000000000000
+      internalID: 6798940314981311726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBeefPatty_7
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1586
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ea0186f73bc8f20800000000000000
+      internalID: 3426310776310246951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBeefPatty_8
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1351
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab95e1b5a88e9d7b0800000000000000
+      internalID: -5198868613890680390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBeefPatty_9
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1015
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbc9f2f3f0ce0ce0800000000000000
+      internalID: -1436999077098566708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBeefPatty_10
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1026
+        width: 61
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290e5834e0b6f6e60800000000000000
+      internalID: 7957696775593517202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBeefPatty_11
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 712
+        width: 65
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae21d1dac3c27220800000000000000
+      internalID: 2482261620505521824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBeefPatty_12
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 823
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ffc61c81d28c110800000000000000
+      internalID: 1281323678334517068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBeefPatty_13
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 857
+        width: 18
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9de1cf16a647cb80800000000000000
+      internalID: -8374647302760829537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBeefPatty_14
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 868
+        width: 30
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c61bc83ba009eed0800000000000000
+      internalID: -2384373792323725630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBeefPatty_15
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 860
+        width: 47
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5446a56b31918ebd0800000000000000
+      internalID: -2600801212352011195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBeefPatty_16
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 886
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5ff39138c937380800000000000000
+      internalID: -8974657545540995649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBeefPatty_17
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 754
+        width: 103
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f491343601c3e2a00800000000000000
+      internalID: 733589830390454607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBeefPatty_18
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 848
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa2d2093757c3930800000000000000
+      internalID: 4124300497965099682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PawsBeefPatty_0: -3607408263339043743
+      PawsBeefPatty_1: -1195466032926900737
+      PawsBeefPatty_10: 7957696775593517202
+      PawsBeefPatty_11: 2482261620505521824
+      PawsBeefPatty_12: 1281323678334517068
+      PawsBeefPatty_13: -8374647302760829537
+      PawsBeefPatty_14: -2384373792323725630
+      PawsBeefPatty_15: -2600801212352011195
+      PawsBeefPatty_16: -8974657545540995649
+      PawsBeefPatty_17: 733589830390454607
+      PawsBeefPatty_18: 4124300497965099682
+      PawsBeefPatty_2: 4929750907044140127
+      PawsBeefPatty_3: 2035637806812159432
+      PawsBeefPatty_4: -2713292858540631929
+      PawsBeefPatty_5: 8482449996200207756
+      PawsBeefPatty_6: 6798940314981311726
+      PawsBeefPatty_7: 3426310776310246951
+      PawsBeefPatty_8: -5198868613890680390
+      PawsBeefPatty_9: -1436999077098566708
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

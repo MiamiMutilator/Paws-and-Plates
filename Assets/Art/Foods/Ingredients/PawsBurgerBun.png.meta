@@ -1,0 +1,642 @@
+fileFormatVersion: 2
+guid: d987ae08bb58dfc489be0deabac57482
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3321878903638103021
+    second: PawsBurgerBun_0
+  - first:
+      213: -7898285350030704726
+    second: PawsBurgerBun_1
+  - first:
+      213: -9198955228378749045
+    second: PawsBurgerBun_2
+  - first:
+      213: -6533798036926987708
+    second: PawsBurgerBun_3
+  - first:
+      213: -9099542255119103461
+    second: PawsBurgerBun_4
+  - first:
+      213: -5717230335781038048
+    second: PawsBurgerBun_5
+  - first:
+      213: 8100634241382901864
+    second: PawsBurgerBun_6
+  - first:
+      213: 1723288525710238524
+    second: PawsBurgerBun_7
+  - first:
+      213: -8582519575973147572
+    second: PawsBurgerBun_8
+  - first:
+      213: -5036662712950888905
+    second: PawsBurgerBun_9
+  - first:
+      213: -6907670287388138254
+    second: PawsBurgerBun_10
+  - first:
+      213: -2807122038667664961
+    second: PawsBurgerBun_11
+  - first:
+      213: 2109902306671744259
+    second: PawsBurgerBun_12
+  - first:
+      213: 9127103928383022775
+    second: PawsBurgerBun_13
+  - first:
+      213: 5444003113557541832
+    second: PawsBurgerBun_14
+  - first:
+      213: -7367741201638622423
+    second: PawsBurgerBun_15
+  - first:
+      213: 2877084054803754134
+    second: PawsBurgerBun_16
+  - first:
+      213: -8992731275936851493
+    second: PawsBurgerBun_17
+  - first:
+      213: -2822868082208124567
+    second: PawsBurgerBun_18
+  - first:
+      213: 4543812755906251991
+    second: PawsBurgerBun_19
+  - first:
+      213: -8056679011855394020
+    second: PawsBurgerBun_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PawsBurgerBun_0
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 771
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de39636434fa91e20800000000000000
+      internalID: 3321878903638103021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBurgerBun_1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 788
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf7fb03257a36290800000000000000
+      internalID: -7898285350030704726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBurgerBun_2
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 765
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8723cb35feb65080800000000000000
+      internalID: -9198955228378749045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBurgerBun_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 463
+        width: 1608
+        height: 1150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44282de8d494355a0800000000000000
+      internalID: -6533798036926987708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBurgerBun_4
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 558
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a08f8c78ee7b180800000000000000
+      internalID: -9099542255119103461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBurgerBun_5
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 556
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0281fa00d4158a0b0800000000000000
+      internalID: -5717230335781038048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBurgerBun_6
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 553
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8686efc6ceb3b6070800000000000000
+      internalID: 8100634241382901864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBurgerBun_7
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 550
+        width: 37
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c332774a8c95ae710800000000000000
+      internalID: 1723288525710238524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBurgerBun_8
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 560
+        width: 59
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cc844fae3c4e880800000000000000
+      internalID: -8582519575973147572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBurgerBun_9
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 550
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7366b1da2fd2a1ab0800000000000000
+      internalID: -5036662712950888905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBurgerBun_10
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 548
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4a5b6d8760320a0800000000000000
+      internalID: -6907670287388138254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBurgerBun_11
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 551
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb12b0ce0691b09d0800000000000000
+      internalID: -2807122038667664961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBurgerBun_12
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 552
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30552fb18f0e74d10800000000000000
+      internalID: 2109902306671744259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBurgerBun_13
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 553
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6a7575aacf9ae70800000000000000
+      internalID: 9127103928383022775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBurgerBun_14
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 470
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3c7bbfcfbfc8b40800000000000000
+      internalID: 5444003113557541832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBurgerBun_15
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 464
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bf15fb96680c990800000000000000
+      internalID: -7367741201638622423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBurgerBun_16
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 465
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ca48354b47de720800000000000000
+      internalID: 2877084054803754134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBurgerBun_17
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 465
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd91d31dc86633380800000000000000
+      internalID: -8992731275936851493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBurgerBun_18
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 470
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96152387f6823d8d0800000000000000
+      internalID: -2822868082208124567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBurgerBun_19
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 471
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc4ea990adde0f30800000000000000
+      internalID: 4543812755906251991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsBurgerBun_20
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 448
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b9305ff1de03090800000000000000
+      internalID: -8056679011855394020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

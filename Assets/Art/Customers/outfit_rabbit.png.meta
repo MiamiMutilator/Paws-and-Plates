@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      outfit_rabbit_0: -4999556763111875217
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

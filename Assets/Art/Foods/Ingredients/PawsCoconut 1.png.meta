@@ -1,0 +1,4329 @@
+fileFormatVersion: 2
+guid: 656247f9dab77584880f89b6d6a2b14f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6737481473580942473
+    second: PawsCoconut 1_0
+  - first:
+      213: 8862168633987376204
+    second: PawsCoconut 1_1
+  - first:
+      213: 1427340216806253225
+    second: PawsCoconut 1_2
+  - first:
+      213: 7903292406169631982
+    second: PawsCoconut 1_3
+  - first:
+      213: -6968755969925935051
+    second: PawsCoconut 1_4
+  - first:
+      213: -4239397545923640740
+    second: PawsCoconut 1_5
+  - first:
+      213: -3760461429747461388
+    second: PawsCoconut 1_6
+  - first:
+      213: 7440320793131499161
+    second: PawsCoconut 1_7
+  - first:
+      213: -6821079444097585779
+    second: PawsCoconut 1_8
+  - first:
+      213: 2592619925310575480
+    second: PawsCoconut 1_9
+  - first:
+      213: -8419135551941897985
+    second: PawsCoconut 1_10
+  - first:
+      213: 62669731480625388
+    second: PawsCoconut 1_11
+  - first:
+      213: 8035044479668195940
+    second: PawsCoconut 1_12
+  - first:
+      213: -713832904435825061
+    second: PawsCoconut 1_13
+  - first:
+      213: -4640118964649654756
+    second: PawsCoconut 1_14
+  - first:
+      213: -7459390683626726471
+    second: PawsCoconut 1_15
+  - first:
+      213: 7129147016775533019
+    second: PawsCoconut 1_16
+  - first:
+      213: 5687359687245783392
+    second: PawsCoconut 1_17
+  - first:
+      213: -6879279122926996478
+    second: PawsCoconut 1_18
+  - first:
+      213: 7269976696440009598
+    second: PawsCoconut 1_19
+  - first:
+      213: 3402939435336552850
+    second: PawsCoconut 1_20
+  - first:
+      213: 1292023680602706846
+    second: PawsCoconut 1_21
+  - first:
+      213: -2814077910993762091
+    second: PawsCoconut 1_22
+  - first:
+      213: 2600424294699174863
+    second: PawsCoconut 1_23
+  - first:
+      213: 7221797935689004654
+    second: PawsCoconut 1_24
+  - first:
+      213: -332823893898769709
+    second: PawsCoconut 1_25
+  - first:
+      213: 1363298431392248335
+    second: PawsCoconut 1_26
+  - first:
+      213: -2441931299829489792
+    second: PawsCoconut 1_27
+  - first:
+      213: -7301270447778232761
+    second: PawsCoconut 1_28
+  - first:
+      213: 6461297146183470192
+    second: PawsCoconut 1_29
+  - first:
+      213: 5595568636141909873
+    second: PawsCoconut 1_30
+  - first:
+      213: 8486871455408239399
+    second: PawsCoconut 1_31
+  - first:
+      213: -2389960545900702725
+    second: PawsCoconut 1_32
+  - first:
+      213: 8556576577883108738
+    second: PawsCoconut 1_33
+  - first:
+      213: -5610423975796203205
+    second: PawsCoconut 1_34
+  - first:
+      213: -8833588157686893737
+    second: PawsCoconut 1_35
+  - first:
+      213: -3352387690545030671
+    second: PawsCoconut 1_36
+  - first:
+      213: -7981093132235158498
+    second: PawsCoconut 1_37
+  - first:
+      213: 5421892380507104845
+    second: PawsCoconut 1_38
+  - first:
+      213: -208185920474622572
+    second: PawsCoconut 1_39
+  - first:
+      213: 3200513314398551170
+    second: PawsCoconut 1_40
+  - first:
+      213: 497902165619812329
+    second: PawsCoconut 1_41
+  - first:
+      213: 4316794885538600657
+    second: PawsCoconut 1_42
+  - first:
+      213: 8529564057902924753
+    second: PawsCoconut 1_43
+  - first:
+      213: 1825898060212734839
+    second: PawsCoconut 1_44
+  - first:
+      213: 209013554996004112
+    second: PawsCoconut 1_45
+  - first:
+      213: -2933864508819674191
+    second: PawsCoconut 1_46
+  - first:
+      213: 5506582059790810645
+    second: PawsCoconut 1_47
+  - first:
+      213: -6481349541663852248
+    second: PawsCoconut 1_48
+  - first:
+      213: 2900051845073513807
+    second: PawsCoconut 1_49
+  - first:
+      213: -5230703006891433895
+    second: PawsCoconut 1_50
+  - first:
+      213: -8250989617166774542
+    second: PawsCoconut 1_51
+  - first:
+      213: -2904033973089255593
+    second: PawsCoconut 1_52
+  - first:
+      213: 6924629323376544130
+    second: PawsCoconut 1_53
+  - first:
+      213: -2989357952077834260
+    second: PawsCoconut 1_54
+  - first:
+      213: -3360337443445894147
+    second: PawsCoconut 1_55
+  - first:
+      213: -8953651999680457743
+    second: PawsCoconut 1_56
+  - first:
+      213: -4833011846405123748
+    second: PawsCoconut 1_57
+  - first:
+      213: 4202452913189726505
+    second: PawsCoconut 1_58
+  - first:
+      213: 2946052804473354991
+    second: PawsCoconut 1_59
+  - first:
+      213: 1810754674899260329
+    second: PawsCoconut 1_60
+  - first:
+      213: -7794342534803048493
+    second: PawsCoconut 1_61
+  - first:
+      213: 7499608313265612225
+    second: PawsCoconut 1_62
+  - first:
+      213: -8631143483246275187
+    second: PawsCoconut 1_63
+  - first:
+      213: 5273841852011020368
+    second: PawsCoconut 1_64
+  - first:
+      213: -7759378343553121317
+    second: PawsCoconut 1_65
+  - first:
+      213: 7275655033077161866
+    second: PawsCoconut 1_66
+  - first:
+      213: 2708383261769975779
+    second: PawsCoconut 1_67
+  - first:
+      213: 4314091008326647816
+    second: PawsCoconut 1_68
+  - first:
+      213: -1031198083396302714
+    second: PawsCoconut 1_69
+  - first:
+      213: -1020638325251349845
+    second: PawsCoconut 1_70
+  - first:
+      213: -5828733421906280207
+    second: PawsCoconut 1_71
+  - first:
+      213: 7331868786583084700
+    second: PawsCoconut 1_72
+  - first:
+      213: -1985945663943375939
+    second: PawsCoconut 1_73
+  - first:
+      213: -8757242353673448258
+    second: PawsCoconut 1_74
+  - first:
+      213: 7732993393063144123
+    second: PawsCoconut 1_75
+  - first:
+      213: 8506184982734205823
+    second: PawsCoconut 1_76
+  - first:
+      213: 2702305803967667815
+    second: PawsCoconut 1_77
+  - first:
+      213: 3301751768001843178
+    second: PawsCoconut 1_78
+  - first:
+      213: 5149945298197715509
+    second: PawsCoconut 1_79
+  - first:
+      213: -2715680630452790447
+    second: PawsCoconut 1_80
+  - first:
+      213: 6852297997882598264
+    second: PawsCoconut 1_81
+  - first:
+      213: 1614978231506404991
+    second: PawsCoconut 1_82
+  - first:
+      213: 6048764625219249759
+    second: PawsCoconut 1_83
+  - first:
+      213: -3072038132410314547
+    second: PawsCoconut 1_84
+  - first:
+      213: -624093168456062870
+    second: PawsCoconut 1_85
+  - first:
+      213: 1333826833298691241
+    second: PawsCoconut 1_86
+  - first:
+      213: 8379263551679836329
+    second: PawsCoconut 1_87
+  - first:
+      213: 4176804251212809841
+    second: PawsCoconut 1_88
+  - first:
+      213: -515823569390760268
+    second: PawsCoconut 1_89
+  - first:
+      213: -8515387994096524696
+    second: PawsCoconut 1_90
+  - first:
+      213: 203192182821160211
+    second: PawsCoconut 1_91
+  - first:
+      213: -3623328933229949888
+    second: PawsCoconut 1_92
+  - first:
+      213: 6597138620945166129
+    second: PawsCoconut 1_93
+  - first:
+      213: -8634261498224998890
+    second: PawsCoconut 1_94
+  - first:
+      213: 1815711291343841404
+    second: PawsCoconut 1_95
+  - first:
+      213: 1765354197326844579
+    second: PawsCoconut 1_96
+  - first:
+      213: -955774581386412615
+    second: PawsCoconut 1_97
+  - first:
+      213: -5875092038196158914
+    second: PawsCoconut 1_98
+  - first:
+      213: -8812943276325741015
+    second: PawsCoconut 1_99
+  - first:
+      213: 1933655327463944211
+    second: PawsCoconut 1_100
+  - first:
+      213: -4420726778746454439
+    second: PawsCoconut 1_101
+  - first:
+      213: 1575800137351261429
+    second: PawsCoconut 1_102
+  - first:
+      213: -6073900156935683203
+    second: PawsCoconut 1_103
+  - first:
+      213: -3724273124958664914
+    second: PawsCoconut 1_104
+  - first:
+      213: 1521822861318800939
+    second: PawsCoconut 1_105
+  - first:
+      213: 2392610375259822406
+    second: PawsCoconut 1_106
+  - first:
+      213: -2614199916490697386
+    second: PawsCoconut 1_107
+  - first:
+      213: 3655486488010484056
+    second: PawsCoconut 1_108
+  - first:
+      213: 2169869978517182064
+    second: PawsCoconut 1_109
+  - first:
+      213: -2472360057819989496
+    second: PawsCoconut 1_110
+  - first:
+      213: -8217459513701646764
+    second: PawsCoconut 1_111
+  - first:
+      213: -2491578426573893680
+    second: PawsCoconut 1_112
+  - first:
+      213: -5220984787542639381
+    second: PawsCoconut 1_113
+  - first:
+      213: 832905393240439155
+    second: PawsCoconut 1_114
+  - first:
+      213: -2184560183931405703
+    second: PawsCoconut 1_115
+  - first:
+      213: -5156934998417674545
+    second: PawsCoconut 1_116
+  - first:
+      213: 4167655509880918259
+    second: PawsCoconut 1_117
+  - first:
+      213: -3611065439672126109
+    second: PawsCoconut 1_118
+  - first:
+      213: -3418722383123378659
+    second: PawsCoconut 1_119
+  - first:
+      213: -4361482798651351824
+    second: PawsCoconut 1_120
+  - first:
+      213: -2020160686263382659
+    second: PawsCoconut 1_121
+  - first:
+      213: 2559556795219761748
+    second: PawsCoconut 1_122
+  - first:
+      213: -8418611279479276854
+    second: PawsCoconut 1_123
+  - first:
+      213: 2791623725829130677
+    second: PawsCoconut 1_124
+  - first:
+      213: -5203298812749369640
+    second: PawsCoconut 1_125
+  - first:
+      213: -3485948181311899467
+    second: PawsCoconut 1_126
+  - first:
+      213: -2447348266710669051
+    second: PawsCoconut 1_127
+  - first:
+      213: 5095489492109767307
+    second: PawsCoconut 1_128
+  - first:
+      213: -2929923034818578126
+    second: PawsCoconut 1_129
+  - first:
+      213: -2228502114928623271
+    second: PawsCoconut 1_130
+  - first:
+      213: -4749049883824113902
+    second: PawsCoconut 1_131
+  - first:
+      213: 1149593891848305356
+    second: PawsCoconut 1_132
+  - first:
+      213: 4110399972648037129
+    second: PawsCoconut 1_133
+  - first:
+      213: -5980871862595764146
+    second: PawsCoconut 1_134
+  - first:
+      213: 4525428108283167529
+    second: PawsCoconut 1_135
+  - first:
+      213: 3773205019460221022
+    second: PawsCoconut 1_136
+  - first:
+      213: 4432887330885432954
+    second: PawsCoconut 1_137
+  - first:
+      213: 7571449095951678053
+    second: PawsCoconut 1_138
+  - first:
+      213: 8615351973273730037
+    second: PawsCoconut 1_139
+  - first:
+      213: -3270879898343267210
+    second: PawsCoconut 1_140
+  - first:
+      213: -563708247554091079
+    second: PawsCoconut 1_141
+  - first:
+      213: -4531165836960506770
+    second: PawsCoconut 1_142
+  - first:
+      213: -5542575543356767325
+    second: PawsCoconut 1_143
+  - first:
+      213: -1553606366819775396
+    second: PawsCoconut 1_144
+  - first:
+      213: 465683286418840315
+    second: PawsCoconut 1_145
+  - first:
+      213: 277997592450832690
+    second: PawsCoconut 1_146
+  - first:
+      213: 2746256689092802417
+    second: PawsCoconut 1_147
+  - first:
+      213: 1175657894156889360
+    second: PawsCoconut 1_148
+  - first:
+      213: 3537707253467406744
+    second: PawsCoconut 1_149
+  - first:
+      213: 7293219106359750671
+    second: PawsCoconut 1_150
+  - first:
+      213: -475333583294175072
+    second: PawsCoconut 1_151
+  - first:
+      213: 963499364887021412
+    second: PawsCoconut 1_152
+  - first:
+      213: 5221960313665839478
+    second: PawsCoconut 1_153
+  - first:
+      213: 1728866744668231739
+    second: PawsCoconut 1_154
+  - first:
+      213: -7080688476618545072
+    second: PawsCoconut 1_155
+  - first:
+      213: 1673591292554961439
+    second: PawsCoconut 1_156
+  - first:
+      213: -4599812329429385798
+    second: PawsCoconut 1_157
+  - first:
+      213: 7258243618957109971
+    second: PawsCoconut 1_158
+  - first:
+      213: 7254897688504800277
+    second: PawsCoconut 1_159
+  - first:
+      213: -2551312727740154123
+    second: PawsCoconut 1_160
+  - first:
+      213: 6812348186545014619
+    second: PawsCoconut 1_161
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PawsCoconut 1_0
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1722
+        width: 59
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984419914b7508d50800000000000000
+      internalID: 6737481473580942473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_1
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1648
+        width: 358
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c442d683b6fbcfa70800000000000000
+      internalID: 8862168633987376204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_2
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1746
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2ad546d5eeec310800000000000000
+      internalID: 1427340216806253225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_3
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1748
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec78c9e1922ead60800000000000000
+      internalID: 7903292406169631982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_4
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1752
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5309e2e0e510a4f90800000000000000
+      internalID: -6968755969925935051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_5
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1699
+        width: 137
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c520f8da462aa25c0800000000000000
+      internalID: -4239397545923640740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_6
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1733
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f25850e04820dbc0800000000000000
+      internalID: -3760461429747461388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_7
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1740
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e3e814754514760800000000000000
+      internalID: 7440320793131499161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_8
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1734
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d28dd9268a651a0800000000000000
+      internalID: -6821079444097585779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_9
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1648
+        width: 119
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8739cb5f516daf320800000000000000
+      internalID: 2592619925310575480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_10
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1711
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff014ae62d8392b80800000000000000
+      internalID: -8419135551941897985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_11
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1728
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0621be9c5aed000800000000000000
+      internalID: 62669731480625388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_12
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1726
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462161df166328f60800000000000000
+      internalID: 8035044479668195940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_13
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1726
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b560e1661c4f716f0800000000000000
+      internalID: -713832904435825061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_14
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 1722
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c160184d26cfa9fb0800000000000000
+      internalID: -4640118964649654756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_15
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1693
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb129dd1bbea7890800000000000000
+      internalID: -7459390683626726471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_16
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1698
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1017e9071dfe260800000000000000
+      internalID: 7129147016775533019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_17
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1705
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061692ca08f8dee40800000000000000
+      internalID: 5687359687245783392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_18
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1709
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204fc2fe514e780a0800000000000000
+      internalID: -6879279122926996478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_19
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1688
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73bca4994524e460800000000000000
+      internalID: 7269976696440009598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_20
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1691
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291576b036ba93f20800000000000000
+      internalID: 3402939435336552850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_21
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1683
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9397bb21b03ee110800000000000000
+      internalID: 1292023680602706846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_22
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1694
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d881f0bc0362f8d0800000000000000
+      internalID: -2814077910993762091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_23
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1688
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb07de4e10961420800000000000000
+      internalID: 2600424294699174863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_24
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1698
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e667464b5faf83460800000000000000
+      internalID: 7221797935689004654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_25
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1693
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dac66f8e62916bf0800000000000000
+      internalID: -332823893898769709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_26
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1694
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f027bf543b86be210800000000000000
+      internalID: 1363298431392248335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_27
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1685
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f51c3bb648c1ed0800000000000000
+      internalID: -2441931299829489792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_28
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1691
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7460f17263dacaa90800000000000000
+      internalID: -7301270447778232761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_29
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1683
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cc28265832ba950800000000000000
+      internalID: 6461297146183470192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_30
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1681
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1773e89270477ad40800000000000000
+      internalID: 5595568636141909873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_31
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1669
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723b2029f9c67c570800000000000000
+      internalID: 8486871455408239399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_32
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1685
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3d36acb8725ded0800000000000000
+      internalID: -2389960545900702725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_33
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1679
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285762a10111fb670800000000000000
+      internalID: 8556576577883108738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_34
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1684
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31255b8e15c322b0800000000000000
+      internalID: -5610423975796203205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_35
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1678
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753b9f87f5ac86580800000000000000
+      internalID: -8833588157686893737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_36
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1684
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9dbab382de971d0800000000000000
+      internalID: -3352387690545030671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_37
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1678
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c40d5f4167d3190800000000000000
+      internalID: -7981093132235158498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_38
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1681
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46e586c46e6e3b40800000000000000
+      internalID: 5421892380507104845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_39
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1671
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4955fd222006c1df0800000000000000
+      internalID: -208185920474622572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_40
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1686
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c32a307e18a6c20800000000000000
+      internalID: 3200513314398551170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_41
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1680
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7aaa2b167e8e600800000000000000
+      internalID: 497902165619812329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_42
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1649
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d650c8b31658eb30800000000000000
+      internalID: 4316794885538600657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_43
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1648
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d34e30b1591f5670800000000000000
+      internalID: 8529564057902924753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_44
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1664
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b0e0b9c94e65910800000000000000
+      internalID: 1825898060212734839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_45
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1649
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01547ca88b096e200800000000000000
+      internalID: 209013554996004112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_46
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1657
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb6da406c1d847d0800000000000000
+      internalID: -2933864508819674191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_47
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1665
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ebe50553f4b6c40800000000000000
+      internalID: 5506582059790810645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_48
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1658
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8293cf77eee9d06a0800000000000000
+      internalID: -6481349541663852248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_49
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1659
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4da2d7b9cd0f3820800000000000000
+      internalID: 2900051845073513807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_50
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1674
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9502ba4245fc867b0800000000000000
+      internalID: -5230703006891433895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_51
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1668
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe8657a8a89e7d80800000000000000
+      internalID: -8250989617166774542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_52
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1659
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f395adc7cc2b7d0800000000000000
+      internalID: -2904033973089255593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_53
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1661
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289cc1d6ea9391060800000000000000
+      internalID: 6924629323376544130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_54
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1670
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce759e7e7caa386d0800000000000000
+      internalID: -2989357952077834260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_55
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1673
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df396f526eead51d0800000000000000
+      internalID: -3360337443445894147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_56
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1663
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3949cd1fc3eb380800000000000000
+      internalID: -8953651999680457743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_57
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1665
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5194c30551bdecb0800000000000000
+      internalID: -4833011846405123748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_58
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1675
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929aaf3b8ac125a30800000000000000
+      internalID: 4202452913189726505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_59
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1671
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea7d24ba6b72e820800000000000000
+      internalID: 2946052804473354991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_60
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1673
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a39fb478c7112910800000000000000
+      internalID: 1810754674899260329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_61
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1676
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7b853c2cee4d390800000000000000
+      internalID: -7794342534803048493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_62
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1656
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c563cab606f31860800000000000000
+      internalID: 7499608313265612225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_63
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1672
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d859da35bb4083880800000000000000
+      internalID: -8631143483246275187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_64
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1657
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05084bee833703940800000000000000
+      internalID: 5273841852011020368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_65
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1670
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd348aae186215490800000000000000
+      internalID: -7759378343553121317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_66
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1648
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fd8da54b158f460800000000000000
+      internalID: 7275655033077161866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_67
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1658
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7c9691a3c169520800000000000000
+      internalID: 2708383261769975779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_68
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1649
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80044004aeabedb30800000000000000
+      internalID: 4314091008326647816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_69
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1650
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68889128ec270b1f0800000000000000
+      internalID: -1031198083396302714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_70
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1652
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba26e3bc9d6f5d1f0800000000000000
+      internalID: -1020638325251349845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_71
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1655
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f044d0b5dd2c1fa0800000000000000
+      internalID: -5828733421906280207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_72
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1653
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e1f04c0d700c560800000000000000
+      internalID: 7331868786583084700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_73
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 1648
+        width: 76
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db38d6dc0f08074e0800000000000000
+      internalID: -1985945663943375939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_74
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1659
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4d9492a76087680800000000000000
+      internalID: -8757242353673448258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_75
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1661
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbaa8f3158c115b60800000000000000
+      internalID: 7732993393063144123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_76
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1649
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7372a19c2a0c0670800000000000000
+      internalID: 8506184982734205823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_77
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1657
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e18ffafc4808520800000000000000
+      internalID: 2702305803967667815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_78
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1654
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef84445dbd22dd20800000000000000
+      internalID: 3301751768001843178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_79
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 1667
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a94cf86f7487740800000000000000
+      internalID: 5149945298197715509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_80
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1665
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bd37adad6ff4ad0800000000000000
+      internalID: -2715680630452790447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_81
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1648
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873a9ea59b0481f50800000000000000
+      internalID: 6852297997882598264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_82
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 1655
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f768de0252e896610800000000000000
+      internalID: 1614978231506404991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_83
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1650
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f566420016781f350800000000000000
+      internalID: 6048764625219249759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_84
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 1648
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc09a3d489ded55d0800000000000000
+      internalID: -3072038132410314547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_85
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 1650
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68ad63e196c657f0800000000000000
+      internalID: -624093168456062870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_86
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1675
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a417ae1074b28210800000000000000
+      internalID: 1333826833298691241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_87
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1670
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a031451ecf194470800000000000000
+      internalID: 8379263551679836329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_88
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1645
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17681e9365df6f930800000000000000
+      internalID: 4176804251212809841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_89
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 1674
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be80b3523d67d8f0800000000000000
+      internalID: -515823569390760268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_90
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1661
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862204f5cb343d980800000000000000
+      internalID: -8515387994096524696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_91
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 1652
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3150136b632e1d200800000000000000
+      internalID: 203192182821160211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_92
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 1646
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c0f6e488957bdc0800000000000000
+      internalID: -3623328933229949888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_93
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 1657
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f62736f9ebd8b50800000000000000
+      internalID: 6597138620945166129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_94
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1648
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6168774e9e0fc2880800000000000000
+      internalID: -8634261498224998890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_95
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1650
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c782737acc3b23910800000000000000
+      internalID: 1815711291343841404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_96
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 180
+        width: 1565
+        height: 1472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2596a0a4ccf7810800000000000000
+      internalID: 1765354197326844579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_97
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1645
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd7d1705186cb2f0800000000000000
+      internalID: -955774581386412615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_98
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 1646
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e97983bea777ea0800000000000000
+      internalID: -5875092038196158914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_99
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1644
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92edfec78c222b580800000000000000
+      internalID: -8812943276325741015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_100
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1645
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310b78f7649b5da10800000000000000
+      internalID: 1933655327463944211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_101
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1646
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95eb2cfaa6c66a2c0800000000000000
+      internalID: -4420726778746454439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_102
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1643
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc65df30ed5ed510800000000000000
+      internalID: 1575800137351261429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_103
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1633
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73c8a8fcfb25bba0800000000000000
+      internalID: -6073900156935683203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_104
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 1632
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e270e4c2359b05cc0800000000000000
+      internalID: -3724273124958664914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_105
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1640
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26c9f354d99e1510800000000000000
+      internalID: 1521822861318800939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_106
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1639
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649964fa572443120800000000000000
+      internalID: 2392610375259822406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_107
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1630
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65557bdc60f78bbd0800000000000000
+      internalID: -2614199916490697386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_108
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1633
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859ea1fd795eab230800000000000000
+      internalID: 3655486488010484056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_109
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1628
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0761d4ebf3dec1e10800000000000000
+      internalID: 2169869978517182064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_110
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1624
+        width: 45
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a76c460a960bdd0800000000000000
+      internalID: -2472360057819989496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_111
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1623
+        width: 44
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45eb8a93c18b5fd80800000000000000
+      internalID: -8217459513701646764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_112
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1632
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df490a3f922c6dd0800000000000000
+      internalID: -2491578426573893680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_113
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1632
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec7dc86ff55b87b0800000000000000
+      internalID: -5220984787542639381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_114
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1610
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3797a9fca031f8b00800000000000000
+      internalID: 832905393240439155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_115
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1627
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a7e464612eea1e0800000000000000
+      internalID: -2184560183931405703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_116
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1622
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcee88901f2ee68b0800000000000000
+      internalID: -5156934998417674545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_117
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1630
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0d6a4ea9c76d930800000000000000
+      internalID: 4167655509880918259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_118
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1628
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36537a76d1be2edc0800000000000000
+      internalID: -3611065439672126109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_119
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1613
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e01401b124e80d0800000000000000
+      internalID: -3418722383123378659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_120
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1617
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcd864b086e873c0800000000000000
+      internalID: -4361482798651351824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_121
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1615
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7dcf022f82f6f3e0800000000000000
+      internalID: -2020160686263382659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_122
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 1613
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ad289185f558320800000000000000
+      internalID: 2559556795219761748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_123
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1619
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca7a8025a51b2b80800000000000000
+      internalID: -8418611279479276854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_124
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1625
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9099cecf6ddb620800000000000000
+      internalID: 2791623725829130677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_125
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1612
+        width: 67
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8deacdd4c4b2ac7b0800000000000000
+      internalID: -5203298812749369640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_126
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1615
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b83c73399c6f9fc0800000000000000
+      internalID: -3485948181311899467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_127
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1602
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509ea01d7b5490ed0800000000000000
+      internalID: -2447348266710669051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_128
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 931
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8230fd22b0d6b640800000000000000
+      internalID: 5095489492109767307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_129
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 926
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2397762f582d657d0800000000000000
+      internalID: -2929923034818578126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_130
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 899
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95109723225c211e0800000000000000
+      internalID: -2228502114928623271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_131
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 893
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217bd0eca4cf71eb0800000000000000
+      internalID: -4749049883824113902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_132
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 872
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccab397cd8d24ff00800000000000000
+      internalID: 1149593891848305356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_133
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 863
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b267e4ff21b0930800000000000000
+      internalID: 4110399972648037129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_134
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 871
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40c9de9abcaffca0800000000000000
+      internalID: -5980871862595764146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_135
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 822
+        width: 11
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92349c243ec8dce30800000000000000
+      internalID: 4525428108283167529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_136
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 862
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58b5a159fd1d5430800000000000000
+      internalID: 3773205019460221022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_137
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 841
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7671ce7a87c48d30800000000000000
+      internalID: 4432887330885432954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_138
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 854
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56af62766d0331960800000000000000
+      internalID: 7571449095951678053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_139
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 828
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbf0fd39f0ef8770800000000000000
+      internalID: 8615351973273730037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_140
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 826
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674a844ff008b92d0800000000000000
+      internalID: -3270879898343267210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_141
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 807
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b79493e55e4d28f0800000000000000
+      internalID: -563708247554091079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_142
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 807
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c559dada01e11c0800000000000000
+      internalID: -4531165836960506770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_143
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 786
+        width: 10
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3c37db8e0d413b0800000000000000
+      internalID: -5542575543356767325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_144
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 790
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c0ce0ad3b707ae0800000000000000
+      internalID: -1553606366819775396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_145
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 794
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfad4d05b70767600800000000000000
+      internalID: 465683286418840315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_146
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 753
+        width: 9
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23912726655abd300800000000000000
+      internalID: 277997592450832690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_147
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 771
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177ba6f88e9ac1620800000000000000
+      internalID: 2746256689092802417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_148
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 755
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01dea9630a6c05010800000000000000
+      internalID: 1175657894156889360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_149
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 751
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8916f32e006781130800000000000000
+      internalID: 3537707253467406744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_150
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 749
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f003aa7d228b63560800000000000000
+      internalID: 7293219106359750671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_151
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 732
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8efe9df964769f0800000000000000
+      internalID: -475333583294175072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_152
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 721
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467c76941990f5d00800000000000000
+      internalID: 963499364887021412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_153
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 703
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6716d37fc31287840800000000000000
+      internalID: 5221960313665839478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_154
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 680
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b389fe3f42b2ef710800000000000000
+      internalID: 1728866744668231739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_155
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 193
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05823f978575cbd90800000000000000
+      internalID: -7080688476618545072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_156
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 186
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12ecebd96ac93710800000000000000
+      internalID: 1673591292554961439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_157
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 190
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd36e6ae0f2a20c0800000000000000
+      internalID: -4599812329429385798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_158
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 198
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da2f299d167ab460800000000000000
+      internalID: 7258243618957109971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_159
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 197
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514912572039ea460800000000000000
+      internalID: 7254897688504800277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_160
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 198
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe7d10779ae79cd0800000000000000
+      internalID: -2551312727740154123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsCoconut 1_161
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 189
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57ca4115925a8e50800000000000000
+      internalID: 6812348186545014619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PawsCoconut 1_0: 6737481473580942473
+      PawsCoconut 1_1: 8862168633987376204
+      PawsCoconut 1_10: -8419135551941897985
+      PawsCoconut 1_100: 1933655327463944211
+      PawsCoconut 1_101: -4420726778746454439
+      PawsCoconut 1_102: 1575800137351261429
+      PawsCoconut 1_103: -6073900156935683203
+      PawsCoconut 1_104: -3724273124958664914
+      PawsCoconut 1_105: 1521822861318800939
+      PawsCoconut 1_106: 2392610375259822406
+      PawsCoconut 1_107: -2614199916490697386
+      PawsCoconut 1_108: 3655486488010484056
+      PawsCoconut 1_109: 2169869978517182064
+      PawsCoconut 1_11: 62669731480625388
+      PawsCoconut 1_110: -2472360057819989496
+      PawsCoconut 1_111: -8217459513701646764
+      PawsCoconut 1_112: -2491578426573893680
+      PawsCoconut 1_113: -5220984787542639381
+      PawsCoconut 1_114: 832905393240439155
+      PawsCoconut 1_115: -2184560183931405703
+      PawsCoconut 1_116: -5156934998417674545
+      PawsCoconut 1_117: 4167655509880918259
+      PawsCoconut 1_118: -3611065439672126109
+      PawsCoconut 1_119: -3418722383123378659
+      PawsCoconut 1_12: 8035044479668195940
+      PawsCoconut 1_120: -4361482798651351824
+      PawsCoconut 1_121: -2020160686263382659
+      PawsCoconut 1_122: 2559556795219761748
+      PawsCoconut 1_123: -8418611279479276854
+      PawsCoconut 1_124: 2791623725829130677
+      PawsCoconut 1_125: -5203298812749369640
+      PawsCoconut 1_126: -3485948181311899467
+      PawsCoconut 1_127: -2447348266710669051
+      PawsCoconut 1_128: 5095489492109767307
+      PawsCoconut 1_129: -2929923034818578126
+      PawsCoconut 1_13: -713832904435825061
+      PawsCoconut 1_130: -2228502114928623271
+      PawsCoconut 1_131: -4749049883824113902
+      PawsCoconut 1_132: 1149593891848305356
+      PawsCoconut 1_133: 4110399972648037129
+      PawsCoconut 1_134: -5980871862595764146
+      PawsCoconut 1_135: 4525428108283167529
+      PawsCoconut 1_136: 3773205019460221022
+      PawsCoconut 1_137: 4432887330885432954
+      PawsCoconut 1_138: 7571449095951678053
+      PawsCoconut 1_139: 8615351973273730037
+      PawsCoconut 1_14: -4640118964649654756
+      PawsCoconut 1_140: -3270879898343267210
+      PawsCoconut 1_141: -563708247554091079
+      PawsCoconut 1_142: -4531165836960506770
+      PawsCoconut 1_143: -5542575543356767325
+      PawsCoconut 1_144: -1553606366819775396
+      PawsCoconut 1_145: 465683286418840315
+      PawsCoconut 1_146: 277997592450832690
+      PawsCoconut 1_147: 2746256689092802417
+      PawsCoconut 1_148: 1175657894156889360
+      PawsCoconut 1_149: 3537707253467406744
+      PawsCoconut 1_15: -7459390683626726471
+      PawsCoconut 1_150: 7293219106359750671
+      PawsCoconut 1_151: -475333583294175072
+      PawsCoconut 1_152: 963499364887021412
+      PawsCoconut 1_153: 5221960313665839478
+      PawsCoconut 1_154: 1728866744668231739
+      PawsCoconut 1_155: -7080688476618545072
+      PawsCoconut 1_156: 1673591292554961439
+      PawsCoconut 1_157: -4599812329429385798
+      PawsCoconut 1_158: 7258243618957109971
+      PawsCoconut 1_159: 7254897688504800277
+      PawsCoconut 1_16: 7129147016775533019
+      PawsCoconut 1_160: -2551312727740154123
+      PawsCoconut 1_161: 6812348186545014619
+      PawsCoconut 1_17: 5687359687245783392
+      PawsCoconut 1_18: -6879279122926996478
+      PawsCoconut 1_19: 7269976696440009598
+      PawsCoconut 1_2: 1427340216806253225
+      PawsCoconut 1_20: 3402939435336552850
+      PawsCoconut 1_21: 1292023680602706846
+      PawsCoconut 1_22: -2814077910993762091
+      PawsCoconut 1_23: 2600424294699174863
+      PawsCoconut 1_24: 7221797935689004654
+      PawsCoconut 1_25: -332823893898769709
+      PawsCoconut 1_26: 1363298431392248335
+      PawsCoconut 1_27: -2441931299829489792
+      PawsCoconut 1_28: -7301270447778232761
+      PawsCoconut 1_29: 6461297146183470192
+      PawsCoconut 1_3: 7903292406169631982
+      PawsCoconut 1_30: 5595568636141909873
+      PawsCoconut 1_31: 8486871455408239399
+      PawsCoconut 1_32: -2389960545900702725
+      PawsCoconut 1_33: 8556576577883108738
+      PawsCoconut 1_34: -5610423975796203205
+      PawsCoconut 1_35: -8833588157686893737
+      PawsCoconut 1_36: -3352387690545030671
+      PawsCoconut 1_37: -7981093132235158498
+      PawsCoconut 1_38: 5421892380507104845
+      PawsCoconut 1_39: -208185920474622572
+      PawsCoconut 1_4: -6968755969925935051
+      PawsCoconut 1_40: 3200513314398551170
+      PawsCoconut 1_41: 497902165619812329
+      PawsCoconut 1_42: 4316794885538600657
+      PawsCoconut 1_43: 8529564057902924753
+      PawsCoconut 1_44: 1825898060212734839
+      PawsCoconut 1_45: 209013554996004112
+      PawsCoconut 1_46: -2933864508819674191
+      PawsCoconut 1_47: 5506582059790810645
+      PawsCoconut 1_48: -6481349541663852248
+      PawsCoconut 1_49: 2900051845073513807
+      PawsCoconut 1_5: -4239397545923640740
+      PawsCoconut 1_50: -5230703006891433895
+      PawsCoconut 1_51: -8250989617166774542
+      PawsCoconut 1_52: -2904033973089255593
+      PawsCoconut 1_53: 6924629323376544130
+      PawsCoconut 1_54: -2989357952077834260
+      PawsCoconut 1_55: -3360337443445894147
+      PawsCoconut 1_56: -8953651999680457743
+      PawsCoconut 1_57: -4833011846405123748
+      PawsCoconut 1_58: 4202452913189726505
+      PawsCoconut 1_59: 2946052804473354991
+      PawsCoconut 1_6: -3760461429747461388
+      PawsCoconut 1_60: 1810754674899260329
+      PawsCoconut 1_61: -7794342534803048493
+      PawsCoconut 1_62: 7499608313265612225
+      PawsCoconut 1_63: -8631143483246275187
+      PawsCoconut 1_64: 5273841852011020368
+      PawsCoconut 1_65: -7759378343553121317
+      PawsCoconut 1_66: 7275655033077161866
+      PawsCoconut 1_67: 2708383261769975779
+      PawsCoconut 1_68: 4314091008326647816
+      PawsCoconut 1_69: -1031198083396302714
+      PawsCoconut 1_7: 7440320793131499161
+      PawsCoconut 1_70: -1020638325251349845
+      PawsCoconut 1_71: -5828733421906280207
+      PawsCoconut 1_72: 7331868786583084700
+      PawsCoconut 1_73: -1985945663943375939
+      PawsCoconut 1_74: -8757242353673448258
+      PawsCoconut 1_75: 7732993393063144123
+      PawsCoconut 1_76: 8506184982734205823
+      PawsCoconut 1_77: 2702305803967667815
+      PawsCoconut 1_78: 3301751768001843178
+      PawsCoconut 1_79: 5149945298197715509
+      PawsCoconut 1_8: -6821079444097585779
+      PawsCoconut 1_80: -2715680630452790447
+      PawsCoconut 1_81: 6852297997882598264
+      PawsCoconut 1_82: 1614978231506404991
+      PawsCoconut 1_83: 6048764625219249759
+      PawsCoconut 1_84: -3072038132410314547
+      PawsCoconut 1_85: -624093168456062870
+      PawsCoconut 1_86: 1333826833298691241
+      PawsCoconut 1_87: 8379263551679836329
+      PawsCoconut 1_88: 4176804251212809841
+      PawsCoconut 1_89: -515823569390760268
+      PawsCoconut 1_9: 2592619925310575480
+      PawsCoconut 1_90: -8515387994096524696
+      PawsCoconut 1_91: 203192182821160211
+      PawsCoconut 1_92: -3623328933229949888
+      PawsCoconut 1_93: 6597138620945166129
+      PawsCoconut 1_94: -8634261498224998890
+      PawsCoconut 1_95: 1815711291343841404
+      PawsCoconut 1_96: 1765354197326844579
+      PawsCoconut 1_97: -955774581386412615
+      PawsCoconut 1_98: -5875092038196158914
+      PawsCoconut 1_99: -8812943276325741015
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

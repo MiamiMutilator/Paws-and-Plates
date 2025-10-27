@@ -1,0 +1,7605 @@
+fileFormatVersion: 2
+guid: d54bcdb6010fa0a489205e89bbb2d7b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1666105025677178804
+    second: PawsMatchaPowder 1_0
+  - first:
+      213: 1941918276181053014
+    second: PawsMatchaPowder 1_1
+  - first:
+      213: -6661070466211929125
+    second: PawsMatchaPowder 1_2
+  - first:
+      213: 4460901217797587036
+    second: PawsMatchaPowder 1_3
+  - first:
+      213: 1869783382627958713
+    second: PawsMatchaPowder 1_4
+  - first:
+      213: 8038575955171454648
+    second: PawsMatchaPowder 1_5
+  - first:
+      213: 3935693190519641316
+    second: PawsMatchaPowder 1_6
+  - first:
+      213: 8351945794192984063
+    second: PawsMatchaPowder 1_7
+  - first:
+      213: 7953808794254720973
+    second: PawsMatchaPowder 1_8
+  - first:
+      213: 7640562485781061741
+    second: PawsMatchaPowder 1_9
+  - first:
+      213: -521096066523011556
+    second: PawsMatchaPowder 1_10
+  - first:
+      213: 5053788784875773604
+    second: PawsMatchaPowder 1_11
+  - first:
+      213: -2412550581453605773
+    second: PawsMatchaPowder 1_12
+  - first:
+      213: 8572498143137691015
+    second: PawsMatchaPowder 1_13
+  - first:
+      213: 4135708932388090134
+    second: PawsMatchaPowder 1_14
+  - first:
+      213: -2137331260154368903
+    second: PawsMatchaPowder 1_15
+  - first:
+      213: -6887592278371436588
+    second: PawsMatchaPowder 1_16
+  - first:
+      213: -5314514587801037939
+    second: PawsMatchaPowder 1_17
+  - first:
+      213: -819278725741552912
+    second: PawsMatchaPowder 1_18
+  - first:
+      213: 6940735960617675145
+    second: PawsMatchaPowder 1_19
+  - first:
+      213: -7957902562094550324
+    second: PawsMatchaPowder 1_20
+  - first:
+      213: 8524358597491777407
+    second: PawsMatchaPowder 1_21
+  - first:
+      213: 328532566772885940
+    second: PawsMatchaPowder 1_22
+  - first:
+      213: 7908757177062247787
+    second: PawsMatchaPowder 1_23
+  - first:
+      213: -6723704889623974035
+    second: PawsMatchaPowder 1_24
+  - first:
+      213: 1904157325333734371
+    second: PawsMatchaPowder 1_25
+  - first:
+      213: -1671287818613012427
+    second: PawsMatchaPowder 1_26
+  - first:
+      213: 775155726093230246
+    second: PawsMatchaPowder 1_27
+  - first:
+      213: -6030197824490713612
+    second: PawsMatchaPowder 1_28
+  - first:
+      213: 4473704959380132247
+    second: PawsMatchaPowder 1_29
+  - first:
+      213: 4327522438812429070
+    second: PawsMatchaPowder 1_30
+  - first:
+      213: -6079209992262197046
+    second: PawsMatchaPowder 1_31
+  - first:
+      213: 8887251569943768886
+    second: PawsMatchaPowder 1_32
+  - first:
+      213: -4184175689966534856
+    second: PawsMatchaPowder 1_33
+  - first:
+      213: 3002423202873688768
+    second: PawsMatchaPowder 1_34
+  - first:
+      213: 5301841335276754250
+    second: PawsMatchaPowder 1_35
+  - first:
+      213: -7231548524772198707
+    second: PawsMatchaPowder 1_36
+  - first:
+      213: -5424835629942601239
+    second: PawsMatchaPowder 1_37
+  - first:
+      213: 4396734822438060018
+    second: PawsMatchaPowder 1_38
+  - first:
+      213: -1100174456017129146
+    second: PawsMatchaPowder 1_39
+  - first:
+      213: -7369553188227086850
+    second: PawsMatchaPowder 1_40
+  - first:
+      213: 8903148477984428886
+    second: PawsMatchaPowder 1_41
+  - first:
+      213: 2433383748695763911
+    second: PawsMatchaPowder 1_42
+  - first:
+      213: 8227496432053969583
+    second: PawsMatchaPowder 1_43
+  - first:
+      213: 1810607917071842473
+    second: PawsMatchaPowder 1_44
+  - first:
+      213: 370235289644166922
+    second: PawsMatchaPowder 1_45
+  - first:
+      213: 8757545134840372630
+    second: PawsMatchaPowder 1_46
+  - first:
+      213: 4519965966798970577
+    second: PawsMatchaPowder 1_47
+  - first:
+      213: 8545559827881708741
+    second: PawsMatchaPowder 1_48
+  - first:
+      213: 6378769239605133048
+    second: PawsMatchaPowder 1_49
+  - first:
+      213: 3380923373493526854
+    second: PawsMatchaPowder 1_50
+  - first:
+      213: 6879652145488017333
+    second: PawsMatchaPowder 1_51
+  - first:
+      213: -8313857276197083331
+    second: PawsMatchaPowder 1_52
+  - first:
+      213: 4552189356712660338
+    second: PawsMatchaPowder 1_53
+  - first:
+      213: 1671435320804834208
+    second: PawsMatchaPowder 1_54
+  - first:
+      213: 4012391316701795207
+    second: PawsMatchaPowder 1_55
+  - first:
+      213: 2244616999558796384
+    second: PawsMatchaPowder 1_56
+  - first:
+      213: 8270656263519450316
+    second: PawsMatchaPowder 1_57
+  - first:
+      213: 2608858366103092764
+    second: PawsMatchaPowder 1_58
+  - first:
+      213: 8499348857207968848
+    second: PawsMatchaPowder 1_59
+  - first:
+      213: -7796087749578646926
+    second: PawsMatchaPowder 1_60
+  - first:
+      213: -3773996454555627151
+    second: PawsMatchaPowder 1_61
+  - first:
+      213: 6954277283575875891
+    second: PawsMatchaPowder 1_62
+  - first:
+      213: -7712284892579438207
+    second: PawsMatchaPowder 1_63
+  - first:
+      213: -6591947344574832310
+    second: PawsMatchaPowder 1_64
+  - first:
+      213: 7856635500150612654
+    second: PawsMatchaPowder 1_65
+  - first:
+      213: -3155445534991618251
+    second: PawsMatchaPowder 1_66
+  - first:
+      213: -4458993468401425439
+    second: PawsMatchaPowder 1_67
+  - first:
+      213: 685974032282898853
+    second: PawsMatchaPowder 1_68
+  - first:
+      213: -4969077987066525608
+    second: PawsMatchaPowder 1_69
+  - first:
+      213: 2338298882959351041
+    second: PawsMatchaPowder 1_70
+  - first:
+      213: -6550069904129383966
+    second: PawsMatchaPowder 1_71
+  - first:
+      213: -3015992626523289486
+    second: PawsMatchaPowder 1_72
+  - first:
+      213: -2505006790157501945
+    second: PawsMatchaPowder 1_73
+  - first:
+      213: 3859432107749684278
+    second: PawsMatchaPowder 1_74
+  - first:
+      213: 1747043279082014051
+    second: PawsMatchaPowder 1_75
+  - first:
+      213: 2869740756508512595
+    second: PawsMatchaPowder 1_76
+  - first:
+      213: 1765463169758520745
+    second: PawsMatchaPowder 1_77
+  - first:
+      213: -1901144329782384505
+    second: PawsMatchaPowder 1_78
+  - first:
+      213: -8960185398229125212
+    second: PawsMatchaPowder 1_79
+  - first:
+      213: 8759772243974009280
+    second: PawsMatchaPowder 1_80
+  - first:
+      213: 5773487159868222865
+    second: PawsMatchaPowder 1_81
+  - first:
+      213: -8006959746325281407
+    second: PawsMatchaPowder 1_82
+  - first:
+      213: -8681043604180487666
+    second: PawsMatchaPowder 1_83
+  - first:
+      213: -1840753170821782205
+    second: PawsMatchaPowder 1_84
+  - first:
+      213: -5502656707625482619
+    second: PawsMatchaPowder 1_85
+  - first:
+      213: 6015595964212459299
+    second: PawsMatchaPowder 1_86
+  - first:
+      213: 5173157223817210530
+    second: PawsMatchaPowder 1_87
+  - first:
+      213: -8069591083958120262
+    second: PawsMatchaPowder 1_88
+  - first:
+      213: 64368219537761040
+    second: PawsMatchaPowder 1_89
+  - first:
+      213: 1085730190419115630
+    second: PawsMatchaPowder 1_90
+  - first:
+      213: -8881395441549486828
+    second: PawsMatchaPowder 1_91
+  - first:
+      213: -8988100253249078332
+    second: PawsMatchaPowder 1_92
+  - first:
+      213: -2501010931306529021
+    second: PawsMatchaPowder 1_93
+  - first:
+      213: -6757005539689031829
+    second: PawsMatchaPowder 1_94
+  - first:
+      213: -822309906389617889
+    second: PawsMatchaPowder 1_95
+  - first:
+      213: -5574786453823407624
+    second: PawsMatchaPowder 1_96
+  - first:
+      213: 2130333154867395451
+    second: PawsMatchaPowder 1_97
+  - first:
+      213: 3994174961487280418
+    second: PawsMatchaPowder 1_98
+  - first:
+      213: 8763888770698503617
+    second: PawsMatchaPowder 1_99
+  - first:
+      213: 3163354707209579496
+    second: PawsMatchaPowder 1_100
+  - first:
+      213: -533402944069934941
+    second: PawsMatchaPowder 1_101
+  - first:
+      213: 53434054122058212
+    second: PawsMatchaPowder 1_102
+  - first:
+      213: -7547692019875871847
+    second: PawsMatchaPowder 1_103
+  - first:
+      213: -533987091995374508
+    second: PawsMatchaPowder 1_104
+  - first:
+      213: -4229105353572681810
+    second: PawsMatchaPowder 1_105
+  - first:
+      213: 1851919286752458826
+    second: PawsMatchaPowder 1_106
+  - first:
+      213: -710027746352242517
+    second: PawsMatchaPowder 1_107
+  - first:
+      213: 6343155278304788453
+    second: PawsMatchaPowder 1_108
+  - first:
+      213: -6553401705357860522
+    second: PawsMatchaPowder 1_109
+  - first:
+      213: 4473964327098454639
+    second: PawsMatchaPowder 1_110
+  - first:
+      213: -9199279857673567037
+    second: PawsMatchaPowder 1_111
+  - first:
+      213: 7514744535158838982
+    second: PawsMatchaPowder 1_112
+  - first:
+      213: 4412532242117216254
+    second: PawsMatchaPowder 1_113
+  - first:
+      213: -7057507667794178928
+    second: PawsMatchaPowder 1_114
+  - first:
+      213: -5946210728697631546
+    second: PawsMatchaPowder 1_115
+  - first:
+      213: -8007563694893904957
+    second: PawsMatchaPowder 1_116
+  - first:
+      213: 809210365220012440
+    second: PawsMatchaPowder 1_117
+  - first:
+      213: -6940782146963636828
+    second: PawsMatchaPowder 1_118
+  - first:
+      213: 495344431784599109
+    second: PawsMatchaPowder 1_119
+  - first:
+      213: 5941147474954029491
+    second: PawsMatchaPowder 1_120
+  - first:
+      213: -5991409762706408752
+    second: PawsMatchaPowder 1_121
+  - first:
+      213: -6415425021906455456
+    second: PawsMatchaPowder 1_122
+  - first:
+      213: 5248943814124698156
+    second: PawsMatchaPowder 1_123
+  - first:
+      213: -414580057033513378
+    second: PawsMatchaPowder 1_124
+  - first:
+      213: 2117619250988451055
+    second: PawsMatchaPowder 1_125
+  - first:
+      213: -7522442496938590028
+    second: PawsMatchaPowder 1_126
+  - first:
+      213: -4140712616450381573
+    second: PawsMatchaPowder 1_127
+  - first:
+      213: -654986645320595342
+    second: PawsMatchaPowder 1_128
+  - first:
+      213: -3891686858850150600
+    second: PawsMatchaPowder 1_129
+  - first:
+      213: 2730719654865095203
+    second: PawsMatchaPowder 1_130
+  - first:
+      213: -4338353767526181806
+    second: PawsMatchaPowder 1_131
+  - first:
+      213: -2354226533193946689
+    second: PawsMatchaPowder 1_132
+  - first:
+      213: 2139602094583368357
+    second: PawsMatchaPowder 1_133
+  - first:
+      213: 7426064162123920466
+    second: PawsMatchaPowder 1_134
+  - first:
+      213: 510860653204348040
+    second: PawsMatchaPowder 1_135
+  - first:
+      213: 4537669489345699205
+    second: PawsMatchaPowder 1_136
+  - first:
+      213: -1758195376112938733
+    second: PawsMatchaPowder 1_137
+  - first:
+      213: -6097053327790958048
+    second: PawsMatchaPowder 1_138
+  - first:
+      213: 5145519595506750688
+    second: PawsMatchaPowder 1_139
+  - first:
+      213: 6444402979682514770
+    second: PawsMatchaPowder 1_140
+  - first:
+      213: 2845923853465987713
+    second: PawsMatchaPowder 1_141
+  - first:
+      213: 4107357999770151715
+    second: PawsMatchaPowder 1_142
+  - first:
+      213: -595398949813444773
+    second: PawsMatchaPowder 1_143
+  - first:
+      213: -6604195001514965280
+    second: PawsMatchaPowder 1_144
+  - first:
+      213: -232221777500081720
+    second: PawsMatchaPowder 1_145
+  - first:
+      213: 6301365859559565929
+    second: PawsMatchaPowder 1_146
+  - first:
+      213: -5107016300360671452
+    second: PawsMatchaPowder 1_147
+  - first:
+      213: -6848777428723898879
+    second: PawsMatchaPowder 1_148
+  - first:
+      213: 2272781993639331504
+    second: PawsMatchaPowder 1_149
+  - first:
+      213: 43065840580175529
+    second: PawsMatchaPowder 1_150
+  - first:
+      213: -6451476501191244032
+    second: PawsMatchaPowder 1_151
+  - first:
+      213: 2302421397196956109
+    second: PawsMatchaPowder 1_152
+  - first:
+      213: -3954564538217947419
+    second: PawsMatchaPowder 1_153
+  - first:
+      213: 3970383938057160914
+    second: PawsMatchaPowder 1_154
+  - first:
+      213: 3209119411580147327
+    second: PawsMatchaPowder 1_155
+  - first:
+      213: -7071286300067481357
+    second: PawsMatchaPowder 1_156
+  - first:
+      213: -8984815354705968913
+    second: PawsMatchaPowder 1_157
+  - first:
+      213: 3471569530560188912
+    second: PawsMatchaPowder 1_158
+  - first:
+      213: 5214501151139034986
+    second: PawsMatchaPowder 1_159
+  - first:
+      213: 300284921769795613
+    second: PawsMatchaPowder 1_160
+  - first:
+      213: -7825582265126605774
+    second: PawsMatchaPowder 1_161
+  - first:
+      213: -2909547756907552948
+    second: PawsMatchaPowder 1_162
+  - first:
+      213: 593818882645437514
+    second: PawsMatchaPowder 1_163
+  - first:
+      213: 7328011594275793263
+    second: PawsMatchaPowder 1_164
+  - first:
+      213: 5138508069553932484
+    second: PawsMatchaPowder 1_165
+  - first:
+      213: 66881986880038073
+    second: PawsMatchaPowder 1_166
+  - first:
+      213: 1069260794566595032
+    second: PawsMatchaPowder 1_167
+  - first:
+      213: -1107154554425345323
+    second: PawsMatchaPowder 1_168
+  - first:
+      213: 1873819244810710173
+    second: PawsMatchaPowder 1_169
+  - first:
+      213: 1500166865741374875
+    second: PawsMatchaPowder 1_170
+  - first:
+      213: -129200617547798681
+    second: PawsMatchaPowder 1_171
+  - first:
+      213: 2756639784191778669
+    second: PawsMatchaPowder 1_172
+  - first:
+      213: -7872630297556162963
+    second: PawsMatchaPowder 1_173
+  - first:
+      213: 1219186423621585693
+    second: PawsMatchaPowder 1_174
+  - first:
+      213: 1386507737183982895
+    second: PawsMatchaPowder 1_175
+  - first:
+      213: 1560363879594475288
+    second: PawsMatchaPowder 1_176
+  - first:
+      213: 6909517849477098268
+    second: PawsMatchaPowder 1_177
+  - first:
+      213: -2669668297888258379
+    second: PawsMatchaPowder 1_178
+  - first:
+      213: -3879796247233611745
+    second: PawsMatchaPowder 1_179
+  - first:
+      213: -8801735706211798518
+    second: PawsMatchaPowder 1_180
+  - first:
+      213: 1641368005870730458
+    second: PawsMatchaPowder 1_181
+  - first:
+      213: -7326280494500686834
+    second: PawsMatchaPowder 1_182
+  - first:
+      213: 5621443745044365229
+    second: PawsMatchaPowder 1_183
+  - first:
+      213: 188910330612570071
+    second: PawsMatchaPowder 1_184
+  - first:
+      213: 8286062128590472899
+    second: PawsMatchaPowder 1_185
+  - first:
+      213: 7765636473826825642
+    second: PawsMatchaPowder 1_186
+  - first:
+      213: -8706600340177109829
+    second: PawsMatchaPowder 1_187
+  - first:
+      213: -5672589391843229204
+    second: PawsMatchaPowder 1_188
+  - first:
+      213: -5373979153982193488
+    second: PawsMatchaPowder 1_189
+  - first:
+      213: 1244840735013521353
+    second: PawsMatchaPowder 1_190
+  - first:
+      213: -2135233208778576012
+    second: PawsMatchaPowder 1_191
+  - first:
+      213: 4245443377140812881
+    second: PawsMatchaPowder 1_192
+  - first:
+      213: 8707707202371095563
+    second: PawsMatchaPowder 1_193
+  - first:
+      213: -3610489886572800881
+    second: PawsMatchaPowder 1_194
+  - first:
+      213: -7613163267376403114
+    second: PawsMatchaPowder 1_195
+  - first:
+      213: 6296597642361712377
+    second: PawsMatchaPowder 1_196
+  - first:
+      213: 7966117482663299532
+    second: PawsMatchaPowder 1_197
+  - first:
+      213: -6940101061369764214
+    second: PawsMatchaPowder 1_198
+  - first:
+      213: 4653763083562680043
+    second: PawsMatchaPowder 1_199
+  - first:
+      213: -2448308119042518248
+    second: PawsMatchaPowder 1_200
+  - first:
+      213: -7719355841775037118
+    second: PawsMatchaPowder 1_201
+  - first:
+      213: -83087281220784789
+    second: PawsMatchaPowder 1_202
+  - first:
+      213: -6913601430112190594
+    second: PawsMatchaPowder 1_203
+  - first:
+      213: 6251480530445012321
+    second: PawsMatchaPowder 1_204
+  - first:
+      213: 8887365546976908853
+    second: PawsMatchaPowder 1_205
+  - first:
+      213: -6901573601261422071
+    second: PawsMatchaPowder 1_206
+  - first:
+      213: -1983680064078529355
+    second: PawsMatchaPowder 1_207
+  - first:
+      213: 2271942430626504863
+    second: PawsMatchaPowder 1_208
+  - first:
+      213: -1398895874541261178
+    second: PawsMatchaPowder 1_209
+  - first:
+      213: -3223424555968167390
+    second: PawsMatchaPowder 1_210
+  - first:
+      213: -2599368525447226128
+    second: PawsMatchaPowder 1_211
+  - first:
+      213: -7228323391819907055
+    second: PawsMatchaPowder 1_212
+  - first:
+      213: 1117852072192973890
+    second: PawsMatchaPowder 1_213
+  - first:
+      213: 1546419267316618737
+    second: PawsMatchaPowder 1_214
+  - first:
+      213: -5614128336206839178
+    second: PawsMatchaPowder 1_215
+  - first:
+      213: -4207697493123770051
+    second: PawsMatchaPowder 1_216
+  - first:
+      213: -4955136132635124396
+    second: PawsMatchaPowder 1_217
+  - first:
+      213: -4245096366166485970
+    second: PawsMatchaPowder 1_218
+  - first:
+      213: -418845160884132574
+    second: PawsMatchaPowder 1_219
+  - first:
+      213: 5300190454448484057
+    second: PawsMatchaPowder 1_220
+  - first:
+      213: -517143902499127809
+    second: PawsMatchaPowder 1_221
+  - first:
+      213: -4197702495843010565
+    second: PawsMatchaPowder 1_222
+  - first:
+      213: -342046294929197972
+    second: PawsMatchaPowder 1_223
+  - first:
+      213: 6976348218579000078
+    second: PawsMatchaPowder 1_224
+  - first:
+      213: 8331422123872720545
+    second: PawsMatchaPowder 1_225
+  - first:
+      213: 4963369363144551690
+    second: PawsMatchaPowder 1_226
+  - first:
+      213: -9129352970141868723
+    second: PawsMatchaPowder 1_227
+  - first:
+      213: 4173500959615353354
+    second: PawsMatchaPowder 1_228
+  - first:
+      213: -274549992304620356
+    second: PawsMatchaPowder 1_229
+  - first:
+      213: -4989794618605113858
+    second: PawsMatchaPowder 1_230
+  - first:
+      213: -2928702849753841311
+    second: PawsMatchaPowder 1_231
+  - first:
+      213: 1001399860886140199
+    second: PawsMatchaPowder 1_232
+  - first:
+      213: -941510829256393046
+    second: PawsMatchaPowder 1_233
+  - first:
+      213: 2645062463324551953
+    second: PawsMatchaPowder 1_234
+  - first:
+      213: 6595235412011820
+    second: PawsMatchaPowder 1_235
+  - first:
+      213: 4356747298768109164
+    second: PawsMatchaPowder 1_236
+  - first:
+      213: -4650631770565587137
+    second: PawsMatchaPowder 1_237
+  - first:
+      213: -5141432621832487016
+    second: PawsMatchaPowder 1_238
+  - first:
+      213: -6134610200325305756
+    second: PawsMatchaPowder 1_239
+  - first:
+      213: -8917026341915054557
+    second: PawsMatchaPowder 1_240
+  - first:
+      213: -8434785680359052170
+    second: PawsMatchaPowder 1_241
+  - first:
+      213: 2280808264751895491
+    second: PawsMatchaPowder 1_242
+  - first:
+      213: -5348987711493250427
+    second: PawsMatchaPowder 1_243
+  - first:
+      213: -3045657001395680344
+    second: PawsMatchaPowder 1_244
+  - first:
+      213: -4627430567688111090
+    second: PawsMatchaPowder 1_245
+  - first:
+      213: -2191053451114936176
+    second: PawsMatchaPowder 1_246
+  - first:
+      213: -6109642942233869427
+    second: PawsMatchaPowder 1_247
+  - first:
+      213: -4092873618205742654
+    second: PawsMatchaPowder 1_248
+  - first:
+      213: 3378133606281645258
+    second: PawsMatchaPowder 1_249
+  - first:
+      213: -3820163477810083053
+    second: PawsMatchaPowder 1_250
+  - first:
+      213: 2227322452875924405
+    second: PawsMatchaPowder 1_251
+  - first:
+      213: 427578489376366095
+    second: PawsMatchaPowder 1_252
+  - first:
+      213: -6414623131616056861
+    second: PawsMatchaPowder 1_253
+  - first:
+      213: -4857785198072148000
+    second: PawsMatchaPowder 1_254
+  - first:
+      213: -7261095198944207073
+    second: PawsMatchaPowder 1_255
+  - first:
+      213: 1562748305028950848
+    second: PawsMatchaPowder 1_256
+  - first:
+      213: -7957525374786347945
+    second: PawsMatchaPowder 1_257
+  - first:
+      213: 4881931945897577052
+    second: PawsMatchaPowder 1_258
+  - first:
+      213: 5181596584551835458
+    second: PawsMatchaPowder 1_259
+  - first:
+      213: 3730659908040972286
+    second: PawsMatchaPowder 1_260
+  - first:
+      213: -1903526539033053961
+    second: PawsMatchaPowder 1_261
+  - first:
+      213: -4739607105387254292
+    second: PawsMatchaPowder 1_262
+  - first:
+      213: 2589889143915527519
+    second: PawsMatchaPowder 1_263
+  - first:
+      213: -4431607364945937157
+    second: PawsMatchaPowder 1_264
+  - first:
+      213: 3755860446197978552
+    second: PawsMatchaPowder 1_265
+  - first:
+      213: 8891016610065250388
+    second: PawsMatchaPowder 1_266
+  - first:
+      213: -5818670808831464680
+    second: PawsMatchaPowder 1_267
+  - first:
+      213: -3890181011849732143
+    second: PawsMatchaPowder 1_268
+  - first:
+      213: -3808604196742977368
+    second: PawsMatchaPowder 1_269
+  - first:
+      213: 5390905698986576016
+    second: PawsMatchaPowder 1_270
+  - first:
+      213: 4627119323372320521
+    second: PawsMatchaPowder 1_271
+  - first:
+      213: 2202363354812088984
+    second: PawsMatchaPowder 1_272
+  - first:
+      213: -6445246607848024302
+    second: PawsMatchaPowder 1_273
+  - first:
+      213: 2759494406707534235
+    second: PawsMatchaPowder 1_274
+  - first:
+      213: -7599707297633428511
+    second: PawsMatchaPowder 1_275
+  - first:
+      213: 2177522672655590873
+    second: PawsMatchaPowder 1_276
+  - first:
+      213: 8511123026781665209
+    second: PawsMatchaPowder 1_277
+  - first:
+      213: 2695874647763838733
+    second: PawsMatchaPowder 1_278
+  - first:
+      213: -7849568284236520557
+    second: PawsMatchaPowder 1_279
+  - first:
+      213: 2554578281862613152
+    second: PawsMatchaPowder 1_280
+  - first:
+      213: -7538432124303908113
+    second: PawsMatchaPowder 1_281
+  - first:
+      213: -8141387018836878902
+    second: PawsMatchaPowder 1_282
+  - first:
+      213: -627339364339420236
+    second: PawsMatchaPowder 1_283
+  - first:
+      213: 5122371032432624905
+    second: PawsMatchaPowder 1_284
+  - first:
+      213: -1652497244282107299
+    second: PawsMatchaPowder 1_285
+  - first:
+      213: -522608048054009913
+    second: PawsMatchaPowder 1_286
+  - first:
+      213: 1074912347791890045
+    second: PawsMatchaPowder 1_287
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_0
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1570
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48c40a7e4ec0e8e0800000000000000
+      internalID: -1666105025677178804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_1
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1573
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e4c9a226413fa10800000000000000
+      internalID: 1941918276181053014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_2
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1557
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3a79de3bf1f83a0800000000000000
+      internalID: -6661070466211929125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_3
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1558
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50cee0d50e48ed30800000000000000
+      internalID: 4460901217797587036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_4
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1562
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfb778741ec2f910800000000000000
+      internalID: 1869783382627958713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_5
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1570
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8beadf3bd32ce8f60800000000000000
+      internalID: 8038575955171454648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_6
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 472
+        width: 1071
+        height: 1090
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4d8d5ca146e9630800000000000000
+      internalID: 3935693190519641316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_7
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1538
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7c036037218e370800000000000000
+      internalID: 8351945794192984063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_8
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1557
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf3ee015fa916e60800000000000000
+      internalID: 7953808794254720973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_9
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1549
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60e721791bb80a60800000000000000
+      internalID: 7640562485781061741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_10
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1552
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16ea0d63e1b4c8f0800000000000000
+      internalID: -521096066523011556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_11
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1546
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae9f5caf1aa22640800000000000000
+      internalID: 5053788784875773604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_12
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1540
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374bbc54706e48ed0800000000000000
+      internalID: -2412550581453605773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_13
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1540
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785fa6364a1a7f670800000000000000
+      internalID: 8572498143137691015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_14
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1533
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611f661bc5df46930800000000000000
+      internalID: 4135708932388090134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_15
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1533
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c292ffa8ca652e0800000000000000
+      internalID: -2137331260154368903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_16
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1529
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d772f9905b5a60a0800000000000000
+      internalID: -6887592278371436588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_17
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1531
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83dc70d32d0f36b0800000000000000
+      internalID: -5314514587801037939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_18
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1516
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fad324f65651a4f0800000000000000
+      internalID: -819278725741552912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_19
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 791
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98965642592725060800000000000000
+      internalID: 6940735960617675145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_20
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 784
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2fe2558c9df8190800000000000000
+      internalID: -7957902562094550324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_21
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 731
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f5b8dfafa9c4670800000000000000
+      internalID: 8524358597491777407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_22
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 763
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b925abf0ae2f8400800000000000000
+      internalID: 328532566772885940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_23
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 740
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dcd9900cc81cd60800000000000000
+      internalID: 7908757177062247787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_24
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 726
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fe76fc60a90b2a0800000000000000
+      internalID: -6723704889623974035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_25
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 738
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3a9fcaffcec6a10800000000000000
+      internalID: 1904157325333734371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_26
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 727
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538422675946ec8e0800000000000000
+      internalID: -1671287818613012427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_27
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 699
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0a563a608e1ca00800000000000000
+      internalID: 775155726093230246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_28
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 726
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdc5e9270f605ca0800000000000000
+      internalID: -6030197824490713612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_29
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 683
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79191c535fac51e30800000000000000
+      internalID: 4473704959380132247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_30
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 685
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b62fadab27e0c30800000000000000
+      internalID: 4327522438812429070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_31
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 708
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0e43898be42aba0800000000000000
+      internalID: -6079209992262197046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_32
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 700
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fe708573cd55b70800000000000000
+      internalID: 8887251569943768886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_33
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 668
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f38b1f062dee5c0800000000000000
+      internalID: -4184175689966534856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_34
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 686
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c24da8deffbaa920800000000000000
+      internalID: 3002423202873688768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_35
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 677
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4557a4aa9ce39940800000000000000
+      internalID: 5301841335276754250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_36
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 681
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6f3fc5ee064ab90800000000000000
+      internalID: -7231548524772198707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_37
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 665
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e983609cbc17b4b0800000000000000
+      internalID: -5424835629942601239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_38
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 664
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffb20fa607540d30800000000000000
+      internalID: 4396734822438060018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_39
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 667
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641f32649256bb0f0800000000000000
+      internalID: -1100174456017129146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_40
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 669
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5806ebb661ab990800000000000000
+      internalID: -7369553188227086850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_41
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 440
+        width: 144
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65352dcae565e8b70800000000000000
+      internalID: 8903148477984428886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_42
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 653
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb283770ad15c120800000000000000
+      internalID: 2433383748695763911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_43
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 646
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2ee5fe960fd2270800000000000000
+      internalID: 8227496432053969583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_44
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 655
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acb39cbe42902910800000000000000
+      internalID: 1810607917071842473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_45
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 623
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fed8ac807532500800000000000000
+      internalID: 370235289644166922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_46
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 651
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d5c9296ec098970800000000000000
+      internalID: 8757545134840372630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_47
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 648
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de58e759152abe30800000000000000
+      internalID: 4519965966798970577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_48
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 655
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ccccbb136de79670800000000000000
+      internalID: 8545559827881708741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_49
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 480
+        width: 96
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe3ad6c3d0f58850800000000000000
+      internalID: 6378769239605133048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_50
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 606
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641a5e135e37bee20800000000000000
+      internalID: 3380923373493526854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_51
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 636
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b731162d2f697f50800000000000000
+      internalID: 6879652145488017333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_52
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 640
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37e9f22bde3f9c80800000000000000
+      internalID: -8313857276197083331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_53
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 620
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d0c25f910ac2f30800000000000000
+      internalID: 4552189356712660338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_54
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 641
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abfc919191223710800000000000000
+      internalID: 1671435320804834208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_55
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 638
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7835fdbd4a0eea730800000000000000
+      internalID: 4012391316701795207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_56
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 614
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0645183c44b762f10800000000000000
+      internalID: 2244616999558796384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_57
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 620
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4bf664d0647c270800000000000000
+      internalID: 8270656263519450316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_58
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 626
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e71e49cd6843420800000000000000
+      internalID: 2608858366103092764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_59
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 621
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054d00011c0c3f570800000000000000
+      internalID: 8499348857207968848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_60
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 628
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a17984f7bbec390800000000000000
+      internalID: -7796087749578646926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_61
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 632
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171d0a6583210abc0800000000000000
+      internalID: -3773996454555627151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_62
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 609
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339cb15185e828060800000000000000
+      internalID: 6954277283575875891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_63
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 611
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181e03b60c578f490800000000000000
+      internalID: -7712284892579438207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_64
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 612
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41a984d0d2b484a0800000000000000
+      internalID: -6591947344574832310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_65
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 588
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea263347c50680d60800000000000000
+      internalID: 7856635500150612654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_66
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 609
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f6bb2110b9534d0800000000000000
+      internalID: -3155445534991618251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_67
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 609
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e36524b0197e12c0800000000000000
+      internalID: -4458993468401425439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_68
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 617
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a15d577fb1158900800000000000000
+      internalID: 685974032282898853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_69
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 613
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858cfa7e5e94a0bb0800000000000000
+      internalID: -4969077987066525608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_70
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 590
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d1c79f17e437020800000000000000
+      internalID: 2338298882959351041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_71
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 596
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1246e302a7915a0800000000000000
+      internalID: -6550069904129383966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_72
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 600
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278c1e28faa0526d0800000000000000
+      internalID: -3015992626523289486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_73
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 557
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a78b0b89d6c3dd0800000000000000
+      internalID: -2505006790157501945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_74
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 583
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6343829cd057f8530800000000000000
+      internalID: 3859432107749684278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_75
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 557
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365cae82b9ebe3810800000000000000
+      internalID: 1747043279082014051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_76
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 589
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3519625730e53d720800000000000000
+      internalID: 2869740756508512595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_77
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 559
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5ed79266f208810800000000000000
+      internalID: 1765463169758520745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_78
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 569
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788a2940e47cd95e0800000000000000
+      internalID: -1901144329782384505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_79
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 571
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a739e87ad607a380800000000000000
+      internalID: -8960185398229125212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_80
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 557
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1b563d176f09970800000000000000
+      internalID: 8759772243974009280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_81
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 561
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d693f8bfb8f1050800000000000000
+      internalID: 5773487159868222865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_82
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 544
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1850e6d888091e090800000000000000
+      internalID: -8006959746325281407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_83
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 548
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02352d06dcb68780800000000000000
+      internalID: -8681043604180487666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_84
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 547
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3456efd6eb45476e0800000000000000
+      internalID: -1840753170821782205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_85
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 551
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5860015f0e2a2a3b0800000000000000
+      internalID: -5502656707625482619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_86
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 554
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327382f48a0bb7350800000000000000
+      internalID: 6015595964212459299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_87
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 535
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aaeed4261fbac740800000000000000
+      internalID: 5173157223817210530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_88
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 546
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab05406e9ad030090800000000000000
+      internalID: -8069591083958120262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_89
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 543
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0136f5cfd8ea4e000800000000000000
+      internalID: 64368219537761040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_90
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 516
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e39d11bd9411f00800000000000000
+      internalID: 1085730190419115630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_91
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 542
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4155bacc6e1feb480800000000000000
+      internalID: -8881395441549486828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_92
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 537
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb7d7fc07ad34380800000000000000
+      internalID: -8988100253249078332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_93
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 535
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ffa141fcf9a4dd0800000000000000
+      internalID: -2501010931306529021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_94
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 533
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b671d75034b4a32a0800000000000000
+      internalID: -6757005539689031829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_95
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 489
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13bc563f719694f0800000000000000
+      internalID: -822309906389617889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_96
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 524
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f93239b14162a2b0800000000000000
+      internalID: -5574786453823407624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_97
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 534
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bbb15a7b6709d10800000000000000
+      internalID: 2130333154867395451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_98
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 531
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229753627f82e6730800000000000000
+      internalID: 3994174961487280418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_99
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 530
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5e48467669f9970800000000000000
+      internalID: 8763888770698503617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_100
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 518
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb69c5985e76eb20800000000000000
+      internalID: 3163354707209579496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_101
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 501
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0609439d8f898f0800000000000000
+      internalID: -533402944069934941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_102
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 498
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1bad63df5ddb000800000000000000
+      internalID: 53434054122058212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_103
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 514
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9938f39e816314790800000000000000
+      internalID: -7547692019875871847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_104
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 515
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45cc8faa195e698f0800000000000000
+      internalID: -533987091995374508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_105
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 494
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7f89276133f45c0800000000000000
+      internalID: -4229105353572681810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_106
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 522
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48339787c653b910800000000000000
+      internalID: 1851919286752458826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_107
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 519
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0e00ec6897526f0800000000000000
+      internalID: -710027746352242517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_108
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 516
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef308e3e1a670850800000000000000
+      internalID: 6343155278304788453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_109
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 503
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651a4b1ded3ad05a0800000000000000
+      internalID: -6553401705357860522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_110
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 487
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f621976f9d6b61e30800000000000000
+      internalID: 4473964327098454639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_111
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 497
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c406f595b7955080800000000000000
+      internalID: -9199279857673567037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_112
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 494
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c653f3075cb94860800000000000000
+      internalID: 7514744535158838982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_113
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 500
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7ca5312b67c3d30800000000000000
+      internalID: 4412532242117216254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_114
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 500
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c488d1b22be0e90800000000000000
+      internalID: -7057507667794178928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_115
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 503
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc6c5cb8d0da7da0800000000000000
+      internalID: -5946210728697631546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_116
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 487
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbc881de3b6fd090800000000000000
+      internalID: -8007563694893904957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_117
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 495
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891c08f2a84ea3b00800000000000000
+      internalID: 809210365220012440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_118
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 488
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adfbd249636daf90800000000000000
+      internalID: -6940782146963636828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_119
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 499
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e1df1e221dfd600800000000000000
+      internalID: 495344431784599109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_120
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 498
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b908d2a622337250800000000000000
+      internalID: 5941147474954029491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_121
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 498
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dab31e809c3adca0800000000000000
+      internalID: -5991409762706408752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_122
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 446
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064fc16dee4d7f6a0800000000000000
+      internalID: -6415425021906455456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_123
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 482
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2af2eeb69ef7d840800000000000000
+      internalID: 5248943814124698156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_124
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 501
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e566e8972ad1f3af0800000000000000
+      internalID: -414580057033513378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_125
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 497
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe402b83d7b436d10800000000000000
+      internalID: 2117619250988451055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_126
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 450
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b04ca6976aea9790800000000000000
+      internalID: -7522442496938590028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_127
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 481
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf82f7350db3986c0800000000000000
+      internalID: -4140712616450381573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_128
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 503
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2788a09cd1509e6f0800000000000000
+      internalID: -654986645320595342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_129
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 488
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8375e21cb63fdf9c0800000000000000
+      internalID: -3891686858850150600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_130
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 487
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a4961ee0775e520800000000000000
+      internalID: 2730719654865095203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_131
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 492
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254df98eb321bc3c0800000000000000
+      internalID: -4338353767526181806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_132
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 488
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9ec28f07b145fd0800000000000000
+      internalID: -2354226533193946689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_133
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 487
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aac258d4c461bd10800000000000000
+      internalID: 2139602094583368357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_134
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 492
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254b7aea20eae0760800000000000000
+      internalID: 7426064162123920466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_135
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 482
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c18f3be01f61700800000000000000
+      internalID: 510860653204348040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_136
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 476
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d1494eb5a09fe30800000000000000
+      internalID: 4537669489345699205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_137
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 491
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311dd09ee92a997e0800000000000000
+      internalID: -1758195376112938733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_138
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 492
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a186c4d4ae26ba0800000000000000
+      internalID: -6097053327790958048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_139
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 486
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4ddfa5fce886740800000000000000
+      internalID: 5145519595506750688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_140
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 490
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257f179bd5e1f6950800000000000000
+      internalID: 6444402979682514770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_141
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 481
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18aa6a79aa0ce7720800000000000000
+      internalID: 2845923853465987713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_142
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 495
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ba8adc654400930800000000000000
+      internalID: 4107357999770151715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_143
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 494
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f9ab84fc7bcb7f0800000000000000
+      internalID: -595398949813444773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_144
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 477
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e64a4bf2af2954a0800000000000000
+      internalID: -6604195001514965280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_145
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 464
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c17ff2168bf6ccf0800000000000000
+      internalID: -232221777500081720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_146
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 486
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a62dafcd2f27750800000000000000
+      internalID: 6301365859559565929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_147
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 468
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f5fd2abbb3029b0800000000000000
+      internalID: -5107016300360671452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_148
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 487
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106e237073144f0a0800000000000000
+      internalID: -6848777428723898879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_149
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 431
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6c6c67e2b8a8f10800000000000000
+      internalID: 2272781993639331504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_150
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 479
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a62cb16720099000800000000000000
+      internalID: 43065840580175529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_151
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 474
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00747b5bd40c776a0800000000000000
+      internalID: -6451476501191244032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_152
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 475
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1ee2fdf08d3ff10800000000000000
+      internalID: 2302421397196956109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_153
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 469
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee992231809e19c0800000000000000
+      internalID: -3954564538217947419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_154
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 466
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d840d9d723a91730800000000000000
+      internalID: 3970383938057160914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_155
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 455
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f769b092a15198c20800000000000000
+      internalID: 3209119411580147327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_156
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 464
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8346b439ebddd90800000000000000
+      internalID: -7071286300067481357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_157
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 463
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0864ad9068f4380800000000000000
+      internalID: -8984815354705968913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_158
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 479
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f11c1a481e7d2030800000000000000
+      internalID: 3471569530560188912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_159
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 468
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67f18a5b21ad5840800000000000000
+      internalID: 5214501151139034986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_160
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 476
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10ae7d9b83da2400800000000000000
+      internalID: 300284921769795613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_161
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 455
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c288e3462f56390800000000000000
+      internalID: -7825582265126605774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_162
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 462
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f9d740bb53f97d0800000000000000
+      internalID: -2909547756907552948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_163
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 479
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c2009a02bad3800800000000000000
+      internalID: 593818882645437514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_164
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 479
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69a0c238b352b560800000000000000
+      internalID: 7328011594275793263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_165
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 462
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c88d314dd5af4740800000000000000
+      internalID: 5138508069553932484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_166
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 467
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b46bdd00dc9de000800000000000000
+      internalID: 66881986880038073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_167
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 421
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1d4680707c6de00800000000000000
+      internalID: 1069260794566595032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_168
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 463
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da75087cc892a0f0800000000000000
+      internalID: -1107154554425345323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_169
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 440
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cab3cdca4210a10800000000000000
+      internalID: 1873819244810710173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_170
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 463
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b956350f0d9a1d410800000000000000
+      internalID: 1500166865741374875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_171
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 480
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7676d4e09bcf43ef0800000000000000
+      internalID: -129200617547798681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_172
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 473
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fd576474d814620800000000000000
+      internalID: 2756639784191778669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_173
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 466
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66ef22947cceb290800000000000000
+      internalID: -7872630297556162963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_174
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 472
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b81feb79b6be010800000000000000
+      internalID: 1219186423621585693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_175
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 485
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f259e21e07ddd3310800000000000000
+      internalID: 1386507737183982895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_176
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 460
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f349b6ea687a510800000000000000
+      internalID: 1560363879594475288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_177
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 460
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bad4b30e983ef50800000000000000
+      internalID: 6909517849477098268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_178
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 455
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6af3cd3de63fad0800000000000000
+      internalID: -2669668297888258379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_179
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 477
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f183fb28ed1382ac0800000000000000
+      internalID: -3879796247233611745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_180
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 469
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02bf504204f9d580800000000000000
+      internalID: -8801735706211798518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_181
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 466
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcbd97418f47c610800000000000000
+      internalID: 1641368005870730458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_182
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 455
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04d960e4b2d35a90800000000000000
+      internalID: -7326280494500686834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_183
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 475
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daff53c6d41630e40800000000000000
+      internalID: 5621443745044365229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_184
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 457
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7509ed1f42f9200800000000000000
+      internalID: 188910330612570071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_185
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 474
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6c371ca910ef270800000000000000
+      internalID: 8286062128590472899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_186
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 473
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5d3459a3515cb60800000000000000
+      internalID: 7765636473826825642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_187
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 458
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcb272ce11fb2780800000000000000
+      internalID: -8706600340177109829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_188
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 478
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce10986b00ae641b0800000000000000
+      internalID: -5672589391843229204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_189
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 477
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b089889e6acb65b0800000000000000
+      internalID: -5373979153982193488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_190
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 461
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7ca649d00964110800000000000000
+      internalID: 1244840735013521353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_191
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 454
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fa226a5b02e52e0800000000000000
+      internalID: -2135233208778576012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_192
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 455
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c43881248daea30800000000000000
+      internalID: 4245443377140812881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_193
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 438
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c807da09df7d870800000000000000
+      internalID: 8707707202371095563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_194
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 461
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8410bdc396f4edc0800000000000000
+      internalID: -3610489886572800881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_195
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 452
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d2af6385c985690800000000000000
+      internalID: -7613163267376403114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_196
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 455
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe2886e132026750800000000000000
+      internalID: 6296597642361712377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_197
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 446
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9cc29e4a55d8e60800000000000000
+      internalID: 7966117482663299532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_198
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 456
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a866ebbdadecfaf90800000000000000
+      internalID: -6940101061369764214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_199
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 463
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee74982edc759040800000000000000
+      internalID: 4653763083562680043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_200
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 463
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81314c7ccbcd50ed0800000000000000
+      internalID: -2448308119042518248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_201
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 451
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2459924c2c65fd490800000000000000
+      internalID: -7719355841775037118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_202
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 435
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d6b75de80d8def0800000000000000
+      internalID: -83087281220784789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_203
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 455
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fb78f0124fd00a0800000000000000
+      internalID: -6913601430112190594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_204
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 454
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d0271bb68b1c650800000000000000
+      internalID: 6251480530445012321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_205
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 463
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5369a90b0e3465b70800000000000000
+      internalID: 8887365546976908853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_206
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 455
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a7991306fa830a0800000000000000
+      internalID: -6901573601261422071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_207
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 461
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc3390ed7d8874e0800000000000000
+      internalID: -1983680064078529355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_208
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 432
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9061a77a9f878f10800000000000000
+      internalID: 2271942430626504863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_209
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 446
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e65302d9f169ce0800000000000000
+      internalID: -1398895874541261178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_210
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 449
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2220f3dd1781443d0800000000000000
+      internalID: -3223424555968167390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_211
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 430
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc136029103debd0800000000000000
+      internalID: -2599368525447226128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_212
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 442
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1108de42c26dfab90800000000000000
+      internalID: -7228323391819907055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_213
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 451
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c1f7a7988638f00800000000000000
+      internalID: 1117852072192973890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_214
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 445
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f51a3e512cf57510800000000000000
+      internalID: 1546419267316618737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_215
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 446
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672cfece50c9612b0800000000000000
+      internalID: -5614128336206839178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_216
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 445
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d395e006c614b95c0800000000000000
+      internalID: -4207697493123770051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_217
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 444
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d9498d0f1db3bb0800000000000000
+      internalID: -4955136132635124396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_218
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 452
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e245851b8536615c0800000000000000
+      internalID: -4245096366166485970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_219
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 448
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2252c999b86ff2af0800000000000000
+      internalID: -418845160884132574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_220
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 448
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de615ff22f0e8940800000000000000
+      internalID: 5300190454448484057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_221
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 450
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdb7c15c5cb2d8f0800000000000000
+      internalID: -517143902499127809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_222
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 450
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7b18602d3ceb5c0800000000000000
+      internalID: -4197702495843010565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_223
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 441
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64b10ef4bec04bf0800000000000000
+      internalID: -342046294929197972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_224
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 432
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b94d51eb7f0d060800000000000000
+      internalID: 6976348218579000078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_225
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 427
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a69347a7482f9370800000000000000
+      internalID: 8331422123872720545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_226
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 451
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0da943832e61e440800000000000000
+      internalID: 4963369363144551690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_227
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 447
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d5981d7d50e4180800000000000000
+      internalID: -9129352970141868723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_228
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 449
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0200a7b2014be930800000000000000
+      internalID: 4173500959615353354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_229
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 428
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcc8939c3a903cf0800000000000000
+      internalID: -274549992304620356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_230
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 435
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efde2ef3b30b0cab0800000000000000
+      internalID: -4989794618605113858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_231
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 424
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1618fbb66482b57d0800000000000000
+      internalID: -2928702849753841311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_232
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 434
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7257e3a2edfa5ed00800000000000000
+      internalID: 1001399860886140199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_233
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 427
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae3dfd93e41fe2f0800000000000000
+      internalID: -941510829256393046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_234
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 430
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bfd27db4625b420800000000000000
+      internalID: 2645062463324551953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_235
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 416
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b61f7e45e671000800000000000000
+      internalID: 6595235412011820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_236
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 434
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e373fc596467c30800000000000000
+      internalID: 4356747298768109164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_237
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 439
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fca467b03a57fb0800000000000000
+      internalID: -4650631770565587137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_238
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 430
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fb11b5546f5a8b0800000000000000
+      internalID: -5141432621832487016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_239
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 425
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a4f1e768c7ddaa0800000000000000
+      internalID: -6134610200325305756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_240
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 430
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e2a5559cb504480800000000000000
+      internalID: -8917026341915054557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_241
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 439
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ca5a5fc1f91fa80800000000000000
+      internalID: -8434785680359052170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_242
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 438
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3df45580f07af10800000000000000
+      internalID: 2280808264751895491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_243
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 428
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582e38c340494c5b0800000000000000
+      internalID: -5348987711493250427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_244
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 436
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab01240817abb5d0800000000000000
+      internalID: -3045657001395680344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_245
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 442
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c7a267a6018cfb0800000000000000
+      internalID: -4627430567688111090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_246
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 428
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0988662be70d791e0800000000000000
+      internalID: -2191053451114936176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_247
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 432
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d838da34d10363ba0800000000000000
+      internalID: -6109642942233869427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_248
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 413
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9674411213337c0800000000000000
+      internalID: -4092873618205742654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_249
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 427
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc0a36ed9a81ee20800000000000000
+      internalID: 3378133606281645258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_250
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 416
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b85399e8d0cfac0800000000000000
+      internalID: -3820163477810083053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_251
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 415
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3dbe358f909ee10800000000000000
+      internalID: 2227322452875924405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_252
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 426
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e50e4ee501fe500800000000000000
+      internalID: 427578489376366095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_253
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 410
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e965087f3eaaf6a0800000000000000
+      internalID: -6414623131616056861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_254
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 429
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef42c9991ea59cb0800000000000000
+      internalID: -4857785198072148000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_255
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 407
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fd2a233686b3b90800000000000000
+      internalID: -7261095198944207073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_256
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 424
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b289abd4fffa510800000000000000
+      internalID: 1562748305028950848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_257
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 412
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cd3b815d0319190800000000000000
+      internalID: -7957525374786347945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_258
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 403
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a4bdc3d3b10c340800000000000000
+      internalID: 4881931945897577052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_259
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 418
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247e69fe3aab8e740800000000000000
+      internalID: 5181596584551835458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_260
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 412
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7d294ab67f5c330800000000000000
+      internalID: 3730659908040972286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_261
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 401
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4f764b2b05595e0800000000000000
+      internalID: -1903526539033053961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_262
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 412
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceda97cf278893eb0800000000000000
+      internalID: -4739607105387254292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_263
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 394
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5db9be547221f320800000000000000
+      internalID: 2589889143915527519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_264
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 409
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc746cc494cf72c0800000000000000
+      internalID: -4431607364945937157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_265
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 414
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b512992d2f7f1430800000000000000
+      internalID: 3755860446197978552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_266
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 412
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458790f008c336b70800000000000000
+      internalID: 8891016610065250388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_267
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 402
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b6aae5abdef3fa0800000000000000
+      internalID: -5818670808831464680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_268
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 403
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df1ab41bfc430ac0800000000000000
+      internalID: -3890181011849732143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_269
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 402
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8a21379ae152bc0800000000000000
+      internalID: -3808604196742977368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_270
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 409
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09849b5cb2850da40800000000000000
+      internalID: 5390905698986576016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_271
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 393
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907f3f25284d63040800000000000000
+      internalID: 4627119323372320521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_272
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 403
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89289e57dcd509e10800000000000000
+      internalID: 2202363354812088984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_273
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 390
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2175d69cb52ed86a0800000000000000
+      internalID: -6445246607848024302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_274
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 395
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99da7fda81bb4620800000000000000
+      internalID: 2759494406707534235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_275
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 386
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb9d9f4a7a688690800000000000000
+      internalID: -7599707297633428511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_276
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 385
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5eef1755d183e10800000000000000
+      internalID: 2177522672655590873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_277
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 399
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7f7fa8c459d1670800000000000000
+      internalID: 8511123026781665209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_278
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 391
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07e1f275bba96520800000000000000
+      internalID: 2695874647763838733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_279
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 401
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393e8e9fb3bb01390800000000000000
+      internalID: -7849568284236520557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_280
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 386
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a84951a96fa37320800000000000000
+      internalID: 2554578281862613152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_281
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 400
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2e87b5ceb126790800000000000000
+      internalID: -7538432124303908113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_282
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 391
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9504b24abf30f80800000000000000
+      internalID: -8141387018836878902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_283
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 394
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3fde20c2e3b47f0800000000000000
+      internalID: -627339364339420236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_284
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 394
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905c5e38051561740800000000000000
+      internalID: 5122371032432624905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_285
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 402
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ac04af2862119e0800000000000000
+      internalID: -1652497244282107299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_286
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 392
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cffafacfb25fb8f0800000000000000
+      internalID: -522608048054009913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsMatchaPowder 1_287
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 384
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7611dec51bdaee00800000000000000
+      internalID: 1074912347791890045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PawsMatchaPowder 1_0: -1666105025677178804
+      PawsMatchaPowder 1_1: 1941918276181053014
+      PawsMatchaPowder 1_10: -521096066523011556
+      PawsMatchaPowder 1_100: 3163354707209579496
+      PawsMatchaPowder 1_101: -533402944069934941
+      PawsMatchaPowder 1_102: 53434054122058212
+      PawsMatchaPowder 1_103: -7547692019875871847
+      PawsMatchaPowder 1_104: -533987091995374508
+      PawsMatchaPowder 1_105: -4229105353572681810
+      PawsMatchaPowder 1_106: 1851919286752458826
+      PawsMatchaPowder 1_107: -710027746352242517
+      PawsMatchaPowder 1_108: 6343155278304788453
+      PawsMatchaPowder 1_109: -6553401705357860522
+      PawsMatchaPowder 1_11: 5053788784875773604
+      PawsMatchaPowder 1_110: 4473964327098454639
+      PawsMatchaPowder 1_111: -9199279857673567037
+      PawsMatchaPowder 1_112: 7514744535158838982
+      PawsMatchaPowder 1_113: 4412532242117216254
+      PawsMatchaPowder 1_114: -7057507667794178928
+      PawsMatchaPowder 1_115: -5946210728697631546
+      PawsMatchaPowder 1_116: -8007563694893904957
+      PawsMatchaPowder 1_117: 809210365220012440
+      PawsMatchaPowder 1_118: -6940782146963636828
+      PawsMatchaPowder 1_119: 495344431784599109
+      PawsMatchaPowder 1_12: -2412550581453605773
+      PawsMatchaPowder 1_120: 5941147474954029491
+      PawsMatchaPowder 1_121: -5991409762706408752
+      PawsMatchaPowder 1_122: -6415425021906455456
+      PawsMatchaPowder 1_123: 5248943814124698156
+      PawsMatchaPowder 1_124: -414580057033513378
+      PawsMatchaPowder 1_125: 2117619250988451055
+      PawsMatchaPowder 1_126: -7522442496938590028
+      PawsMatchaPowder 1_127: -4140712616450381573
+      PawsMatchaPowder 1_128: -654986645320595342
+      PawsMatchaPowder 1_129: -3891686858850150600
+      PawsMatchaPowder 1_13: 8572498143137691015
+      PawsMatchaPowder 1_130: 2730719654865095203
+      PawsMatchaPowder 1_131: -4338353767526181806
+      PawsMatchaPowder 1_132: -2354226533193946689
+      PawsMatchaPowder 1_133: 2139602094583368357
+      PawsMatchaPowder 1_134: 7426064162123920466
+      PawsMatchaPowder 1_135: 510860653204348040
+      PawsMatchaPowder 1_136: 4537669489345699205
+      PawsMatchaPowder 1_137: -1758195376112938733
+      PawsMatchaPowder 1_138: -6097053327790958048
+      PawsMatchaPowder 1_139: 5145519595506750688
+      PawsMatchaPowder 1_14: 4135708932388090134
+      PawsMatchaPowder 1_140: 6444402979682514770
+      PawsMatchaPowder 1_141: 2845923853465987713
+      PawsMatchaPowder 1_142: 4107357999770151715
+      PawsMatchaPowder 1_143: -595398949813444773
+      PawsMatchaPowder 1_144: -6604195001514965280
+      PawsMatchaPowder 1_145: -232221777500081720
+      PawsMatchaPowder 1_146: 6301365859559565929
+      PawsMatchaPowder 1_147: -5107016300360671452
+      PawsMatchaPowder 1_148: -6848777428723898879
+      PawsMatchaPowder 1_149: 2272781993639331504
+      PawsMatchaPowder 1_15: -2137331260154368903
+      PawsMatchaPowder 1_150: 43065840580175529
+      PawsMatchaPowder 1_151: -6451476501191244032
+      PawsMatchaPowder 1_152: 2302421397196956109
+      PawsMatchaPowder 1_153: -3954564538217947419
+      PawsMatchaPowder 1_154: 3970383938057160914
+      PawsMatchaPowder 1_155: 3209119411580147327
+      PawsMatchaPowder 1_156: -7071286300067481357
+      PawsMatchaPowder 1_157: -8984815354705968913
+      PawsMatchaPowder 1_158: 3471569530560188912
+      PawsMatchaPowder 1_159: 5214501151139034986
+      PawsMatchaPowder 1_16: -6887592278371436588
+      PawsMatchaPowder 1_160: 300284921769795613
+      PawsMatchaPowder 1_161: -7825582265126605774
+      PawsMatchaPowder 1_162: -2909547756907552948
+      PawsMatchaPowder 1_163: 593818882645437514
+      PawsMatchaPowder 1_164: 7328011594275793263
+      PawsMatchaPowder 1_165: 5138508069553932484
+      PawsMatchaPowder 1_166: 66881986880038073
+      PawsMatchaPowder 1_167: 1069260794566595032
+      PawsMatchaPowder 1_168: -1107154554425345323
+      PawsMatchaPowder 1_169: 1873819244810710173
+      PawsMatchaPowder 1_17: -5314514587801037939
+      PawsMatchaPowder 1_170: 1500166865741374875
+      PawsMatchaPowder 1_171: -129200617547798681
+      PawsMatchaPowder 1_172: 2756639784191778669
+      PawsMatchaPowder 1_173: -7872630297556162963
+      PawsMatchaPowder 1_174: 1219186423621585693
+      PawsMatchaPowder 1_175: 1386507737183982895
+      PawsMatchaPowder 1_176: 1560363879594475288
+      PawsMatchaPowder 1_177: 6909517849477098268
+      PawsMatchaPowder 1_178: -2669668297888258379
+      PawsMatchaPowder 1_179: -3879796247233611745
+      PawsMatchaPowder 1_18: -819278725741552912
+      PawsMatchaPowder 1_180: -8801735706211798518
+      PawsMatchaPowder 1_181: 1641368005870730458
+      PawsMatchaPowder 1_182: -7326280494500686834
+      PawsMatchaPowder 1_183: 5621443745044365229
+      PawsMatchaPowder 1_184: 188910330612570071
+      PawsMatchaPowder 1_185: 8286062128590472899
+      PawsMatchaPowder 1_186: 7765636473826825642
+      PawsMatchaPowder 1_187: -8706600340177109829
+      PawsMatchaPowder 1_188: -5672589391843229204
+      PawsMatchaPowder 1_189: -5373979153982193488
+      PawsMatchaPowder 1_19: 6940735960617675145
+      PawsMatchaPowder 1_190: 1244840735013521353
+      PawsMatchaPowder 1_191: -2135233208778576012
+      PawsMatchaPowder 1_192: 4245443377140812881
+      PawsMatchaPowder 1_193: 8707707202371095563
+      PawsMatchaPowder 1_194: -3610489886572800881
+      PawsMatchaPowder 1_195: -7613163267376403114
+      PawsMatchaPowder 1_196: 6296597642361712377
+      PawsMatchaPowder 1_197: 7966117482663299532
+      PawsMatchaPowder 1_198: -6940101061369764214
+      PawsMatchaPowder 1_199: 4653763083562680043
+      PawsMatchaPowder 1_2: -6661070466211929125
+      PawsMatchaPowder 1_20: -7957902562094550324
+      PawsMatchaPowder 1_200: -2448308119042518248
+      PawsMatchaPowder 1_201: -7719355841775037118
+      PawsMatchaPowder 1_202: -83087281220784789
+      PawsMatchaPowder 1_203: -6913601430112190594
+      PawsMatchaPowder 1_204: 6251480530445012321
+      PawsMatchaPowder 1_205: 8887365546976908853
+      PawsMatchaPowder 1_206: -6901573601261422071
+      PawsMatchaPowder 1_207: -1983680064078529355
+      PawsMatchaPowder 1_208: 2271942430626504863
+      PawsMatchaPowder 1_209: -1398895874541261178
+      PawsMatchaPowder 1_21: 8524358597491777407
+      PawsMatchaPowder 1_210: -3223424555968167390
+      PawsMatchaPowder 1_211: -2599368525447226128
+      PawsMatchaPowder 1_212: -7228323391819907055
+      PawsMatchaPowder 1_213: 1117852072192973890
+      PawsMatchaPowder 1_214: 1546419267316618737
+      PawsMatchaPowder 1_215: -5614128336206839178
+      PawsMatchaPowder 1_216: -4207697493123770051
+      PawsMatchaPowder 1_217: -4955136132635124396
+      PawsMatchaPowder 1_218: -4245096366166485970
+      PawsMatchaPowder 1_219: -418845160884132574
+      PawsMatchaPowder 1_22: 328532566772885940
+      PawsMatchaPowder 1_220: 5300190454448484057
+      PawsMatchaPowder 1_221: -517143902499127809
+      PawsMatchaPowder 1_222: -4197702495843010565
+      PawsMatchaPowder 1_223: -342046294929197972
+      PawsMatchaPowder 1_224: 6976348218579000078
+      PawsMatchaPowder 1_225: 8331422123872720545
+      PawsMatchaPowder 1_226: 4963369363144551690
+      PawsMatchaPowder 1_227: -9129352970141868723
+      PawsMatchaPowder 1_228: 4173500959615353354
+      PawsMatchaPowder 1_229: -274549992304620356
+      PawsMatchaPowder 1_23: 7908757177062247787
+      PawsMatchaPowder 1_230: -4989794618605113858
+      PawsMatchaPowder 1_231: -2928702849753841311
+      PawsMatchaPowder 1_232: 1001399860886140199
+      PawsMatchaPowder 1_233: -941510829256393046
+      PawsMatchaPowder 1_234: 2645062463324551953
+      PawsMatchaPowder 1_235: 6595235412011820
+      PawsMatchaPowder 1_236: 4356747298768109164
+      PawsMatchaPowder 1_237: -4650631770565587137
+      PawsMatchaPowder 1_238: -5141432621832487016
+      PawsMatchaPowder 1_239: -6134610200325305756
+      PawsMatchaPowder 1_24: -6723704889623974035
+      PawsMatchaPowder 1_240: -8917026341915054557
+      PawsMatchaPowder 1_241: -8434785680359052170
+      PawsMatchaPowder 1_242: 2280808264751895491
+      PawsMatchaPowder 1_243: -5348987711493250427
+      PawsMatchaPowder 1_244: -3045657001395680344
+      PawsMatchaPowder 1_245: -4627430567688111090
+      PawsMatchaPowder 1_246: -2191053451114936176
+      PawsMatchaPowder 1_247: -6109642942233869427
+      PawsMatchaPowder 1_248: -4092873618205742654
+      PawsMatchaPowder 1_249: 3378133606281645258
+      PawsMatchaPowder 1_25: 1904157325333734371
+      PawsMatchaPowder 1_250: -3820163477810083053
+      PawsMatchaPowder 1_251: 2227322452875924405
+      PawsMatchaPowder 1_252: 427578489376366095
+      PawsMatchaPowder 1_253: -6414623131616056861
+      PawsMatchaPowder 1_254: -4857785198072148000
+      PawsMatchaPowder 1_255: -7261095198944207073
+      PawsMatchaPowder 1_256: 1562748305028950848
+      PawsMatchaPowder 1_257: -7957525374786347945
+      PawsMatchaPowder 1_258: 4881931945897577052
+      PawsMatchaPowder 1_259: 5181596584551835458
+      PawsMatchaPowder 1_26: -1671287818613012427
+      PawsMatchaPowder 1_260: 3730659908040972286
+      PawsMatchaPowder 1_261: -1903526539033053961
+      PawsMatchaPowder 1_262: -4739607105387254292
+      PawsMatchaPowder 1_263: 2589889143915527519
+      PawsMatchaPowder 1_264: -4431607364945937157
+      PawsMatchaPowder 1_265: 3755860446197978552
+      PawsMatchaPowder 1_266: 8891016610065250388
+      PawsMatchaPowder 1_267: -5818670808831464680
+      PawsMatchaPowder 1_268: -3890181011849732143
+      PawsMatchaPowder 1_269: -3808604196742977368
+      PawsMatchaPowder 1_27: 775155726093230246
+      PawsMatchaPowder 1_270: 5390905698986576016
+      PawsMatchaPowder 1_271: 4627119323372320521
+      PawsMatchaPowder 1_272: 2202363354812088984
+      PawsMatchaPowder 1_273: -6445246607848024302
+      PawsMatchaPowder 1_274: 2759494406707534235
+      PawsMatchaPowder 1_275: -7599707297633428511
+      PawsMatchaPowder 1_276: 2177522672655590873
+      PawsMatchaPowder 1_277: 8511123026781665209
+      PawsMatchaPowder 1_278: 2695874647763838733
+      PawsMatchaPowder 1_279: -7849568284236520557
+      PawsMatchaPowder 1_28: -6030197824490713612
+      PawsMatchaPowder 1_280: 2554578281862613152
+      PawsMatchaPowder 1_281: -7538432124303908113
+      PawsMatchaPowder 1_282: -8141387018836878902
+      PawsMatchaPowder 1_283: -627339364339420236
+      PawsMatchaPowder 1_284: 5122371032432624905
+      PawsMatchaPowder 1_285: -1652497244282107299
+      PawsMatchaPowder 1_286: -522608048054009913
+      PawsMatchaPowder 1_287: 1074912347791890045
+      PawsMatchaPowder 1_29: 4473704959380132247
+      PawsMatchaPowder 1_3: 4460901217797587036
+      PawsMatchaPowder 1_30: 4327522438812429070
+      PawsMatchaPowder 1_31: -6079209992262197046
+      PawsMatchaPowder 1_32: 8887251569943768886
+      PawsMatchaPowder 1_33: -4184175689966534856
+      PawsMatchaPowder 1_34: 3002423202873688768
+      PawsMatchaPowder 1_35: 5301841335276754250
+      PawsMatchaPowder 1_36: -7231548524772198707
+      PawsMatchaPowder 1_37: -5424835629942601239
+      PawsMatchaPowder 1_38: 4396734822438060018
+      PawsMatchaPowder 1_39: -1100174456017129146
+      PawsMatchaPowder 1_4: 1869783382627958713
+      PawsMatchaPowder 1_40: -7369553188227086850
+      PawsMatchaPowder 1_41: 8903148477984428886
+      PawsMatchaPowder 1_42: 2433383748695763911
+      PawsMatchaPowder 1_43: 8227496432053969583
+      PawsMatchaPowder 1_44: 1810607917071842473
+      PawsMatchaPowder 1_45: 370235289644166922
+      PawsMatchaPowder 1_46: 8757545134840372630
+      PawsMatchaPowder 1_47: 4519965966798970577
+      PawsMatchaPowder 1_48: 8545559827881708741
+      PawsMatchaPowder 1_49: 6378769239605133048
+      PawsMatchaPowder 1_5: 8038575955171454648
+      PawsMatchaPowder 1_50: 3380923373493526854
+      PawsMatchaPowder 1_51: 6879652145488017333
+      PawsMatchaPowder 1_52: -8313857276197083331
+      PawsMatchaPowder 1_53: 4552189356712660338
+      PawsMatchaPowder 1_54: 1671435320804834208
+      PawsMatchaPowder 1_55: 4012391316701795207
+      PawsMatchaPowder 1_56: 2244616999558796384
+      PawsMatchaPowder 1_57: 8270656263519450316
+      PawsMatchaPowder 1_58: 2608858366103092764
+      PawsMatchaPowder 1_59: 8499348857207968848
+      PawsMatchaPowder 1_6: 3935693190519641316
+      PawsMatchaPowder 1_60: -7796087749578646926
+      PawsMatchaPowder 1_61: -3773996454555627151
+      PawsMatchaPowder 1_62: 6954277283575875891
+      PawsMatchaPowder 1_63: -7712284892579438207
+      PawsMatchaPowder 1_64: -6591947344574832310
+      PawsMatchaPowder 1_65: 7856635500150612654
+      PawsMatchaPowder 1_66: -3155445534991618251
+      PawsMatchaPowder 1_67: -4458993468401425439
+      PawsMatchaPowder 1_68: 685974032282898853
+      PawsMatchaPowder 1_69: -4969077987066525608
+      PawsMatchaPowder 1_7: 8351945794192984063
+      PawsMatchaPowder 1_70: 2338298882959351041
+      PawsMatchaPowder 1_71: -6550069904129383966
+      PawsMatchaPowder 1_72: -3015992626523289486
+      PawsMatchaPowder 1_73: -2505006790157501945
+      PawsMatchaPowder 1_74: 3859432107749684278
+      PawsMatchaPowder 1_75: 1747043279082014051
+      PawsMatchaPowder 1_76: 2869740756508512595
+      PawsMatchaPowder 1_77: 1765463169758520745
+      PawsMatchaPowder 1_78: -1901144329782384505
+      PawsMatchaPowder 1_79: -8960185398229125212
+      PawsMatchaPowder 1_8: 7953808794254720973
+      PawsMatchaPowder 1_80: 8759772243974009280
+      PawsMatchaPowder 1_81: 5773487159868222865
+      PawsMatchaPowder 1_82: -8006959746325281407
+      PawsMatchaPowder 1_83: -8681043604180487666
+      PawsMatchaPowder 1_84: -1840753170821782205
+      PawsMatchaPowder 1_85: -5502656707625482619
+      PawsMatchaPowder 1_86: 6015595964212459299
+      PawsMatchaPowder 1_87: 5173157223817210530
+      PawsMatchaPowder 1_88: -8069591083958120262
+      PawsMatchaPowder 1_89: 64368219537761040
+      PawsMatchaPowder 1_9: 7640562485781061741
+      PawsMatchaPowder 1_90: 1085730190419115630
+      PawsMatchaPowder 1_91: -8881395441549486828
+      PawsMatchaPowder 1_92: -8988100253249078332
+      PawsMatchaPowder 1_93: -2501010931306529021
+      PawsMatchaPowder 1_94: -6757005539689031829
+      PawsMatchaPowder 1_95: -822309906389617889
+      PawsMatchaPowder 1_96: -5574786453823407624
+      PawsMatchaPowder 1_97: 2130333154867395451
+      PawsMatchaPowder 1_98: 3994174961487280418
+      PawsMatchaPowder 1_99: 8763888770698503617
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
