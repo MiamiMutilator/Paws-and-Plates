@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PawsTortilla_0: -8023796493059716968
+      PawsTortilla_1: 8703050796008548243
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

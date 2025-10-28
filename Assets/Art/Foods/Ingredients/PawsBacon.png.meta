@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PawsBacon_0: 8600143905304537327
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

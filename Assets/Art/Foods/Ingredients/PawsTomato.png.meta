@@ -284,7 +284,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PawsTomato_0: 4282190525734620445
+      PawsTomato_1: 7847012682135692650
+      PawsTomato_2: 1249432508016658531
+      PawsTomato_3: -824924364197761512
+      PawsTomato_4: -7512236313190688457
+      PawsTomato_5: 5685213403855978085
+      PawsTomato_6: 5112455898901426324
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

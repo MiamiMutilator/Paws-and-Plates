@@ -184,7 +184,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PawsCroutons_0: -2177699335959892616
+      PawsCroutons_1: 7341641408962314572
+      PawsCroutons_2: 3955858613238674915
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

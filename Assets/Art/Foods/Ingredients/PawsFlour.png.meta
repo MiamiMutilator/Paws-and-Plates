@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PawsFlour_0: -4081727208887964726
+      PawsFlour_1: 6593150139129612800
+      PawsFlour_10: -2340822491624858081
+      PawsFlour_11: 2056064193005941185
+      PawsFlour_12: -2469125411432570609
+      PawsFlour_13: -5581186808952993356
+      PawsFlour_14: 6180325023023782808
+      PawsFlour_15: -6001443557747185452
+      PawsFlour_2: -2012082960264996209
+      PawsFlour_3: 6855776925333469630
+      PawsFlour_4: 5560907911856365134
+      PawsFlour_5: 6483097832652569935
+      PawsFlour_6: -809649737750140143
+      PawsFlour_7: -1101098217992427899
+      PawsFlour_8: -5205295600774341277
+      PawsFlour_9: 4601219539335346364
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

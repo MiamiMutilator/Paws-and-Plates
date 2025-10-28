@@ -634,7 +634,28 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PawsMango 1_0: 1913429169785405320
+      PawsMango 1_1: -9144446045983455593
+      PawsMango 1_10: 4143397124078025775
+      PawsMango 1_11: 6153573034321667160
+      PawsMango 1_12: -319642257789139704
+      PawsMango 1_13: 6841674652068443089
+      PawsMango 1_14: 926793364180544413
+      PawsMango 1_15: 8508006626698715724
+      PawsMango 1_16: 1970602646082101223
+      PawsMango 1_17: 5580496539214149374
+      PawsMango 1_18: -109749761882918177
+      PawsMango 1_19: -1994587976916860085
+      PawsMango 1_2: 3970215547212596560
+      PawsMango 1_20: 7092891099680539430
+      PawsMango 1_3: -6247359314485682137
+      PawsMango 1_4: -6607109562093901107
+      PawsMango 1_5: 4241923871166773620
+      PawsMango 1_6: -5039938254262911743
+      PawsMango 1_7: -1763614399207867975
+      PawsMango 1_8: -3667880590501821907
+      PawsMango 1_9: 919418965043643024
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

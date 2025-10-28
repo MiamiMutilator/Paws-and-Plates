@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PawsCoffeeBeans 1_0: 6010310359996922227
+      PawsCoffeeBeans 1_1: 627466538509804739
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

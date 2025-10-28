@@ -25,6 +25,23 @@ TagManager:
   - PineCocoSmoothie
   - VanFrappe
   - IceCoffee
+  - RawPatty
+  - RawBacon
+  - CookedBacon
+  - CookedPatty
+  - Bun
+  - Butter
+  - Cheese
+  - Egg
+  - Flour
+  - GreenOnion
+  - Lettuce
+  - Onion
+  - Spinach
+  - Tomato
+  - Tortilla
+  - Yogurt
+  - Croutons
   layers:
   - Default
   - TransparentFX

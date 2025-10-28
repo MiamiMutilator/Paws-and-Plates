@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PawsSpinach_0: -5779289645152068646
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

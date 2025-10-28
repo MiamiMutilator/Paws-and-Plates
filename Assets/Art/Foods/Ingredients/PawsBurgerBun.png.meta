@@ -634,7 +634,28 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PawsBurgerBun_0: 3321878903638103021
+      PawsBurgerBun_1: -7898285350030704726
+      PawsBurgerBun_10: -6907670287388138254
+      PawsBurgerBun_11: -2807122038667664961
+      PawsBurgerBun_12: 2109902306671744259
+      PawsBurgerBun_13: 9127103928383022775
+      PawsBurgerBun_14: 5444003113557541832
+      PawsBurgerBun_15: -7367741201638622423
+      PawsBurgerBun_16: 2877084054803754134
+      PawsBurgerBun_17: -8992731275936851493
+      PawsBurgerBun_18: -2822868082208124567
+      PawsBurgerBun_19: 4543812755906251991
+      PawsBurgerBun_2: -9198955228378749045
+      PawsBurgerBun_20: -8056679011855394020
+      PawsBurgerBun_3: -6533798036926987708
+      PawsBurgerBun_4: -9099542255119103461
+      PawsBurgerBun_5: -5717230335781038048
+      PawsBurgerBun_6: 8100634241382901864
+      PawsBurgerBun_7: 1723288525710238524
+      PawsBurgerBun_8: -8582519575973147572
+      PawsBurgerBun_9: -5036662712950888905
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

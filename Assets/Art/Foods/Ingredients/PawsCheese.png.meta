@@ -384,7 +384,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PawsCheese_0: -8280630466436614158
+      PawsCheese_1: -8529784264576557551
+      PawsCheese_10: 3850295112017306923
+      PawsCheese_2: -5267862811344837753
+      PawsCheese_3: 3696148760507603123
+      PawsCheese_4: -8934403997087424867
+      PawsCheese_5: 1689098244533235139
+      PawsCheese_6: -3905380338646130090
+      PawsCheese_7: 6853409101716760459
+      PawsCheese_8: -6134317110534120684
+      PawsCheese_9: 6376464176646745101
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

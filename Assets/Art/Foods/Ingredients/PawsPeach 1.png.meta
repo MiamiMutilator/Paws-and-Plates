@@ -434,7 +434,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PawsPeach 1_0: 2320745329232245821
+      PawsPeach 1_1: -7017489225884667652
+      PawsPeach 1_10: 2962876660347587826
+      PawsPeach 1_11: 383160488563920390
+      PawsPeach 1_12: -2537791808638447737
+      PawsPeach 1_2: 9176271158710416746
+      PawsPeach 1_3: -2296014555379373588
+      PawsPeach 1_4: -2577232047256438511
+      PawsPeach 1_5: 2521788930352921250
+      PawsPeach 1_6: 3418006266556720696
+      PawsPeach 1_7: -6804086675976729118
+      PawsPeach 1_8: 3725472790990909879
+      PawsPeach 1_9: 3526708868805885060
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

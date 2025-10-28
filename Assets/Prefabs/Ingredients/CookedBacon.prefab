@@ -14,8 +14,8 @@ GameObject:
   - component: {fileID: 7060369064941639337}
   - component: {fileID: 3594379632031950038}
   m_Layer: 5
-  m_Name: Bacon
-  m_TagString: RawBacon
+  m_Name: CookedBacon
+  m_TagString: CookedBacon
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -105,7 +105,7 @@ SpriteRenderer:
   m_SortingLayer: 4
   m_SortingOrder: 0
   m_Sprite: {fileID: 8600143905304537327, guid: b0539b2485e2ae746a1b4cb7428a9a1f, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.49056602, g: 0.43702564, b: 0.40494835, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0

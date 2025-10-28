@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PawsVanilla 1_0: -8188929069633006768
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

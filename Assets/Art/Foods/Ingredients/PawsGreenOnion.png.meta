@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PawsGreenOnion_0: 224367046951700081
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PawsPineapple 1_0: 3022307763115093693
+      PawsPineapple 1_1: -4607810732043566268
+      PawsPineapple 1_2: 2758761840549070932
+      PawsPineapple 1_3: -6543174369701006822
+      PawsPineapple 1_4: 5509416345913865960
+      PawsPineapple 1_5: 3828442764818006648
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

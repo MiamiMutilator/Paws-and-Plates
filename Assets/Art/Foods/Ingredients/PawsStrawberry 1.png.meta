@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PawsStrawberry 1_0: -1273451289974452270
+      PawsStrawberry 1_1: -6533308745073513624
+      PawsStrawberry 1_2: -4055227820365953236
+      PawsStrawberry 1_3: -2176210525224470837
+      PawsStrawberry 1_4: 3110362264379904925
+      PawsStrawberry 1_5: 5439501256364076479
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

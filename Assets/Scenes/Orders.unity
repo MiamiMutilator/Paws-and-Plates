@@ -6575,6 +6575,7 @@ GameObject:
   - component: {fileID: 2022737538}
   - component: {fileID: 2022737537}
   - component: {fileID: 2022737536}
+  - component: {fileID: 2022737540}
   m_Layer: 5
   m_Name: Stove
   m_TagString: Untagged
@@ -6713,6 +6714,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2022737534}
   m_CullTransparentMesh: 1
+--- !u!114 &2022737540
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2022737534}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c355a61b372febf4f8255b2a22f63831, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2023352296
 GameObject:
   m_ObjectHideFlags: 0
