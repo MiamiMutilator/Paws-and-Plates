@@ -20,39 +20,72 @@ public class Customer : MonoBehaviour
     {
         customerDialogues[0] = new string[]
         {
-            "I'll eat anything!",
-            "Surprise me with some food!",
-            "I’m not picky, bring me whatever!"
+            "I'm so hungry I could eat a horse, hooves and all.",
+            "You know what, surprise me!",
+            "I’ll try anything once!"
         };
 
         customerDialogues[1] = new string[]
         {
-            "I want a Strawberry Banana Smoothie!"
+            "Hmm, I want a sweet drink with strawberry!"
         };
 
         customerDialogues[2] = new string[]
         {
-            "I want a Mango Peach Smoothie!"
+            "Mangoes! Peaches! Smoothie!"
         };
 
         customerDialogues[3] = new string[]
         {
-            "I want an Iced Coffee!"
+            "One iced coffee please!"
         };
 
         customerDialogues[4] = new string[]
         {
-            "I want a Matcha Latte!"
+            "I want something smooth with matcha."
         };
 
         customerDialogues[5] = new string[]
         {
-            "I want a Vanilla Frappe!"
+            "I, like, want a vanilla frap!"
         };
 
         customerDialogues[6] = new string[]
         {
-            "I want a Pineapple Coconut Smoothie!"
+            "Do you like piña colladas?"
+        };
+
+        customerDialogues[7] = new string[]
+        {
+            "I need a pick-me-up drink..."
+        };
+        customerDialogues[8] = new string[]
+        {
+            "One cheeseburger please!"
+        };
+        customerDialogues[10] = new string[]
+        {
+            "I'm in the mood for a latin breakfast."
+        };
+        customerDialogues[11] = new string[]
+        {
+            "You know Scrambled Studios? They're cool!"
+        };
+        customerDialogues[12] = new string[]
+        {
+            "Et tu, Bruté?"
+        };
+        customerDialogues[13] = new string[]
+        {
+            "I want a relatively balanced breakfast."
+        };
+        customerDialogues[14] = new string[]
+        {
+            "I HATE waffles."
+        };
+        customerDialogues[15] = new string[]
+        {
+            "I HATE pancakes."
         };
     }
 
@@ -60,7 +93,7 @@ public class Customer : MonoBehaviour
     {
         //randomSeed = Random.Range(0, 15);
         //Random.InitState(randomSeed);
-        typeOfCustomer = Random.Range(0, 7); 
+        typeOfCustomer = Random.Range(0, 17); 
         switch (typeOfCustomer)
         {
             case 1:
@@ -81,6 +114,33 @@ public class Customer : MonoBehaviour
             case 6:
                 customersFood = "PineCocoSmoothie";
                     break;
+            case 7:
+                customersFood = "Coffee";
+                break;
+            case 8:
+                customersFood = "Burger";
+                break;
+            case 9:
+                customersFood = "BaconEggCheese";
+                break;
+            case 10:
+                customersFood = "Quesadilla";
+                break;
+            case 11:
+                customersFood = "ScrambledEggs";
+                break;
+            case 12:
+                customersFood = "Salad";
+                break;
+            case 13:
+                customersFood = "Omelette";
+                break;
+            case 14:
+                customersFood = "Pancakes";
+                break;
+            case 15:
+                customersFood = "Waffles";
+                break;
             default:
                 customersFood = "Untagged";
                 break;
