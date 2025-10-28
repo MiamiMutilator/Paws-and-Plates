@@ -42,6 +42,13 @@ TagManager:
   - Tortilla
   - Yogurt
   - Croutons
+  - BaconEggCheese
+  - Quesadilla
+  - ScrambledEggs
+  - Salad
+  - Omelette
+  - Pancakes
+  - Waffles
   layers:
   - Default
   - TransparentFX

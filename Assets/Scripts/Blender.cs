@@ -24,10 +24,6 @@ public class Blender : MonoBehaviour
     public GameObject PineappleCoconutSmoothie;
     public GameObject IcedCoffee;
 
-
-
-
-
     public Transform foodSpawner;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created

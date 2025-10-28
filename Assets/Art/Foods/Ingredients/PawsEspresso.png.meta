@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PawsEspresso_0: 8599659228356761722
+      PawsEspresso_1: 4538233352691029410
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
