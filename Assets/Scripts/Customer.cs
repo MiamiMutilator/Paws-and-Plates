@@ -93,7 +93,7 @@ public class Customer : MonoBehaviour
     {
         //randomSeed = Random.Range(0, 15);
         //Random.InitState(randomSeed);
-        typeOfCustomer = Random.Range(0, 17); 
+        typeOfCustomer = Random.Range(0, 16); 
         switch (typeOfCustomer)
         {
             case 1:
