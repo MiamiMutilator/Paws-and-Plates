@@ -63,6 +63,10 @@ public class Customer : MonoBehaviour
         {
             "One cheeseburger please!"
         };
+        customerDialogues[9] = new string[]
+        {
+            "Please get me something with Bacon, Egg, and Cheese!"
+        };
         customerDialogues[10] = new string[]
         {
             "I'm in the mood for a latin breakfast."

@@ -49,6 +49,8 @@ TagManager:
   - Omelette
   - Pancakes
   - Waffles
+  - BurntPatty
+  - BurntBacon
   layers:
   - Default
   - TransparentFX

@@ -23,7 +23,7 @@ public class CoinCounter : MonoBehaviour
 
     public void CoinSpawn()
     {
-        coinCount++;
+        coinCount+= 10;
     }
 
 }

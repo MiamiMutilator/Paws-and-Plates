@@ -16,7 +16,11 @@ public class Stove : MonoBehaviour
     public GameObject BurntBacon;
 
     public Slider cookMeter;
+    public Image fillImage;
+    public Image backgroundImage;
+
     public float timeToCook = 5f;
+    public Vector2 cookedRange = new Vector2(0.45f, 0.6f);
 
     private Dictionary<string, (GameObject raw, GameObject cooked, GameObject burnt)> cookMap;
     bool isCooking;
@@ -39,7 +43,21 @@ public class Stove : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if (cookMeter.value < cookedRange.x)
+        {
+            fillImage.color = Color.yellow;
+            backgroundImage.color = Color.yellow;
+        }
+        else if (cookMeter.value > cookedRange.y)
+        {
+            fillImage.color = Color.red;
+            backgroundImage.color = Color.red;
+        }
+        else
+        {
+            fillImage.color = Color.green;
+            backgroundImage.color = Color.green;
+        }
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -50,36 +68,68 @@ public class Stove : MonoBehaviour
         {
             currentItemTag = collision.tag;
             Destroy(collision.gameObject);
+            StartCoroutine(Cooking());
         }
     }
 
-    //private IEnumerator Cooking()
-    //{
-    //    isCooking = true;
-    //    cookMeter.gameObject.SetActive(true);
-    //    cookMeter.value = 0f;
+    private IEnumerator Cooking()
+    {
+        isCooking = true;
+        cookMeter.gameObject.SetActive(true);
+        cookMeter.value = 0f;
 
-    //    float timer = 0f;
+        float timer = 0f;
 
-    //    while (timer < timeToCook)
-    //    {
-    //        timer += Time.deltaTime;
-    //        cookMeter.value = timer / timeToCook;
+        while (timer < timeToCook)
+        {
+            timer += Time.deltaTime;
+            cookMeter.value = timer / timeToCook;
 
-    //        if (Input.GetMouseButtonDown(0))
-    //        {
+            if (Input.GetMouseButtonDown(0))
+            {
+                yield return CookingResult(cookMeter.value);
+                yield break;
+            }
+            yield return null;
+        }
+        yield return CookingResult(1.1f);
 
-    //        }
-    //        yield return null;
-    //    }
+    }
 
+    private IEnumerator CookingResult(float progress)
+    {
+        cookMeter.gameObject.SetActive(false);
 
-    //}
+        var (raw, cooked, burnt) = cookMap[currentItemTag];
+        GameObject result = null;
 
-    //private IEnumerator CookingResult(float progress)
-    //{
+        if (progress < cookedRange.x)
+        {
+            Debug.Log("Too early!");
+            result = raw;
+        }
+        else if (progress > cookedRange.y)
+        {
+            Debug.Log("Too Late!");
+            fillImage.color = Color.red;
+            backgroundImage.color = Color.red;
+            result = burnt;
+        }
+        else
+        {
+            Debug.Log("Perfect!");
+            fillImage.color = Color.green;
+            backgroundImage.color = Color.green;
+            result = cooked;
+        }
 
-    //}
+        yield return new WaitForSeconds(0.3f);
+        AddCookedItemToInventory(result);
+
+        isCooking = false;
+        currentItemTag = "";
+
+    }
 
     private void AddCookedItemToInventory(GameObject Prefab)
     {
