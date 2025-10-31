@@ -46,6 +46,7 @@ public class AssemblyLine : MonoBehaviour
         TryMakeCheeseburger();
         TryMakeOmelette();
         TryMakePancakes();
+        TryMakeWaffle();
         TryMakeScrambledEggs();
     }
 
@@ -224,6 +225,17 @@ public class AssemblyLine : MonoBehaviour
             Milk = false;
             Flour = false;
             Butter = false;
+        }
+    }
+    private void TryMakeWaffle()
+    {
+        if (Egg && Milk && Flour)
+        {
+            Debug.Log("Made a Waffle");
+            Instantiate(Waffles, foodSpawner.position, Quaternion.identity);
+            Egg = false;
+            Milk = false;
+            Flour = false;
         }
     }
 }
