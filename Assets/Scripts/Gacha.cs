@@ -55,11 +55,17 @@ public class Gacha : MonoBehaviour
     public Canvas gachaCanvas;
 
     public CoinCounter cc;
+    public Progression prog;
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        if (prog == null)
+        {
+            prog = Object.FindAnyObjectByType<Progression>();
+        }
+
         randomSeed = Random.Range(0, 9999);
         Random.InitState(randomSeed);
 
@@ -78,11 +84,11 @@ public class Gacha : MonoBehaviour
 
     public void RollButton()
     {
-        if (cc != null && cc.coinCount >= 6)
+        if (cc != null && prog.coins >= 6)
         {
             RollNumber = GetWeightedRandom();
             StartCoroutine("Rolling");
-            cc.coinCount -= 6;
+            prog.coins -= 6;
             Debug.Log("Roll made!");
         }
         else
@@ -153,7 +159,7 @@ public class Gacha : MonoBehaviour
 
         if (alreadyGot && cc != null)
         {
-            cc.coinCount += refundAmount;
+            prog.coins += refundAmount;
             rollText.text = $"Already had {itemName}! Refunded {refundAmount} coin(s).";
         }
     }

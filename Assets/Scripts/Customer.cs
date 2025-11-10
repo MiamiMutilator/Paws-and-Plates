@@ -14,6 +14,8 @@ public class Customer : MonoBehaviour
 
     public TextMeshProUGUI customerOrder;
 
+    public Progression prog;
+
     private Dictionary<int, string[]> customerDialogues = new Dictionary<int, string[]>();
 
     private void Awake()
@@ -95,6 +97,10 @@ public class Customer : MonoBehaviour
 
     private void Start()
     {
+        if (prog == null)
+        {
+            prog = Object.FindAnyObjectByType<Progression>();
+        }
         //randomSeed = Random.Range(0, 15);
         //Random.InitState(randomSeed);
         typeOfCustomer = Random.Range(0, 16); 
@@ -169,6 +175,7 @@ public class Customer : MonoBehaviour
         {
             customerOrder.text = "Yum!";
             Debug.Log("Yum!");
+            prog.coins += 10;
             Destroy(collision.gameObject);
         }
         else
