@@ -22,6 +22,8 @@ public class Stove : MonoBehaviour
     public float timeToCook = 5f;
     public Vector2 cookedRange = new Vector2(0.45f, 0.6f);
 
+    public AudioSource panAudio;
+
     private Dictionary<string, (GameObject raw, GameObject cooked, GameObject burnt)> cookMap;
     bool isCooking;
     private string currentItemTag = "";
@@ -75,6 +77,7 @@ public class Stove : MonoBehaviour
     private IEnumerator Cooking()
     {
         isCooking = true;
+        panAudio.Play();
         cookMeter.gameObject.SetActive(true);
         cookMeter.value = 0f;
 
