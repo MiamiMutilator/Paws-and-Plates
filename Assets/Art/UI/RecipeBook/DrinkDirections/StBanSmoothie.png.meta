@@ -1,0 +1,868 @@
+fileFormatVersion: 2
+guid: 8f9f23eeda17e4846acb85536e2c603c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7437841540006433606
+    second: StBanSmoothie_0
+  - first:
+      213: -1905524851617254291
+    second: StBanSmoothie_1
+  - first:
+      213: -1381989166854197440
+    second: StBanSmoothie_2
+  - first:
+      213: 7461570528522565715
+    second: StBanSmoothie_3
+  - first:
+      213: 8241740772460735820
+    second: StBanSmoothie_4
+  - first:
+      213: -813782079099290711
+    second: StBanSmoothie_5
+  - first:
+      213: 4242518863126858417
+    second: StBanSmoothie_6
+  - first:
+      213: -2954427369758429219
+    second: StBanSmoothie_7
+  - first:
+      213: -7125073825510483616
+    second: StBanSmoothie_8
+  - first:
+      213: -9043803630157701101
+    second: StBanSmoothie_9
+  - first:
+      213: -608553968183971888
+    second: StBanSmoothie_10
+  - first:
+      213: -1353616463610313318
+    second: StBanSmoothie_11
+  - first:
+      213: -2411084349480732692
+    second: StBanSmoothie_12
+  - first:
+      213: -4809994360155424546
+    second: StBanSmoothie_13
+  - first:
+      213: -3907352814724405332
+    second: StBanSmoothie_14
+  - first:
+      213: -3536867738545823064
+    second: StBanSmoothie_15
+  - first:
+      213: 7732150145725665475
+    second: StBanSmoothie_16
+  - first:
+      213: -8964967767753648939
+    second: StBanSmoothie_17
+  - first:
+      213: 473816444079807472
+    second: StBanSmoothie_18
+  - first:
+      213: 1600041614671524059
+    second: StBanSmoothie_19
+  - first:
+      213: 1859358333124802038
+    second: StBanSmoothie_20
+  - first:
+      213: -1095700463957440093
+    second: StBanSmoothie_21
+  - first:
+      213: -1047194553235538796
+    second: StBanSmoothie_22
+  - first:
+      213: -2389353566391411000
+    second: StBanSmoothie_23
+  - first:
+      213: 3125136877557700781
+    second: StBanSmoothie_24
+  - first:
+      213: -7692990520990194025
+    second: StBanSmoothie_25
+  - first:
+      213: -6695677150461513061
+    second: StBanSmoothie_26
+  - first:
+      213: 5493445390564455564
+    second: StBanSmoothie_27
+  - first:
+      213: -8192454483293481801
+    second: StBanSmoothie_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StBanSmoothie_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abca548d68a77c890800000000000000
+      internalID: -7437841540006433606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StBanSmoothie_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 128
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64bcac4e373e85e0800000000000000
+      internalID: -1905524851617254291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StBanSmoothie_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 128
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fa732cc2032dce0800000000000000
+      internalID: -1381989166854197440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StBanSmoothie_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 128
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3587c13dcd2dc8760800000000000000
+      internalID: 7461570528522565715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StBanSmoothie_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 128
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d2061e09b806270800000000000000
+      internalID: 8241740772460735820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StBanSmoothie_5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 121
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab35bab28dd4b4f0800000000000000
+      internalID: -813782079099290711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StBanSmoothie_6
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 128
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba029d9d6470ea30800000000000000
+      internalID: 4242518863126858417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StBanSmoothie_7
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 128
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf6bded5f3cff6d0800000000000000
+      internalID: -2954427369758429219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StBanSmoothie_8
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06993002b17ae1d90800000000000000
+      internalID: -7125073825510483616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StBanSmoothie_9
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 128
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310ef06b384fd7280800000000000000
+      internalID: -9043803630157701101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StBanSmoothie_10
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 128
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df6db3e36bfd87f0800000000000000
+      internalID: -608553968183971888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StBanSmoothie_11
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 128
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9503648ffcf63de0800000000000000
+      internalID: -1353616463610313318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StBanSmoothie_12
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 128
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce772b10f8b1a8ed0800000000000000
+      internalID: -2411084349480732692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StBanSmoothie_13
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 128
+        width: 55
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8bd472d977f3db0800000000000000
+      internalID: -4809994360155424546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StBanSmoothie_14
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 128
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7aa3a215b46c9c0800000000000000
+      internalID: -3907352814724405332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StBanSmoothie_15
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 128
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2ef6ae7858aeec0800000000000000
+      internalID: -3536867738545823064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StBanSmoothie_16
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 149
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c096f1479d1e4b60800000000000000
+      internalID: 7732150145725665475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StBanSmoothie_17
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 128
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4973c4059069380800000000000000
+      internalID: -8964967767753648939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StBanSmoothie_18
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 128
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb9d16ab85539600800000000000000
+      internalID: 473816444079807472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StBanSmoothie_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 117
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0b6540f5d743610800000000000000
+      internalID: 1600041614671524059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StBanSmoothie_20
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 42
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5f01c7d84cdc910800000000000000
+      internalID: 1859358333124802038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StBanSmoothie_21
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 5
+        width: 83
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a90699bb3a4bc0f0800000000000000
+      internalID: -1095700463957440093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StBanSmoothie_22
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 42
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49cfba32a1e9771f0800000000000000
+      internalID: -1047194553235538796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StBanSmoothie_23
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 45
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce5d68379f47ded0800000000000000
+      internalID: -2389353566391411000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StBanSmoothie_24
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 42
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8dc45be67be5b20800000000000000
+      internalID: 3125136877557700781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StBanSmoothie_25
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 4
+        width: 129
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796aeef51e10d3590800000000000000
+      internalID: -7692990520990194025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StBanSmoothie_26
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 61
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92ba0c5b1d2413a0800000000000000
+      internalID: -6695677150461513061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StBanSmoothie_27
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 51
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84f9992a73ac3c40800000000000000
+      internalID: 5493445390564455564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StBanSmoothie_28
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1
+        width: 64
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b45cbc8d0e8e4e80800000000000000
+      internalID: -8192454483293481801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
