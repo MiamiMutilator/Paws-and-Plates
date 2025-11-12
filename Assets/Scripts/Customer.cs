@@ -196,7 +196,7 @@ public class Customer : MonoBehaviour
         {
             customerOrder.text = "Yum!";
             Debug.Log("Yum!");
-            prog.coins += 10;
+            prog.coins += 25;
             Destroy(collision.gameObject);
         }
         else
