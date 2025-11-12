@@ -860,7 +860,36 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      StBanSmoothie_0: -7437841540006433606
+      StBanSmoothie_1: -1905524851617254291
+      StBanSmoothie_10: -608553968183971888
+      StBanSmoothie_11: -1353616463610313318
+      StBanSmoothie_12: -2411084349480732692
+      StBanSmoothie_13: -4809994360155424546
+      StBanSmoothie_14: -3907352814724405332
+      StBanSmoothie_15: -3536867738545823064
+      StBanSmoothie_16: 7732150145725665475
+      StBanSmoothie_17: -8964967767753648939
+      StBanSmoothie_18: 473816444079807472
+      StBanSmoothie_19: 1600041614671524059
+      StBanSmoothie_2: -1381989166854197440
+      StBanSmoothie_20: 1859358333124802038
+      StBanSmoothie_21: -1095700463957440093
+      StBanSmoothie_22: -1047194553235538796
+      StBanSmoothie_23: -2389353566391411000
+      StBanSmoothie_24: 3125136877557700781
+      StBanSmoothie_25: -7692990520990194025
+      StBanSmoothie_26: -6695677150461513061
+      StBanSmoothie_27: 5493445390564455564
+      StBanSmoothie_28: -8192454483293481801
+      StBanSmoothie_3: 7461570528522565715
+      StBanSmoothie_4: 8241740772460735820
+      StBanSmoothie_5: -813782079099290711
+      StBanSmoothie_6: 4242518863126858417
+      StBanSmoothie_7: -2954427369758429219
+      StBanSmoothie_8: -7125073825510483616
+      StBanSmoothie_9: -9043803630157701101
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

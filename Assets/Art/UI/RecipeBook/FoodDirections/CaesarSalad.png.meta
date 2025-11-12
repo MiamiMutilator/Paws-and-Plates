@@ -610,7 +610,26 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CaesarSalad_0: -8597682131458458065
+      CaesarSalad_1: -7710733232007189583
+      CaesarSalad_10: 2419930804903310325
+      CaesarSalad_11: 3137736451243734879
+      CaesarSalad_12: 6279576212398048870
+      CaesarSalad_13: -5628127535643819868
+      CaesarSalad_14: -1199214506952461242
+      CaesarSalad_15: 7095247946280375152
+      CaesarSalad_16: 7187832806224948770
+      CaesarSalad_17: 8855330683503119558
+      CaesarSalad_18: 4735360852877481634
+      CaesarSalad_2: 7797727977950454372
+      CaesarSalad_3: -7219290272577807023
+      CaesarSalad_4: -7231378811482563596
+      CaesarSalad_5: -4774217845995788637
+      CaesarSalad_6: 636185383330706816
+      CaesarSalad_7: 5828264700207304863
+      CaesarSalad_8: -1687038338776797257
+      CaesarSalad_9: 6087629773476425274
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

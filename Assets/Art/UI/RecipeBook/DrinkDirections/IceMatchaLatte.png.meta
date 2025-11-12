@@ -535,7 +535,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IceMatchaLatte_0: -1034719850099162787
+      IceMatchaLatte_1: 125986110774002419
+      IceMatchaLatte_10: -637343875405813907
+      IceMatchaLatte_11: 3718328639720840719
+      IceMatchaLatte_12: 2158641496212470245
+      IceMatchaLatte_13: -4457525639816725442
+      IceMatchaLatte_14: 4193911333299269795
+      IceMatchaLatte_15: -2954991024217007454
+      IceMatchaLatte_2: -5092499355114830070
+      IceMatchaLatte_3: 8617857218510816585
+      IceMatchaLatte_4: 41729075357581739
+      IceMatchaLatte_5: -6180821264452840531
+      IceMatchaLatte_6: 2531547380832811768
+      IceMatchaLatte_7: 7289711078677544903
+      IceMatchaLatte_8: 7622644140036173312
+      IceMatchaLatte_9: -1638177303714834209
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -785,7 +785,33 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      VanFrap_0: -8457584600604343838
+      VanFrap_1: -7244146594280009092
+      VanFrap_10: 1713838129263791359
+      VanFrap_11: -3551510932612207462
+      VanFrap_12: 4489986869662274325
+      VanFrap_13: 7300923008893965229
+      VanFrap_14: 6668455031761382796
+      VanFrap_15: 4219374470048503652
+      VanFrap_16: 9148972823161875046
+      VanFrap_17: -6649877483556227657
+      VanFrap_18: -2074111275710934308
+      VanFrap_19: -6141951963240400697
+      VanFrap_2: -4370022936115788440
+      VanFrap_20: 400768422820128221
+      VanFrap_21: -6774798899958930756
+      VanFrap_22: -2128370357183667249
+      VanFrap_23: 3707322259201923811
+      VanFrap_24: 4853949713631397099
+      VanFrap_25: -5824906636436209050
+      VanFrap_3: 7369624910627731353
+      VanFrap_4: 6620092643359108892
+      VanFrap_5: -3424465637091817101
+      VanFrap_6: 1241334970734656475
+      VanFrap_7: 690587751925834652
+      VanFrap_8: 2074542897797906104
+      VanFrap_9: -4993364827194969223
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

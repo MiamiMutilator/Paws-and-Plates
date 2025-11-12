@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class Progression : MonoBehaviour
 {
+    public static Progression Instance;
+
     public int coins = 10;
 
     public bool hasBaconEggCheese;
@@ -21,7 +23,14 @@ public class Progression : MonoBehaviour
     public bool hasVanFrappe;
     private void Awake()
     {
-        DontDestroyOnLoad(this.gameObject);
+        if (Instance != null && Instance != this)
+        {
+            Destroy(gameObject); 
+            return;
+        }
+
+        Instance = this;
+        DontDestroyOnLoad(gameObject);
     }
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()

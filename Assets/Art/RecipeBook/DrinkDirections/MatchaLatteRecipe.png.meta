@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MatchaLatteRecipe_0: 3396516784862805361
+      MatchaLatteRecipe_1: 8486587508495095890
+      MatchaLatteRecipe_2: -5160190204853656783
+      MatchaLatteRecipe_3: 1451661828165021478
+      MatchaLatteRecipe_4: 7179329274763371971
+      MatchaLatteRecipe_5: -1776304537402108275
+      MatchaLatteRecipe_6: 221939816359486813
+      MatchaLatteRecipe_7: 3391844288317648899
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

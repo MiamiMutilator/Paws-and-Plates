@@ -485,7 +485,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FruitYogurt_0: 2840776227490622603
+      FruitYogurt_1: -2961414521614819362
+      FruitYogurt_10: -5832089978812660004
+      FruitYogurt_11: -3855444411733196172
+      FruitYogurt_12: -1882026309636061495
+      FruitYogurt_13: -4649585244380494865
+      FruitYogurt_2: 2104221345463878804
+      FruitYogurt_3: 4533258454328478183
+      FruitYogurt_4: 3047020131637900939
+      FruitYogurt_5: -6348488282068078669
+      FruitYogurt_6: -3145403668076168482
+      FruitYogurt_7: -1816117446694964240
+      FruitYogurt_8: 249644105446143722
+      FruitYogurt_9: 3368062005962666455
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

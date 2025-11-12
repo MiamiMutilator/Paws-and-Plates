@@ -39,13 +39,7 @@ public class Blender : MonoBehaviour
         {
             restartScene();
         }
-        //TryMakeCoffee();
-        TryMakeIcedMatchaLatte();
-        TryMakeIcedCoffee();
-        TryMakeManPeachSmoothie();
-        TryMakePineCocoSmoothie();
-        TryMakeStrawBanSmoothie();
-        TryMakeVanillaFrappe();
+        
     }
 
 
@@ -208,6 +202,33 @@ public class Blender : MonoBehaviour
     private void restartScene()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+    }
+
+    public void blend()
+    {
+        //TryMakeCoffee();
+        TryMakeIcedMatchaLatte();
+        TryMakeIcedCoffee();
+        TryMakeManPeachSmoothie();
+        TryMakePineCocoSmoothie();
+        TryMakeStrawBanSmoothie();
+        TryMakeVanillaFrappe();
+    }
+
+    public void discard()
+    {
+        Banana = false;
+        Coconut = false;
+        coffeeBean = false;
+        Ice = false;
+        Mango = false;
+        Matcha = false;
+        Milk = false;
+        Peach = false;
+        Pineapple = false;
+        Strawberry = false;
+        Vanilla = false;
+
     }
 
 }

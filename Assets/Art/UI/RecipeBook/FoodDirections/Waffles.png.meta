@@ -485,7 +485,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Waffles_0: 3966365081369333206
+      Waffles_1: 3309503092306055348
+      Waffles_10: -4776280172389893063
+      Waffles_11: -3063371424907443987
+      Waffles_12: 2757788308247045968
+      Waffles_13: -2816386998003719602
+      Waffles_2: -1929766386305219835
+      Waffles_3: 3117729913323571916
+      Waffles_4: -3293477852142674635
+      Waffles_5: -1444772084902352118
+      Waffles_6: -6823453339449258119
+      Waffles_7: -7089130006899291369
+      Waffles_8: 3953392452562044411
+      Waffles_9: 5171998806282977840
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

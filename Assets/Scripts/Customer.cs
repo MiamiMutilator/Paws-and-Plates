@@ -101,55 +101,77 @@ public class Customer : MonoBehaviour
         {
             prog = Object.FindAnyObjectByType<Progression>();
         }
-        //randomSeed = Random.Range(0, 15);
-        //Random.InitState(randomSeed);
-        typeOfCustomer = Random.Range(0, 16); 
-        switch (typeOfCustomer)
+
+        List<string> unlockedFoods = new List<string>();
+
+        if (prog.hasBaconEggCheese) unlockedFoods.Add("BaconEggCheese");
+        if (prog.hasBurger) unlockedFoods.Add("Burger");
+        if (prog.hasCaesarSalad) unlockedFoods.Add("CaesarSalad");
+        if (prog.hasOmelette) unlockedFoods.Add("Omelette");
+        if (prog.hasPancakes) unlockedFoods.Add("Pancakes");
+        if (prog.hasQuesadilla) unlockedFoods.Add("Quesadilla");
+        if (prog.hasScrambledEggs) unlockedFoods.Add("ScrambledEggs");
+        if (prog.hasWaffles) unlockedFoods.Add("Waffles");
+        if (prog.hasCoffee) unlockedFoods.Add("Coffee");
+        if (prog.hasIcedCoffee) unlockedFoods.Add("IceCoffee");
+        if (prog.hasMangoPeachSmoothie) unlockedFoods.Add("ManPeachSmoothie");
+        if (prog.hasMatchaLatte) unlockedFoods.Add("MatchaLatte");
+        if (prog.hasPineCocoSmoothie) unlockedFoods.Add("PineCocoSmoothie");
+        if (prog.hasStrawBanSmoothie) unlockedFoods.Add("StrawBanSmoothie");
+        if (prog.hasVanFrappe) unlockedFoods.Add("VanFrappe");
+        unlockedFoods.Add("Anything");
+
+        int randomFood = Random.Range(0, unlockedFoods.Count);
+        customersFood = unlockedFoods[randomFood];
+        switch (customersFood)
         {
-            case 1:
-                customersFood = "StrawBanSmoothie";
+            case "Anything":
+                typeOfCustomer = 0;
                 break;
-            case 2:
-                customersFood = "ManPeachSmoothie";
+            case "StrawBanSmoothie":
+                typeOfCustomer = 1;
                 break;
-            case 3:
-                customersFood = "IceCoffee";
+            case "ManPeachSmoothie":
+                typeOfCustomer = 2;
                 break;
-            case 4:
-                customersFood = "MatchaLatte";
+            case "IceCoffee":
+                typeOfCustomer = 3;
                 break;
-            case 5:
-                customersFood = "VanFrappe";
+            case "MatchaLatte":
+                typeOfCustomer = 4;
                 break;
-            case 6:
-                customersFood = "PineCocoSmoothie";
+            case "VanFrappe":
+                typeOfCustomer = 5;
                 break;
-            case 7:
-                customersFood = "Coffee";
+            case "PineCocoSmoothie":
+                typeOfCustomer = 6;
                 break;
-            case 8:
-                customersFood = "Burger";
+            case "Coffee":
+                typeOfCustomer = 7;
                 break;
-            case 9:
-                customersFood = "BaconEggCheese";
+            case "Burger":
+                typeOfCustomer = 8;
                 break;
-            case 10:
-                customersFood = "Quesadilla";
+            case "BaconEggCheese":
+                typeOfCustomer = 9;
                 break;
-            case 11:
-                customersFood = "ScrambledEggs";
+            case "Quesadilla":
+                typeOfCustomer = 10;
                 break;
-            case 12:
-                customersFood = "Salad";
+            case "ScrambledEggs":
+                typeOfCustomer = 11;
                 break;
-            case 13:
-                customersFood = "Omelette";
+            case "Salad":
+                typeOfCustomer = 12;
                 break;
-            case 14:
-                customersFood = "Pancakes";
+            case "Omelette":
+                typeOfCustomer = 13;
                 break;
-            case 15:
-                customersFood = "Waffles";
+            case "Pancakes":
+                typeOfCustomer = 14;
+                break;
+            case "Waffles":
+                typeOfCustomer = 15;
                 break;
             default:
                 customersFood = "Untagged";
@@ -163,7 +185,6 @@ public class Customer : MonoBehaviour
         
         if (customerPatience == 0)
         {
-            StopCoroutine(patienceTimer());
             Debug.Log("I'm leaving!");
             Destroy(gameObject);
         }
@@ -200,6 +221,7 @@ public class Customer : MonoBehaviour
 
     private IEnumerator patienceTimer()
     {
+        customerPatience = 10;
         while (customerPatience >= 0)
         {
             customerPatience--;

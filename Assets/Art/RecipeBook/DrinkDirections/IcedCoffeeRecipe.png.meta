@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IcedCoffeeRecipe_0: 5518389420483078498
+      IcedCoffeeRecipe_1: 4081681904416553447
+      IcedCoffeeRecipe_2: -1050125755126202358
+      IcedCoffeeRecipe_3: 6105931574172379484
+      IcedCoffeeRecipe_4: -103829781739285039
+      IcedCoffeeRecipe_5: -3216960943698392943
+      IcedCoffeeRecipe_6: 2338327089039700543
+      IcedCoffeeRecipe_7: -4909249914460892048
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

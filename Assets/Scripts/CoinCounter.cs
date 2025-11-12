@@ -9,21 +9,26 @@ public class CoinCounter : MonoBehaviour
     public int coinCount;
     public TextMeshProUGUI coinText;
 
+    public Progression prog;
+
 
     void Start()
     {
-
+        if (prog == null)
+        {
+            prog = Object.FindAnyObjectByType<Progression>();
+        }
     }
 
     // Update is called once per frame
     void Update()
     {
-        coinText.text = "Coins: " + coinCount.ToString();
+        coinText.text = "Coins: " + prog.coins.ToString();
     }
 
     public void CoinSpawn()
     {
-        coinCount+= 10;
+        prog.coins+= 10;
     }
 
 }

@@ -560,7 +560,24 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pancakes_0: 9021183664811052644
+      Pancakes_1: -8585818006456084992
+      Pancakes_10: -5883750744952805433
+      Pancakes_11: -7370390480383861760
+      Pancakes_12: -4226907182667747846
+      Pancakes_13: 948482593154528236
+      Pancakes_14: -5040798285522957338
+      Pancakes_15: 7621702865848018744
+      Pancakes_16: -4931698276837857395
+      Pancakes_2: 4391801402948246816
+      Pancakes_3: -587194983212985058
+      Pancakes_4: -6912354997420989613
+      Pancakes_5: -1908201256279618951
+      Pancakes_6: -8755901684671893103
+      Pancakes_7: 2881609703329304211
+      Pancakes_8: 3303571867070734049
+      Pancakes_9: -2977508855794738907
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
