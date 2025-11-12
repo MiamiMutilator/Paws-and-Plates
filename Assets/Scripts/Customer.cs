@@ -221,7 +221,7 @@ public class Customer : MonoBehaviour
 
     private IEnumerator patienceTimer()
     {
-        customerPatience = 10;
+        customerPatience = 60;
         while (customerPatience >= 0)
         {
             customerPatience--;
