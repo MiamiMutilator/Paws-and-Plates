@@ -17,7 +17,7 @@ public class ApplianceButton : MonoBehaviour
         if (enableDisable = !enableDisable)
         {
             fridgePanel.SetActive(true);
-            displayPanel.SetActive(false);
+            //displayPanel.SetActive(false);
             stovePanel.SetActive(false);
             cabinetPanel.SetActive(false);
             coffeeMachinePanel.SetActive(false);
@@ -33,7 +33,7 @@ public class ApplianceButton : MonoBehaviour
         if (enableDisable = !enableDisable)
         {
             coffeeMachinePanel.SetActive(true);
-            displayPanel.SetActive(false);
+            //displayPanel.SetActive(false);
             stovePanel.SetActive(false);
             cabinetPanel.SetActive(false);
             
@@ -49,7 +49,7 @@ public class ApplianceButton : MonoBehaviour
         if (enableDisable = !enableDisable)
         {
             cabinetPanel.SetActive(true);
-            displayPanel.SetActive(false);
+            //displayPanel.SetActive(false);
             stovePanel.SetActive(false);
             coffeeMachinePanel.SetActive(false);
             
@@ -66,7 +66,7 @@ public class ApplianceButton : MonoBehaviour
         {
             stovePanel.SetActive(true);
             fridgePanel.SetActive(false);
-            displayPanel.SetActive(false);
+            //displayPanel.SetActive(false);
             cabinetPanel.SetActive(false);
             coffeeMachinePanel.SetActive(false);
             
@@ -81,7 +81,7 @@ public class ApplianceButton : MonoBehaviour
     {
         if (enableDisable = !enableDisable)
         {
-            displayPanel.SetActive(true);
+            //displayPanel.SetActive(true);
             fridgePanel.SetActive(false);
             stovePanel.SetActive(false);
             cabinetPanel.SetActive(false);

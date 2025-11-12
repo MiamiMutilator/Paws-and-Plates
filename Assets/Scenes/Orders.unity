@@ -3097,7 +3097,7 @@ MonoBehaviour:
   enableDisable: 0
   fridgePanel: {fileID: 1462400646}
   stovePanel: {fileID: 1196440371}
-  displayPanel: {fileID: 645159851}
+  displayPanel: {fileID: 0}
   coffeeMachinePanel: {fileID: 1145709295}
   cabinetPanel: {fileID: 917454253}
 --- !u!114 &385258064
@@ -5236,7 +5236,7 @@ MonoBehaviour:
   enableDisable: 0
   fridgePanel: {fileID: 1462400646}
   stovePanel: {fileID: 1196440371}
-  displayPanel: {fileID: 645159851}
+  displayPanel: {fileID: 0}
   coffeeMachinePanel: {fileID: 1145709295}
   cabinetPanel: {fileID: 731856801}
 --- !u!114 &611278998
@@ -11595,7 +11595,7 @@ MonoBehaviour:
   enableDisable: 0
   fridgePanel: {fileID: 1462400646}
   stovePanel: {fileID: 1196440371}
-  displayPanel: {fileID: 645159851}
+  displayPanel: {fileID: 0}
   coffeeMachinePanel: {fileID: 1145709295}
   cabinetPanel: {fileID: 917454253}
 --- !u!114 &1192404602
@@ -16597,7 +16597,7 @@ MonoBehaviour:
   enableDisable: 0
   fridgePanel: {fileID: 1462400646}
   stovePanel: {fileID: 1196440371}
-  displayPanel: {fileID: 645159851}
+  displayPanel: {fileID: 0}
   coffeeMachinePanel: {fileID: 0}
   cabinetPanel: {fileID: 0}
 --- !u!114 &2022737537
@@ -17771,7 +17771,7 @@ MonoBehaviour:
   enableDisable: 0
   fridgePanel: {fileID: 1462400646}
   stovePanel: {fileID: 1196440371}
-  displayPanel: {fileID: 645159851}
+  displayPanel: {fileID: 0}
   coffeeMachinePanel: {fileID: 0}
   cabinetPanel: {fileID: 0}
 --- !u!114 &2084385735
