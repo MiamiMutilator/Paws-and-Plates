@@ -3,6 +3,22 @@ using UnityEngine;
 public class Progression : MonoBehaviour
 {
     public int coins = 10;
+
+    public bool hasBaconEggCheese;
+    public bool hasBurger;
+    public bool hasCaesarSalad;
+    public bool hasOmelette;
+    public bool hasPancakes;
+    public bool hasQuesadilla;
+    public bool hasScrambledEggs;
+    public bool hasWaffles;
+    public bool hasCoffee;
+    public bool hasIcedCoffee;
+    public bool hasMangoPeachSmoothie;
+    public bool hasMatchaLatte;
+    public bool hasPineCocoSmoothie;
+    public bool hasStrawBanSmoothie;
+    public bool hasVanFrappe;
     private void Awake()
     {
         DontDestroyOnLoad(this.gameObject);

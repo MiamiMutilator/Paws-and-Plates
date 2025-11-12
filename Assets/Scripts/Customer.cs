@@ -123,7 +123,7 @@ public class Customer : MonoBehaviour
                 break;
             case 6:
                 customersFood = "PineCocoSmoothie";
-                    break;
+                break;
             case 7:
                 customersFood = "Coffee";
                 break;

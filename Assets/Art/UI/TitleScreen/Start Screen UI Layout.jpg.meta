@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Start Screen UI Layout_0: 7338692910093994773
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

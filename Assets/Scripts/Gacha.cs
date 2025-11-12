@@ -132,21 +132,51 @@ public class Gacha : MonoBehaviour
 
         switch (RollNumber)
         {
-            case 0: RollItem(ref BaconEggCheese, "Bacon Egg & Cheese", BECText, 1); break;
-            case 1: RollItem(ref Burger, "Burger", BurgerText, 1); break;
-            case 2: RollItem(ref CaesarSalad, "Caesar Salad", CaesarSaladText, 2); break;
-            case 3: RollItem(ref Omelette, "Omelette", OmeletteText, 2); break;
-            case 4: RollItem(ref Pancakes, "Pancakes", PancakeText, 2); break;
-            case 5: RollItem(ref Quesadilla, "Quesadilla", QuesadillaText, 2); break;
-            case 6: RollItem(ref ScrambledEggs, "Scrambled Eggs", ScrambledText, 2); break;
-            case 7: RollItem(ref Waffles, "Waffles", WaffleText, 3); break;
-            case 8: RollItem(ref Coffee, "Coffee", CoffeeText, 3); break;
-            case 9: RollItem(ref IcedCoffee, "Iced Coffee", IcedCoffeeText, 3); break;
-            case 10: RollItem(ref MangoPeachSmoothie, "Mango Peach Smoothie", ManPeachSmoothieText, 4); break;
-            case 11: RollItem(ref MatchaLatte, "Matcha Latte", MatchaText, 4); break;
-            case 12: RollItem(ref PineCocoSmoothie, "Pine-Coco Smoothie", PineCocoSmoothieText, 4); break;
-            case 13: RollItem(ref StrawBanSmoothie, "Straw-Ban Smoothie", StrawBanSmoothieText, 5); break;
-            case 14: RollItem(ref VanFrappe, "Vanilla Frappe", VanFrappeText, 6); break;
+            case 0: RollItem(ref BaconEggCheese, "Bacon Egg & Cheese", BECText, 1);
+                prog.hasBaconEggCheese = true;
+                break;
+            case 1: RollItem(ref Burger, "Burger", BurgerText, 1);
+                prog.hasBurger = true;
+                break;
+            case 2: RollItem(ref CaesarSalad, "Caesar Salad", CaesarSaladText, 2);
+                prog.hasCaesarSalad = true;
+                break;
+            case 3: RollItem(ref Omelette, "Omelette", OmeletteText, 2);
+                prog.hasOmelette = true;
+                break;
+            case 4: RollItem(ref Pancakes, "Pancakes", PancakeText, 2);
+                prog.hasPancakes = true;
+                break;
+            case 5: RollItem(ref Quesadilla, "Quesadilla", QuesadillaText, 2);
+                prog.hasQuesadilla = true;
+                break;
+            case 6: RollItem(ref ScrambledEggs, "Scrambled Eggs", ScrambledText, 2);
+                prog.hasScrambledEggs = true;
+                break;
+            case 7: RollItem(ref Waffles, "Waffles", WaffleText, 3);
+                prog.hasWaffles = true;
+                break;
+            case 8: RollItem(ref Coffee, "Coffee", CoffeeText, 3);
+                prog.hasCoffee = true;
+                break;
+            case 9: RollItem(ref IcedCoffee, "Iced Coffee", IcedCoffeeText, 3);
+                prog.hasIcedCoffee = true;
+                break;
+            case 10: RollItem(ref MangoPeachSmoothie, "Mango Peach Smoothie", ManPeachSmoothieText, 4);
+                prog.hasMangoPeachSmoothie = true;
+                break;
+            case 11: RollItem(ref MatchaLatte, "Matcha Latte", MatchaText, 4);
+                prog.hasMatchaLatte = true;
+                break;
+            case 12: RollItem(ref PineCocoSmoothie, "Pine-Coco Smoothie", PineCocoSmoothieText, 4);
+                prog.hasPineCocoSmoothie = true;
+                break;
+            case 13: RollItem(ref StrawBanSmoothie, "Straw-Ban Smoothie", StrawBanSmoothieText, 5);
+                prog.hasStrawBanSmoothie = true;
+                break;
+            case 14: RollItem(ref VanFrappe, "Vanilla Frappe", VanFrappeText, 6);
+                prog.hasVanFrappe = true;
+                break;
         }
     }
 
