@@ -30,9 +30,9 @@ public class Scenes : MonoBehaviour
         SceneManager.LoadScene("Gacha");
     }
 
-    public void Theme()
+    public void Settings()
     {
-        SceneManager.LoadScene("Theme");
+        SceneManager.LoadScene("Settings");
     }
     public void Customers()
     {
