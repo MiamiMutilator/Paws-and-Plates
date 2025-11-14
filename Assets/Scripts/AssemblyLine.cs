@@ -40,14 +40,14 @@ public class AssemblyLine : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        TryMakeBreakfastQuesadilla();
-        TryMakeBaconEggCheese();
-        TryMakeCaesarSalad();
-        TryMakeCheeseburger();
-        TryMakeOmelette();
-        TryMakePancakes();
-        TryMakeWaffle();
-        TryMakeScrambledEggs();
+        if (TryMakeBreakfastQuesadilla()) return;
+        if (TryMakeBaconEggCheese()) return;
+        if (TryMakeCaesarSalad()) return;
+        if (TryMakeCheeseburger()) return;
+        if (TryMakeOmelette()) return;
+        if (TryMakePancakes()) return;
+        if (TryMakeWaffle()) return;
+        if (TryMakeScrambledEggs()) return;
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -145,7 +145,7 @@ public class AssemblyLine : MonoBehaviour
 
     }
 
-    private void TryMakeCheeseburger()
+    private bool TryMakeCheeseburger()
     {
         if (Lettuce && Tomato && Onion && Patty && Bun)
         {
@@ -156,10 +156,12 @@ public class AssemblyLine : MonoBehaviour
             GreenOnion = false;
             Patty = false;
             Bun = false;
+            return true;
         }
+        return false;
     }
 
-    private void TryMakeBaconEggCheese()
+    private bool TryMakeBaconEggCheese()
     {
         if (Bacon && Egg && Cheese)
         {
@@ -168,10 +170,12 @@ public class AssemblyLine : MonoBehaviour
             Bacon = false;
             Egg = false;
             Cheese = false;
+            return true;
         }
+        return false;
     }
 
-    private void TryMakeBreakfastQuesadilla()
+    private bool TryMakeBreakfastQuesadilla()
     {
         if (Bacon && Egg && Cheese && Tortilla)
         {
@@ -181,9 +185,11 @@ public class AssemblyLine : MonoBehaviour
             Bacon = false;
             Egg = false;
             Cheese = false;
+            return true;
         }
+        return false;
     }
-    private void TryMakeScrambledEggs()
+    private bool TryMakeScrambledEggs()
     {
         if (Butter && Egg && GreenOnion)
         {
@@ -192,9 +198,11 @@ public class AssemblyLine : MonoBehaviour
             Butter = false;
             Egg = false;
             GreenOnion = false;
+            return true;
         }
+        return false;
     }
-    private void TryMakeCaesarSalad()
+    private bool TryMakeCaesarSalad()
     {
         if (Lettuce && Cheese && Croutons)
         {
@@ -203,9 +211,11 @@ public class AssemblyLine : MonoBehaviour
             Lettuce = false;
             Cheese = false;
             Croutons = false;
+            return true;
         }
+        return false;
     }
-    private void TryMakeOmelette()
+    private bool TryMakeOmelette()
     {
         if (Spinach && Cheese && Egg && GreenOnion)
         {
@@ -214,9 +224,11 @@ public class AssemblyLine : MonoBehaviour
             Spinach = false;
             Cheese = false;
             Egg = false;
+            return true;
         }
+        return false;
     }
-    private void TryMakePancakes()
+    private bool TryMakePancakes()
     {
         if (Egg && Milk && Flour && Butter)
         {
@@ -226,9 +238,11 @@ public class AssemblyLine : MonoBehaviour
             Milk = false;
             Flour = false;
             Butter = false;
+            return true;
         }
+        return false;
     }
-    private void TryMakeWaffle()
+    private bool TryMakeWaffle()
     {
         if (Egg && Milk && Flour)
         {
@@ -237,6 +251,8 @@ public class AssemblyLine : MonoBehaviour
             Egg = false;
             Milk = false;
             Flour = false;
+            return true;
         }
+        return false;
     }
 }

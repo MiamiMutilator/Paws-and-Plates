@@ -6,18 +6,13 @@ using UnityEngine.UI;
 
 public class CoinCounter : MonoBehaviour
 {
-    public int coinCount;
     public TextMeshProUGUI coinText;
 
     public Progression prog;
 
-
     void Start()
     {
-        if (prog == null)
-        {
-            prog = Object.FindAnyObjectByType<Progression>();
-        }
+        prog = Progression.Instance;
     }
 
     // Update is called once per frame

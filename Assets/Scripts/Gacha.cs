@@ -59,12 +59,14 @@ public class Gacha : MonoBehaviour
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
+
+    private void Awake()
+    {
+        prog = Progression.Instance;
+    }
     void Start()
     {
-        if (prog == null)
-        {
-            prog = Object.FindAnyObjectByType<Progression>();
-        }
+        
 
         randomSeed = Random.Range(0, 9999);
         Random.InitState(randomSeed);
@@ -79,7 +81,10 @@ public class Gacha : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        if (prog == null)
+        {
+            prog = Object.FindAnyObjectByType<Progression>();
+        }
     }
 
     public void RollButton()

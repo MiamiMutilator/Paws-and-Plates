@@ -97,16 +97,13 @@ public class Customer : MonoBehaviour
 
     private void Start()
     {
-        if (prog == null)
-        {
-            prog = Object.FindAnyObjectByType<Progression>();
-        }
+        prog = Progression.Instance;
 
         List<string> unlockedFoods = new List<string>();
 
         if (prog.hasBaconEggCheese) unlockedFoods.Add("BaconEggCheese");
         if (prog.hasBurger) unlockedFoods.Add("Burger");
-        if (prog.hasCaesarSalad) unlockedFoods.Add("CaesarSalad");
+        if (prog.hasCaesarSalad) unlockedFoods.Add("Salad");
         if (prog.hasOmelette) unlockedFoods.Add("Omelette");
         if (prog.hasPancakes) unlockedFoods.Add("Pancakes");
         if (prog.hasQuesadilla) unlockedFoods.Add("Quesadilla");
@@ -119,13 +116,13 @@ public class Customer : MonoBehaviour
         if (prog.hasPineCocoSmoothie) unlockedFoods.Add("PineCocoSmoothie");
         if (prog.hasStrawBanSmoothie) unlockedFoods.Add("StrawBanSmoothie");
         if (prog.hasVanFrappe) unlockedFoods.Add("VanFrappe");
-        unlockedFoods.Add("Anything");
+        unlockedFoods.Add("Untagged");
 
         int randomFood = Random.Range(0, unlockedFoods.Count);
         customersFood = unlockedFoods[randomFood];
         switch (customersFood)
         {
-            case "Anything":
+            case "Untagged":
                 typeOfCustomer = 0;
                 break;
             case "StrawBanSmoothie":
