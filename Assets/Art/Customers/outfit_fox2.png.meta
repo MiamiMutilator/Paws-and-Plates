@@ -234,7 +234,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      outfit_fox2_0: 591159768202556828
+      outfit_fox2_1: 7733783642634213334
+      outfit_fox2_2: -4943486382381713070
+      outfit_fox2_3: 5097516992560221311
+      outfit_fox2_4: 8781691547366992122
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

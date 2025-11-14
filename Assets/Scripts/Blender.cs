@@ -114,7 +114,7 @@ public class Blender : MonoBehaviour
     }
 
 
-    private void TryMakeStrawBanSmoothie()
+    private bool TryMakeStrawBanSmoothie()
     {
         if (Strawberry && Banana && Milk && Ice)
         {
@@ -124,23 +124,26 @@ public class Blender : MonoBehaviour
             Banana = false;
             Milk = false;
             Ice = false;
-
+            return true;
         }
+        return false;
+
     }
-    private void TryMakeIcedMatchaLatte()
+    private bool TryMakeIcedMatchaLatte()
     {
-        if (Milk && Matcha && Coffee && Ice)
+        if (Milk && Matcha && Ice)
         {
             Debug.Log("Made an Iced Matcha Latte");
             Instantiate(IcedMatchaLatte, foodSpawner.position, Quaternion.identity);
             Milk = false;
             Matcha = false;
-            coffeeBean = false;
             Ice = false;
+            return true;
         }
+        return false;
     }
 
-    private void TryMakeCoffee()
+    private bool TryMakeCoffee()
     {
         if (Milk && coffeeBean)
         {
@@ -148,10 +151,12 @@ public class Blender : MonoBehaviour
             Instantiate(Coffee, foodSpawner.position, Quaternion.identity);
             Milk = false;
             coffeeBean = false;
+            return true;
         }
+        return false;
     }
 
-    private void TryMakeManPeachSmoothie()
+    private bool TryMakeManPeachSmoothie()
     {
         if (Mango && Peach && Milk)
         {
@@ -160,12 +165,14 @@ public class Blender : MonoBehaviour
             Milk = false;
             Peach = false;
             Mango = false;
+            return true;
         }
+        return false;
     }
 
-    private void TryMakeVanillaFrappe()
+    private bool TryMakeVanillaFrappe()
     {
-        if (Vanilla && Milk && Coffee)
+        if (Vanilla && Milk && coffeeBean)
         {
             Debug.Log("Made a Vanillea Frappe");
             Instantiate(VanillaFrappucino, foodSpawner.position, Quaternion.identity);
@@ -173,9 +180,11 @@ public class Blender : MonoBehaviour
             Vanilla = false;
             Milk = false;
             coffeeBean = false;
+            return true;
         }
+        return false;
     }
-    private void TryMakePineCocoSmoothie()
+    private bool TryMakePineCocoSmoothie()
     {
         if (Coconut && Pineapple && Milk)
         {
@@ -184,9 +193,11 @@ public class Blender : MonoBehaviour
             Coconut = false;
             Pineapple = false;
             Milk = false;
+            return true;
         }
+        return false;
     }
-    private void TryMakeIcedCoffee()
+    private bool TryMakeIcedCoffee()
     {
         if (coffeeBean && Milk && Ice)
         {
@@ -195,8 +206,9 @@ public class Blender : MonoBehaviour
             coffeeBean = false;
             Milk = false;
             Ice = false;
-
+            return true;
         }
+        return false;
     }
 
     private void restartScene()
@@ -207,12 +219,12 @@ public class Blender : MonoBehaviour
     public void blend()
     {
         //TryMakeCoffee();
-        TryMakeIcedMatchaLatte();
-        TryMakeIcedCoffee();
-        TryMakeManPeachSmoothie();
-        TryMakePineCocoSmoothie();
-        TryMakeStrawBanSmoothie();
-        TryMakeVanillaFrappe();
+        if (TryMakeIcedMatchaLatte()) return;
+        if (TryMakeIcedCoffee()) return;
+        if (TryMakeManPeachSmoothie()) return;
+        if (TryMakePineCocoSmoothie()) return;
+        if (TryMakeStrawBanSmoothie()) return;
+        if (TryMakeVanillaFrappe()) return;
     }
 
     public void discard()

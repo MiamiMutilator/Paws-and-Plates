@@ -359,7 +359,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      outfit_bunny2_0: 2737826461347334596
+      outfit_bunny2_1: -3686864996770536447
+      outfit_bunny2_2: 3805629439699395904
+      outfit_bunny2_3: 4688633689074595556
+      outfit_bunny2_4: -1534047740493194210
+      outfit_bunny2_5: -7843410781907426060
+      outfit_bunny2_6: 8648929760868597289
+      outfit_bunny2_7: 1826507356092779383
+      outfit_bunny2_8: -5027645202436078998
+      outfit_bunny2_9: 7359830535751680394
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

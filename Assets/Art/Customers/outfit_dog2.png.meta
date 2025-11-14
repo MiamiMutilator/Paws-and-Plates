@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      outfit_dog2_0: -606875514722777955
+      outfit_dog2_1: -7049325164881354730
+      outfit_dog2_2: -6115486216902020801
+      outfit_dog2_3: 6316494171019005994
+      outfit_dog2_4: -4954835281831136546
+      outfit_dog2_5: 3112690561636987758
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -173,10 +173,11 @@ public class AssemblyLine : MonoBehaviour
 
     private void TryMakeBreakfastQuesadilla()
     {
-        if (Bacon && Egg && Cheese)
+        if (Bacon && Egg && Cheese && Tortilla)
         {
             Debug.Log("Made a Bacon Egg and Cheese");
             Instantiate(Quesadilla, foodSpawner.position, Quaternion.identity);
+            Tortilla = false;
             Bacon = false;
             Egg = false;
             Cheese = false;
