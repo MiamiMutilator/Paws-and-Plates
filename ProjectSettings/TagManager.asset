@@ -51,6 +51,7 @@ TagManager:
   - Waffles
   - BurntPatty
   - BurntBacon
+  - CustomerSpawner
   layers:
   - Default
   - TransparentFX

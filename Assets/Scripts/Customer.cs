@@ -11,10 +11,25 @@ public class Customer : MonoBehaviour
     public int customerPatience = 60;
     public int dialogueNum;
     public string customersFood;
+    public GameObject chatBubble;
 
     public TextMeshProUGUI customerOrder;
 
     public Progression prog;
+
+    //customer movement
+    public Transform[] waypoints;
+    public float moveSpeed = 2f;
+    private int waypointIndex = 0;
+    private Coroutine patienceCoroutine;
+
+
+    [SerializeField] Sprite[] arraySprites;
+    [SerializeField] Sprite newSprite;
+    public SpriteRenderer customerEmotion;
+
+    //track if customer is at last way point
+    private bool hasArrivedAtService = false; 
 
     private Dictionary<int, string[]> customerDialogues = new Dictionary<int, string[]>();
 
@@ -97,7 +112,13 @@ public class Customer : MonoBehaviour
 
     private void Start()
     {
-        prog = Progression.Instance;
+        if (prog == null)
+        {
+            prog = Object.FindAnyObjectByType<Progression>();
+        }
+
+        if (chatBubble != null)
+            chatBubble.SetActive(false);
 
         List<string> unlockedFoods = new List<string>();
 
@@ -174,27 +195,66 @@ public class Customer : MonoBehaviour
                 customersFood = "Untagged";
                 break;
         }
-        customerBehavior();
+ 
     }
 
     private void Update()
     {
-        
-        if (customerPatience == 0)
-        {
-            Debug.Log("I'm leaving!");
-            Destroy(gameObject);
-        }
+        Move();
     }
+
+    private void Move() //moves the customer
+    {
+        if (waypoints == null || waypoints.Length == 0)
+            return;
+
+        Transform target = waypoints[waypointIndex];
+        transform.position = Vector2.MoveTowards(transform.position, waypoints[waypointIndex].transform.position, moveSpeed * Time.deltaTime);
+
+        if (Vector2.Distance(transform.position, waypoints[waypointIndex].transform.position) < 0.01f)
+        {
+            if (waypointIndex == waypoints.Length - 1) //show chat bubble at final waypoint
+            {
+                if (!hasArrivedAtService) // only activate bubble and run arrival behavior once
+                {
+                    if (chatBubble != null)
+                        chatBubble.SetActive(true);
+                    customerBehavior();
+                    hasArrivedAtService = true;
+                }
+                // keep at last index so customer stays at the service point
+            }
+            else
+            {
+                // move to next waypoint 
+                waypointIndex += 1;
+            }
+        }
+
+    }
+
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        if (collision.gameObject.CompareTag("Customer")) //so customer colliders aren't misread as food colliders
+            return;
+
         if (collision.gameObject.CompareTag(customersFood) || typeOfCustomer == 0)
         {
             customerOrder.text = "Yum!";
             Debug.Log("Yum!");
+            newSprite = arraySprites[1];
+            customerEmotion.sprite = newSprite;
             prog.coins += 25;
             Destroy(collision.gameObject);
+            if (patienceCoroutine != null)
+            {
+                StopCoroutine(patienceCoroutine);
+                patienceCoroutine = null;
+            }
+            // wait 4 seconds before destroying the customer
+            StartCoroutine(DestroyAfterDelay(4f));
+
         }
         else
         {
@@ -203,9 +263,29 @@ public class Customer : MonoBehaviour
         }
     }
 
+    public void OnTriggerStay2D(Collider2D collision) //stops if there's a customer in front of them 
+    {
+        if (collision.gameObject.CompareTag("Customer"))
+        {
+            moveSpeed = 0f;
+        }
+        return;
+    }
+
+    private void OnTriggerExit2D(Collider2D collision) //will keep walking if no customer is infront pf them
+    {
+        if (collision.gameObject.CompareTag("Customer"))
+        {
+            moveSpeed = 2f;
+        }
+        return;
+    }
+
+
     private void customerBehavior()
     {
-        StartCoroutine(patienceTimer());
+        if (patienceCoroutine == null)
+            patienceCoroutine = StartCoroutine(patienceTimer());
 
         if (customerDialogues.ContainsKey(typeOfCustomer))
         {
@@ -218,12 +298,33 @@ public class Customer : MonoBehaviour
 
     private IEnumerator patienceTimer()
     {
-        customerPatience = 60;
         while (customerPatience >= 0)
         {
             customerPatience--;
             yield return new WaitForSeconds(1);
         }
+
+        patienceCoroutine = null;
+        Leave();
     }
+
+
+    private void Leave()
+    {
+
+        customerOrder.text = "I'm leaving!";
+        Debug.Log("I'm leaving!");
+        StartCoroutine(DestroyAfterDelay(4f));
+        newSprite = arraySprites[0];
+        customerEmotion.sprite = newSprite;
+
+    }
+
+    private IEnumerator DestroyAfterDelay(float delay)
+    {
+        yield return new WaitForSeconds(delay);
+        Destroy(gameObject);
+    }
+
 
 }
