@@ -1574,6 +1574,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   customers:
   - {fileID: 971513761910695981, guid: f970deccb6f5a2f41829ec895bedbb81, type: 3}
+  - {fileID: 5002846416902265018, guid: 5cf25ad2537eaa043916a7cc6c1f9806, type: 3}
+  - {fileID: 958095331854544652, guid: b424dcfaaebfd8e44a7e46e2d2ab80ff, type: 3}
+  - {fileID: 8118086286584826976, guid: a1b7950755e449c43a972e0c847d27e5, type: 3}
+  - {fileID: 4119371208003782663, guid: e372a45e360dc364096788bae9abb417, type: 3}
+  - {fileID: 6546855747738171771, guid: ffcb93807c913014b8b3fe41149cd52d, type: 3}
+  - {fileID: 8601174242622652392, guid: 88fe22abd4e1f5942af31647c7b3b9ce, type: 3}
+  - {fileID: 5545680954338545947, guid: 7c8b3d645b0b3cc4d8931b1c6df13e23, type: 3}
+  - {fileID: 4879086508372788407, guid: 57ff7badc87259444a924b0e7ede76f4, type: 3}
+  - {fileID: 2658529277316723063, guid: 618788bc8e0883844b9590a7ad5e7acb, type: 3}
+  - {fileID: 7599989966159960427, guid: 91977d1880ca820429afdc5d4d30a667, type: 3}
+  - {fileID: 731073868321442520, guid: 053c2ec816b9f3c48b7460060e63575b, type: 3}
+  - {fileID: 6388064274463084093, guid: b37044a6c8d86394b97e52fcb35bfd76, type: 3}
+  - {fileID: 4160682215503912973, guid: e285905385c476f4888b9781d5bc32aa, type: 3}
+  - {fileID: 3233498112532361911, guid: 6df9a590a6db2884baca0ee02839b400, type: 3}
   customerInterval: 3
   spawnPoint: {fileID: 654840036}
   waypoint1: {fileID: 1782922839}
