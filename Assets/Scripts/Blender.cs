@@ -22,7 +22,6 @@ public class Blender : MonoBehaviour
     public GameObject MangoPeachSmoothie;
     public GameObject VanillaFrappucino;
     public GameObject PineappleCoconutSmoothie;
-    public GameObject IcedCoffee;
 
     public Transform foodSpawner;
 
@@ -197,19 +196,6 @@ public class Blender : MonoBehaviour
         }
         return false;
     }
-    private bool TryMakeIcedCoffee()
-    {
-        if (coffeeBean && Milk && Ice)
-        {
-            Debug.Log("Made an Iced Coffee");
-            Instantiate(IcedCoffee, foodSpawner.position, Quaternion.identity);
-            coffeeBean = false;
-            Milk = false;
-            Ice = false;
-            return true;
-        }
-        return false;
-    }
 
     private void restartScene()
     {
@@ -220,7 +206,6 @@ public class Blender : MonoBehaviour
     {
         //TryMakeCoffee();
         if (TryMakeIcedMatchaLatte()) return;
-        if (TryMakeIcedCoffee()) return;
         if (TryMakeManPeachSmoothie()) return;
         if (TryMakePineCocoSmoothie()) return;
         if (TryMakeStrawBanSmoothie()) return;

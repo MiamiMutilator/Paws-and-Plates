@@ -17,6 +17,8 @@ public class AssemblyLine : MonoBehaviour
     bool Croutons;
     bool Milk;
     bool Flour;
+    bool Yogurt;
+    bool StrawBerry;
 
     public GameObject BaconEggCheese;
     public GameObject Burger;
@@ -26,7 +28,7 @@ public class AssemblyLine : MonoBehaviour
     public GameObject Quesadilla;
     public GameObject ScrambledEggs;
     public GameObject Waffles;
-
+    public GameObject FruitYogurt;
 
     public Transform foodSpawner;
 
@@ -48,6 +50,7 @@ public class AssemblyLine : MonoBehaviour
         if (TryMakePancakes()) return;
         if (TryMakeWaffle()) return;
         if (TryMakeScrambledEggs()) return;
+        if (TryMakeFruitYogurt()) return;
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -142,12 +145,26 @@ public class AssemblyLine : MonoBehaviour
             Debug.Log("Flour added!");
             Destroy(collision.gameObject);
         }
+        if (collision.CompareTag("Yogurt"))
+        {
+            Yogurt = true;
+            Debug.Log("Yogurt added!");
+            Destroy(collision.gameObject);
+        }
+        if (collision.CompareTag("Strawberry"))
+        {
+            StrawBerry = true;
+            Debug.Log("Strawberry added!");
+            Destroy(collision.gameObject);
+        }
+
+
 
     }
 
     private bool TryMakeCheeseburger()
     {
-        if (Lettuce && Tomato && Onion && Patty && Bun)
+        if (Lettuce && Cheese && Tomato && Onion && Patty && Bun)
         {
             Debug.Log("Made a Cheeseburger");
             Instantiate(Burger, foodSpawner.position, Quaternion.identity);
@@ -156,6 +173,7 @@ public class AssemblyLine : MonoBehaviour
             GreenOnion = false;
             Patty = false;
             Bun = false;
+            Cheese = false;
             return true;
         }
         return false;
@@ -255,4 +273,17 @@ public class AssemblyLine : MonoBehaviour
         }
         return false;
     }
+    private bool TryMakeFruitYogurt()
+    {
+        if (Yogurt && StrawBerry)
+        {
+            Debug.Log("Made Fruit Yogurt");
+            Instantiate(FruitYogurt, foodSpawner.position, Quaternion.identity);
+            Yogurt = false;
+            StrawBerry = false;
+            return true;
+        }
+        return false;
+    }
+
 }
