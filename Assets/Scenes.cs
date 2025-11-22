@@ -34,8 +34,8 @@ public class Scenes : MonoBehaviour
     {
         SceneManager.LoadScene("Settings");
     }
-    public void Customers()
+    public void ThemeShop()
     {
-        SceneManager.LoadScene("Customers");
+        SceneManager.LoadScene("ThemeShop");
     }
 }

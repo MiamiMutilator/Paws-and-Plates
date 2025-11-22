@@ -404,8 +404,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.0021973, y: 0.0073853}
-  m_SizeDelta: {x: 115.57, y: 115.56}
+  m_AnchoredPosition: {x: 0.0021973, y: -0.0071068}
+  m_SizeDelta: {x: 115.57, y: 137.17}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &241108424
 MonoBehaviour:
@@ -661,7 +661,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 32613782}
         m_TargetAssemblyTypeName: Scenes, Assembly-CSharp
-        m_MethodName: Customers
+        m_MethodName: ThemeShop
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -691,7 +691,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 5525314177359259141, guid: bcf4665e5d9c728468610b4848e93c3e, type: 3}
+  m_Sprite: {fileID: -8678435745122928177, guid: cc2cd2e5bf78f5d4f80de85d93b4c933, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

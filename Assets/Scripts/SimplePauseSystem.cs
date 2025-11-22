@@ -1,6 +1,6 @@
 using UnityEngine;
-using UnityEngine.UI; // For UI Images
-using System.Collections.Generic; // For Lists
+using UnityEngine.UI; 
+using System.Collections.Generic; 
 
 public class SimplePauseSystem : MonoBehaviour
 {
@@ -12,15 +12,15 @@ public class SimplePauseSystem : MonoBehaviour
     [Tooltip("Drag UI appliances here.")]
     [SerializeField] private List<Image> appliances; 
 
-    [Header("Dynamic Characters (Sprites)")]
+    [Header("Dynamic Characters")]
     [Tooltip("Type the exact Tag name of your characters here.")]
-    [SerializeField] private string characterTag = "Player"; 
+    [SerializeField] private string characterTag = "Walker"; // Check your Tag!
     
-    // Internal list to remember which characters we dimmed
-    private List<SpriteRenderer> dimmedCharacters = new List<SpriteRenderer>();
+    // CHANGED: We now store a list of ALL renderers found (Body + Bubbles + Etc)
+    private List<SpriteRenderer> dimmedSprites = new List<SpriteRenderer>();
 
     private Color normalColor = Color.white;
-    private Color dimmedColor = new Color(0.5f, 0.5f, 0.5f, 1f); // Dark Grey
+    private Color dimmedColor = new Color(0.5f, 0.5f, 0.5f, 1f); 
 
     private void Start()
     {
@@ -36,13 +36,11 @@ public class SimplePauseSystem : MonoBehaviour
         if (pauseMenuPanel != null) pauseMenuPanel.SetActive(true);
         if (pauseButton != null) pauseButton.SetActive(false);
 
-        // 1. Dim Appliances (UI)
         foreach (Image app in appliances)
         {
             if (app != null) app.color = dimmedColor;
         }
 
-        // 2. Dim Dynamic Characters (Sprites)
         FindAndDimCharacters();
     }
 
@@ -53,36 +51,34 @@ public class SimplePauseSystem : MonoBehaviour
         if (pauseMenuPanel != null) pauseMenuPanel.SetActive(false);
         if (pauseButton != null) pauseButton.SetActive(true);
 
-        // 1. Restore Appliances
         foreach (Image app in appliances)
         {
             if (app != null) app.color = normalColor;
         }
 
-        // 2. Restore Characters
-        foreach (SpriteRenderer sr in dimmedCharacters)
+        // Restore ALL sprites (Bubbles included)
+        foreach (SpriteRenderer sr in dimmedSprites)
         {
             if (sr != null) sr.color = normalColor;
         }
         
-        // Clear the list so we can find them fresh next time
-        dimmedCharacters.Clear();
+        dimmedSprites.Clear();
     }
 
     private void FindAndDimCharacters()
     {
-        // Find every object in the scene with the specific Tag
         GameObject[] foundObjects = GameObject.FindGameObjectsWithTag(characterTag);
 
         foreach (GameObject obj in foundObjects)
         {
-            // Get the SpriteRenderer (what makes them visible)
-            SpriteRenderer sr = obj.GetComponent<SpriteRenderer>();
+            // CHANGED: usage of GetComponentsInChildren (Plural)
+            // This grabs the Body, the Chat Bubble, hats, etc.
+            SpriteRenderer[] allRenderers = obj.GetComponentsInChildren<SpriteRenderer>();
             
-            if (sr != null)
+            foreach (SpriteRenderer sr in allRenderers)
             {
                 sr.color = dimmedColor;
-                dimmedCharacters.Add(sr); // Add to list so we can undim them later
+                dimmedSprites.Add(sr); 
             }
         }
     }
