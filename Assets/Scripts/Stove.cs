@@ -15,6 +15,11 @@ public class Stove : MonoBehaviour
     public GameObject CookedBacon;
     public GameObject BurntBacon;
 
+    //public GameObject RawEgg;
+    //public GameObject CookedEgg;
+    //public GameObject BurntEgg;
+
+
     public Slider cookMeter;
     public Image fillImage;
     public Image backgroundImage;
@@ -37,6 +42,7 @@ public class Stove : MonoBehaviour
         {
             { "RawPatty", (RawPatty, CookedPatty, BurntPatty) },
             { "RawBacon", (RawBacon, CookedBacon, BurntBacon) }
+            //{ "Egg", (RawEgg, CookedEgg, BurntEgg) }
         };
 
         cookMeter.gameObject.SetActive(false);
