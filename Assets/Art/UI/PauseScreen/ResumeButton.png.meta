@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 3e31a0f8f6d52f048be6d39fac50dc65
+guid: 75ab57ec447f22845a90bae23dfe5885
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3564486972966285212
-    second: Gacha Screen UI Layout_0
+      213: 2433152336268005233
+    second: ResumeButton_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Gacha Screen UI Layout_0
+      name: ResumeButton_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1708
-        height: 960
+        width: 543
+        height: 158
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c9fa926340a977130800000000000000
-      internalID: 3564486972966285212
+      spriteID: 17f8aaf882b44c120800000000000000
+      internalID: 2433152336268005233
       vertices: []
       indices: 
       edges: []

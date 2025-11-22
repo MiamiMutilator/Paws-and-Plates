@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: cea03e4072bd82647a4a44ffa294d812
+guid: e031730db0828014bab40600e0f1ce77
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3564486972966285212
-    second: Gacha Screen UI Layout_0
+      213: 8249789822515323462
+    second: image 7_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Gacha Screen UI Layout_0
+      name: image 7_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1708
-        height: 960
+        width: 59
+        height: 114
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c9fa926340a977130800000000000000
-      internalID: 3564486972966285212
+      spriteID: 642a8a262242d7270800000000000000
+      internalID: 8249789822515323462
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Gacha Screen UI Layout_0: 3564486972966285212
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 3e31a0f8f6d52f048be6d39fac50dc65
+guid: 7c9c426bb63dcc5409206ec453e39ca6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3564486972966285212
-    second: Gacha Screen UI Layout_0
+      213: 6410465096218271185
+    second: yogurt_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Gacha Screen UI Layout_0
+      name: yogurt_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1708
-        height: 960
+        x: 330
+        y: 222
+        width: 1227
+        height: 1641
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c9fa926340a977130800000000000000
-      internalID: 3564486972966285212
+      spriteID: 1dd51297a0c86f850800000000000000
+      internalID: 6410465096218271185
       vertices: []
       indices: 
       edges: []

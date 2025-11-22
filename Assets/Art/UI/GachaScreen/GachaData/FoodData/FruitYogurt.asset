@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dacf2de53883db49aac94f5abb781ca, type: 3}
+  m_Name: FruitYogurt
+  m_EditorClassIdentifier: 
+  itemName: FruitYogurt
+  icon: {fileID: -4649585244380494865, guid: 74620913662d7b64b8c6e2df55d0e729, type: 3}
+  dropChance: 25
+  unlockedByDefault: 0
