@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CheeseburgerItemBoard_0: 2439561756232066999
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

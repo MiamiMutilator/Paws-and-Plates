@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: f399868f5cd419d4ea125f3a0e2a5fdd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6239489845336719454
+    second: PawsSinglePatty2_0
+  - first:
+      213: -3417885485965957270
+    second: PawsSinglePatty2_1
+  - first:
+      213: 2746692687750498880
+    second: PawsSinglePatty2_2
+  - first:
+      213: 321355983806285848
+    second: PawsSinglePatty2_3
+  - first:
+      213: 5480599904487656779
+    second: PawsSinglePatty2_4
+  - first:
+      213: 6550353074654787018
+    second: PawsSinglePatty2_5
+  - first:
+      213: 1046537058867022332
+    second: PawsSinglePatty2_6
+  - first:
+      213: 8769726741401301042
+    second: PawsSinglePatty2_7
+  - first:
+      213: -5443525975771550084
+    second: PawsSinglePatty2_8
+  - first:
+      213: 661487563635593981
+    second: PawsSinglePatty2_9
+  - first:
+      213: -5153675741310999497
+    second: PawsSinglePatty2_10
+  - first:
+      213: 9085087041731295580
+    second: PawsSinglePatty2_11
+  - first:
+      213: 3329603699958360172
+    second: PawsSinglePatty2_12
+  - first:
+      213: -5153788235084130885
+    second: PawsSinglePatty2_13
+  - first:
+      213: -1078394435741904382
+    second: PawsSinglePatty2_14
+  - first:
+      213: -5937680507819897523
+    second: PawsSinglePatty2_15
+  - first:
+      213: 7364029655603822936
+    second: PawsSinglePatty2_16
+  - first:
+      213: 745848295067350232
+    second: PawsSinglePatty2_17
+  - first:
+      213: 8939061912602023364
+    second: PawsSinglePatty2_18
+  - first:
+      213: -2284545969550170588
+    second: PawsSinglePatty2_19
+  - first:
+      213: 8970149089060024336
+    second: PawsSinglePatty2_20
+  - first:
+      213: -3484122603699730677
+    second: PawsSinglePatty2_21
+  - first:
+      213: 7120988242211181649
+    second: PawsSinglePatty2_22
+  - first:
+      213: -2226645388709827326
+    second: PawsSinglePatty2_23
+  - first:
+      213: 8018989013182614881
+    second: PawsSinglePatty2_24
+  - first:
+      213: 2350049814642690354
+    second: PawsSinglePatty2_25
+  - first:
+      213: -5251957976861976290
+    second: PawsSinglePatty2_26
+  - first:
+      213: -8475364312369960587
+    second: PawsSinglePatty2_27
+  - first:
+      213: 2253734615862429095
+    second: PawsSinglePatty2_28
+  - first:
+      213: -5843214358205107449
+    second: PawsSinglePatty2_29
+  - first:
+      213: 5904468225830953231
+    second: PawsSinglePatty2_30
+  - first:
+      213: 4470031586444365208
+    second: PawsSinglePatty2_31
+  - first:
+      213: -5656174723441793025
+    second: PawsSinglePatty2_32
+  - first:
+      213: -2588512587697720950
+    second: PawsSinglePatty2_33
+  - first:
+      213: 3200592662695156250
+    second: PawsSinglePatty2_34
+  - first:
+      213: 977831486745913534
+    second: PawsSinglePatty2_35
+  - first:
+      213: -5155806625432986349
+    second: PawsSinglePatty2_36
+  - first:
+      213: 1722871603844574722
+    second: PawsSinglePatty2_37
+  - first:
+      213: 625672579958891347
+    second: PawsSinglePatty2_38
+  - first:
+      213: -4591868355003122967
+    second: PawsSinglePatty2_39
+  - first:
+      213: 6745055696638293816
+    second: PawsSinglePatty2_40
+  - first:
+      213: 4725806193451733197
+    second: PawsSinglePatty2_41
+  - first:
+      213: -5609818604413640767
+    second: PawsSinglePatty2_42
+  - first:
+      213: -3682732774943695907
+    second: PawsSinglePatty2_43
+  - first:
+      213: -6784174438875920445
+    second: PawsSinglePatty2_44
+  - first:
+      213: -3614493647872599354
+    second: PawsSinglePatty2_45
+  - first:
+      213: 7254877946553335777
+    second: PawsSinglePatty2_46
+  - first:
+      213: -8404344540297011182
+    second: PawsSinglePatty2_47
+  - first:
+      213: 1383187985473501368
+    second: PawsSinglePatty2_48
+  - first:
+      213: -2693892134752275875
+    second: PawsSinglePatty2_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PawsSinglePatty2_0
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1635
+        width: 123
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af3c0d3b01e869a0800000000000000
+      internalID: -6239489845336719454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_1
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1657
+        width: 119
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67290e524b3190d0800000000000000
+      internalID: -3417885485965957270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_2
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1614
+        width: 118
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a088862763e1620800000000000000
+      internalID: 2746692687750498880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_3
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1649
+        width: 114
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818483d809fa57400800000000000000
+      internalID: 321355983806285848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_4
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1594
+        width: 128
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4dc60f53900f0c40800000000000000
+      internalID: 5480599904487656779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_5
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1636
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5bf288a6787ea50800000000000000
+      internalID: 6550353074654787018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_6
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1506
+        width: 145
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf90d0609eb068e00800000000000000
+      internalID: 1046537058867022332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_7
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1600
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230f77ed10454b970800000000000000
+      internalID: 8769726741401301042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_8
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1569
+        width: 122
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e668057f5b474b0800000000000000
+      internalID: -5443525975771550084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_9
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1602
+        width: 99
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df296d53f631e2900800000000000000
+      internalID: 661487563635593981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_10
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1602
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7342c97f7377a78b0800000000000000
+      internalID: -5153675741310999497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1466
+        width: 151
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59f5e39786b41e70800000000000000
+      internalID: 9085087041731295580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_12
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1554
+        width: 73
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6828d29ce0253e20800000000000000
+      internalID: 3329603699958360172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_13
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1566
+        width: 125
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb51938f7e01a78b0800000000000000
+      internalID: -5153788235084130885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_14
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1536
+        width: 112
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20298d969f5c801f0800000000000000
+      internalID: -1078394435741904382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_15
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 1493
+        width: 99
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d42ad890f199da0800000000000000
+      internalID: -5937680507819897523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_16
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1510
+        width: 113
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85145b994f9423660800000000000000
+      internalID: 7364029655603822936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_17
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1452
+        width: 67
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4f1db9219c95a00800000000000000
+      internalID: 745848295067350232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_18
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 1538
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c51ed5c27ded0c70800000000000000
+      internalID: 8939061912602023364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_19
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 431
+        width: 1704
+        height: 1095
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42669e37b89ab40e0800000000000000
+      internalID: -2284545969550170588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_20
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1408
+        width: 159
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01077b3121f5c7c70800000000000000
+      internalID: 8970149089060024336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_21
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 1379
+        width: 45
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07819c93f8e5afc0800000000000000
+      internalID: -3484122603699730677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_22
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 1484
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1541bb2e315d2d260800000000000000
+      internalID: 7120988242211181649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_23
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1464
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d6035f0dd5911e0800000000000000
+      internalID: -2226645388709827326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_24
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1207
+        width: 45
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d8284650c294f60800000000000000
+      internalID: 8018989013182614881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_25
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1289
+        width: 47
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2390046fadd0d9020800000000000000
+      internalID: 2350049814642690354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_26
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 929
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19dcddcb0c4d17b0800000000000000
+      internalID: -5251957976861976290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_27
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 933
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5796a23ff05716a80800000000000000
+      internalID: -8475364312369960587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_28
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 928
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a54b7c31bfd64f10800000000000000
+      internalID: 2253734615862429095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_29
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 848
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703f8b8ff7bb8eea0800000000000000
+      internalID: -5843214358205107449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_30
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 891
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f012c347192e0f150800000000000000
+      internalID: 5904468225830953231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_31
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 825
+        width: 76
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89dcacc6b0eb80e30800000000000000
+      internalID: 4470031586444365208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_32
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 816
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff765b58e0b3181b0800000000000000
+      internalID: -5656174723441793025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_33
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8176a91481c31cd0800000000000000
+      internalID: -2588512587697720950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_34
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 469
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a9aaab11aca6c20800000000000000
+      internalID: 3200592662695156250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_35
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 466
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8aea17e84f19d00800000000000000
+      internalID: 977831486745913534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_36
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 470
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d1678d035e278b0800000000000000
+      internalID: -5155806625432986349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_37
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 470
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e63c4789ed8e710800000000000000
+      internalID: 1722871603844574722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_38
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 465
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353e62285e5dea800800000000000000
+      internalID: 625672579958891347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_39
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 465
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea7ea45f086640c0800000000000000
+      internalID: -4591868355003122967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_40
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 379
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837b9545b604b9d50800000000000000
+      internalID: 6745055696638293816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_41
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 302
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0180ec1bf659140800000000000000
+      internalID: 4725806193451733197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_42
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 157
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf1c8d83bbe522b0800000000000000
+      internalID: -5609818604413640767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_43
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 153
+        width: 53
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbdaca9d0e44ecc0800000000000000
+      internalID: -3682732774943695907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_44
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 136
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7048cba45c9d1a0800000000000000
+      internalID: -6784174438875920445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_45
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 103
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cad5ab7d2db6ddc0800000000000000
+      internalID: -3614493647872599354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_46
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 72
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef702ded018ea460800000000000000
+      internalID: 7254877946553335777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_47
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 60
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2106a913b25cd5b80800000000000000
+      internalID: -8404344540297011182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_48
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 55
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b87cb3f422123310800000000000000
+      internalID: 1383187985473501368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PawsSinglePatty2_49
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 6
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d523fd4506f5d9ad0800000000000000
+      internalID: -2693892134752275875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5d1062040011e69489c871bab2ae8c75
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PawsSinglePatty2_0: -6239489845336719454
+      PawsSinglePatty2_1: -3417885485965957270
+      PawsSinglePatty2_10: -5153675741310999497
+      PawsSinglePatty2_11: 9085087041731295580
+      PawsSinglePatty2_12: 3329603699958360172
+      PawsSinglePatty2_13: -5153788235084130885
+      PawsSinglePatty2_14: -1078394435741904382
+      PawsSinglePatty2_15: -5937680507819897523
+      PawsSinglePatty2_16: 7364029655603822936
+      PawsSinglePatty2_17: 745848295067350232
+      PawsSinglePatty2_18: 8939061912602023364
+      PawsSinglePatty2_19: -2284545969550170588
+      PawsSinglePatty2_2: 2746692687750498880
+      PawsSinglePatty2_20: 8970149089060024336
+      PawsSinglePatty2_21: -3484122603699730677
+      PawsSinglePatty2_22: 7120988242211181649
+      PawsSinglePatty2_23: -2226645388709827326
+      PawsSinglePatty2_24: 8018989013182614881
+      PawsSinglePatty2_25: 2350049814642690354
+      PawsSinglePatty2_26: -5251957976861976290
+      PawsSinglePatty2_27: -8475364312369960587
+      PawsSinglePatty2_28: 2253734615862429095
+      PawsSinglePatty2_29: -5843214358205107449
+      PawsSinglePatty2_3: 321355983806285848
+      PawsSinglePatty2_30: 5904468225830953231
+      PawsSinglePatty2_31: 4470031586444365208
+      PawsSinglePatty2_32: -5656174723441793025
+      PawsSinglePatty2_33: -2588512587697720950
+      PawsSinglePatty2_34: 3200592662695156250
+      PawsSinglePatty2_35: 977831486745913534
+      PawsSinglePatty2_36: -5155806625432986349
+      PawsSinglePatty2_37: 1722871603844574722
+      PawsSinglePatty2_38: 625672579958891347
+      PawsSinglePatty2_39: -4591868355003122967
+      PawsSinglePatty2_4: 5480599904487656779
+      PawsSinglePatty2_40: 6745055696638293816
+      PawsSinglePatty2_41: 4725806193451733197
+      PawsSinglePatty2_42: -5609818604413640767
+      PawsSinglePatty2_43: -3682732774943695907
+      PawsSinglePatty2_44: -6784174438875920445
+      PawsSinglePatty2_45: -3614493647872599354
+      PawsSinglePatty2_46: 7254877946553335777
+      PawsSinglePatty2_47: -8404344540297011182
+      PawsSinglePatty2_48: 1383187985473501368
+      PawsSinglePatty2_49: -2693892134752275875
+      PawsSinglePatty2_5: 6550353074654787018
+      PawsSinglePatty2_6: 1046537058867022332
+      PawsSinglePatty2_7: 8769726741401301042
+      PawsSinglePatty2_8: -5443525975771550084
+      PawsSinglePatty2_9: 661487563635593981
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

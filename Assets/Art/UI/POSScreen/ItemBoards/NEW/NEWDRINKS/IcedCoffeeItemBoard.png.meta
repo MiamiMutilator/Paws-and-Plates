@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IcedCoffeeItemBoard_0: -1094362554516615956
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

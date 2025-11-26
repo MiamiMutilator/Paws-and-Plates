@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PineCocoItemBoard_0: 2354744634307790268
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

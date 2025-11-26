@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      StrawBanItemBoard_0: -5170587260769791274
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

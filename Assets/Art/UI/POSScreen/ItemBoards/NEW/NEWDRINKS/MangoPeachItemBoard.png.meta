@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MangoPeachItemBoard_0: 2839839512572472447
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

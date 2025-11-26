@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IcedMatchaLatteItemBoard_0: -2768888645681316947
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

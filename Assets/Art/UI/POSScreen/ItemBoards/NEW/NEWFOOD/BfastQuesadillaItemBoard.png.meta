@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BfastQuesadillaItemBoard_0: -6193554920644036959
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

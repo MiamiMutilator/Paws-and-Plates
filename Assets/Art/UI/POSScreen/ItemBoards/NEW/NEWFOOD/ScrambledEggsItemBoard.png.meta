@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ScrambledEggsItemBoard_0: 1244405197515694640
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

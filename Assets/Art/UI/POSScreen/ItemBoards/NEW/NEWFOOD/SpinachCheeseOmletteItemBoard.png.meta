@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SpinachCheeseOmletteItemBoard_0: 8869598602784193755
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
