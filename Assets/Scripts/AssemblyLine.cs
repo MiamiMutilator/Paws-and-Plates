@@ -85,7 +85,7 @@ public class AssemblyLine : MonoBehaviour
             Debug.Log("Cheese added!");
             Destroy(collision.gameObject);
         }
-        if (collision.CompareTag("Egg"))
+        if (collision.CompareTag("CookedEgg"))
         {
             Egg = true;
             Debug.Log("Egg added!");
