@@ -3093,7 +3093,7 @@ MonoBehaviour:
   Quesadilla: {fileID: 2633121469847156803, guid: a126e75d26269c04da0ea51a0bd23f0c, type: 3}
   ScrambledEggs: {fileID: 2633121469847156803, guid: f74523c439e326c4399dfd87227e2374, type: 3}
   Waffles: {fileID: 2633121469847156803, guid: 3cd0eb83c10de9f4e9022ab8f6ec6e00, type: 3}
-  FruitYogurt: {fileID: 0}
+  FruitYogurt: {fileID: 2633121469847156803, guid: 6d463c60f64d4f246baaa66a92e85ac2, type: 3}
   foodSpawner: {fileID: 1132198406}
 --- !u!50 &336757414
 Rigidbody2D:
