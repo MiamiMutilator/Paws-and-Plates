@@ -184,7 +184,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PawsMilk2_0: -342704301612714468
+      PawsMilk2_1: 8519922939984917971
+      PawsMilk2_2: 5860664891644621559
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
