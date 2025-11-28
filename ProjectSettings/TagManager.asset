@@ -53,6 +53,8 @@ TagManager:
   - BurntBacon
   - CustomerSpawner
   - FruitYogurt
+  - CookedEgg
+  - BurntEgg
   layers:
   - Default
   - TransparentFX

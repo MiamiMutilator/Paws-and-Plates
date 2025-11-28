@@ -10556,6 +10556,9 @@ MonoBehaviour:
   RawBacon: {fileID: 8490237790275886912, guid: 4bbb1cfc286529c42944d79024b9a5e6, type: 3}
   CookedBacon: {fileID: 8490237790275886912, guid: 52dda6d75fd5e574e85aae79539e4e16, type: 3}
   BurntBacon: {fileID: 8490237790275886912, guid: 26675b0ff90336a47a3e8075c694defa, type: 3}
+  RawEgg: {fileID: 8490237790275886912, guid: 01ae854944885074696fac29cf7a729d, type: 3}
+  CookedEgg: {fileID: 8490237790275886912, guid: a02db2d955e3990489ffb573dc589c34, type: 3}
+  BurntEgg: {fileID: 8490237790275886912, guid: c77cb3c6583ca2f4c8d3c7013749959c, type: 3}
   cookMeter: {fileID: 422711439}
   fillImage: {fileID: 1797182664}
   backgroundImage: {fileID: 1934798717}
@@ -16916,6 +16919,9 @@ MonoBehaviour:
   RawBacon: {fileID: 8490237790275886912, guid: 4bbb1cfc286529c42944d79024b9a5e6, type: 3}
   CookedBacon: {fileID: 8490237790275886912, guid: 52dda6d75fd5e574e85aae79539e4e16, type: 3}
   BurntBacon: {fileID: 8490237790275886912, guid: 26675b0ff90336a47a3e8075c694defa, type: 3}
+  RawEgg: {fileID: 0}
+  CookedEgg: {fileID: 0}
+  BurntEgg: {fileID: 0}
   cookMeter: {fileID: 2126438752}
   fillImage: {fileID: 1922585620}
   backgroundImage: {fileID: 482176254}
