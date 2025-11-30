@@ -6,10 +6,19 @@ public class CoffeeMachine : MonoBehaviour
     bool Milk;
     bool CoffeeBean;
     bool Ice;
+    bool espressoDrink;
+    bool Vanilla;
 
     public GameObject IcedCoffee;
+    public GameObject Coffee;
+    public GameObject VanillaFrappuccino;
+
 
     public Transform foodSpawner;
+
+    public InventoryUi inventoryUi;
+    public GameObject espresso;
+
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -24,7 +33,9 @@ public class CoffeeMachine : MonoBehaviour
         {
             restartScene();
         }
-
+        TryMakeVanillaFrap();
+        TryMakeIcedCoffee();
+        TryMakeCoffee();
     }
 
 
@@ -38,9 +49,8 @@ public class CoffeeMachine : MonoBehaviour
         }
         if (collision.CompareTag("CoffeeBean"))
         {
-            CoffeeBean = true;
-            Debug.Log("Coffee Beans added!");
             Destroy(collision.gameObject);
+            spawnEspresso();
         }
         if (collision.CompareTag("Ice"))
         {
@@ -48,17 +58,30 @@ public class CoffeeMachine : MonoBehaviour
             Debug.Log("Ice added!");
             Destroy(collision.gameObject);
         }
+        if (collision.CompareTag("Espresso"))
+        {
+            espressoDrink = true;
+            Debug.Log("Espresso added!");
+            Destroy(collision.gameObject);
+        }
+        if (collision.CompareTag("Vanilla"))
+        {
+            Vanilla = true;
+            Debug.Log("Vanilla added!");
+            Destroy(collision.gameObject);
+        }
+
 
     }
 
 
     private bool TryMakeIcedCoffee()
     {
-        if (CoffeeBean && Milk && Ice)
+        if (espressoDrink && Milk && Ice)
         {
-            Debug.Log("Made a Strawberry Banana Smoothie");
+            Debug.Log("Made an Iced Coffee");
             Instantiate(IcedCoffee, foodSpawner.position, Quaternion.identity);
-            CoffeeBean = false;
+            espressoDrink = false;
             Milk = false;
             Ice = false;
             return true;
@@ -66,6 +89,35 @@ public class CoffeeMachine : MonoBehaviour
         return false;
 
     }
+    private bool TryMakeCoffee()
+    {
+        if (espressoDrink && Milk)
+        {
+            Debug.Log("Made Coffee");
+            Instantiate(Coffee, foodSpawner.position, Quaternion.identity);
+            espressoDrink = false;
+            Milk = false;
+            return true;
+        }
+        return false;
+
+    }
+    private bool TryMakeVanillaFrap()
+    {
+        if (espressoDrink && Milk && Vanilla)
+        {
+            Debug.Log("Made Vanilla Frappuccino");
+            Instantiate(VanillaFrappuccino, foodSpawner.position, Quaternion.identity);
+            espressoDrink = false;
+            Milk = false;
+            Vanilla = false;
+            return true;
+        }
+        return false;
+
+    }
+
+
 
     private void restartScene()
     {
@@ -83,5 +135,33 @@ public class CoffeeMachine : MonoBehaviour
         CoffeeBean = false;
         Ice = false;
         Milk = false;
+    }
+
+    public void spawnEspresso()
+    {
+        foreach (SlotUi slot in inventoryUi.slots)
+        {
+            bool isEmpty = slot.itemIcon.sprite == null && slot.transform.childCount <= 1;
+
+            if (isEmpty)
+            {
+                GameObject spawned = Instantiate(espresso, slot.transform);
+                RectTransform rt = spawned.GetComponent<RectTransform>();
+
+                rt.anchorMin = new Vector2(0.5f, 0.5f);
+                rt.anchorMax = new Vector2(0.5f, 0.5f);
+                rt.pivot = new Vector2(0.5f, 0.5f);
+                rt.anchoredPosition = Vector2.zero;
+
+                Vector3 parentScale = slot.transform.lossyScale;
+                spawned.transform.localScale = new Vector3(
+                    0.05f / parentScale.x,
+                    0.05f / parentScale.y,
+                    1f / parentScale.z
+                );
+
+                return;
+            }
+        }
     }
 }

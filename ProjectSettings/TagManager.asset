@@ -55,6 +55,7 @@ TagManager:
   - FruitYogurt
   - CookedEgg
   - BurntEgg
+  - Espresso
   layers:
   - Default
   - TransparentFX
