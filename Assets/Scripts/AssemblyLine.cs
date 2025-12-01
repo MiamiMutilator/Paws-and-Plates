@@ -31,7 +31,9 @@ public class AssemblyLine : MonoBehaviour
     public GameObject FruitYogurt;
 
     public Transform foodSpawner;
+    public Transform foodDisplaySpawner;
 
+    public SpriteRenderer DomeSprite;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -168,6 +170,13 @@ public class AssemblyLine : MonoBehaviour
         {
             Debug.Log("Made a Cheeseburger");
             Instantiate(Burger, foodSpawner.position, Quaternion.identity);
+            GameObject displayedFood = Instantiate(Burger, foodDisplaySpawner.position, Quaternion.identity);
+            SpriteRenderer sr = displayedFood.GetComponent<SpriteRenderer>();
+            if (sr != null)
+            {
+                sr.sortingOrder = 10;
+            }
+            DomeSprite.enabled = false;
             Lettuce = false;
             Tomato = false;
             GreenOnion = false;
@@ -185,6 +194,7 @@ public class AssemblyLine : MonoBehaviour
         {
             Debug.Log("Made a Bacon Egg and Cheese");
             Instantiate(BaconEggCheese, foodSpawner.position, Quaternion.identity);
+            Instantiate(BaconEggCheese, foodDisplaySpawner.position, Quaternion.identity);
             Bacon = false;
             Egg = false;
             Cheese = false;
@@ -199,6 +209,7 @@ public class AssemblyLine : MonoBehaviour
         {
             Debug.Log("Made a Bacon Egg and Cheese");
             Instantiate(Quesadilla, foodSpawner.position, Quaternion.identity);
+            Instantiate(Quesadilla, foodDisplaySpawner.position, Quaternion.identity);
             Tortilla = false;
             Bacon = false;
             Egg = false;
@@ -213,6 +224,7 @@ public class AssemblyLine : MonoBehaviour
         {
             Debug.Log("Made Scrambled Eggs");
             Instantiate(ScrambledEggs, foodSpawner.position, Quaternion.identity);
+            Instantiate(ScrambledEggs, foodDisplaySpawner.position, Quaternion.identity);
             Butter = false;
             Egg = false;
             GreenOnion = false;
@@ -226,6 +238,7 @@ public class AssemblyLine : MonoBehaviour
         {
             Debug.Log("Made a Caesar Salad");
             Instantiate(CaesarSalad, foodSpawner.position, Quaternion.identity);
+            Instantiate(CaesarSalad, foodDisplaySpawner.position, Quaternion.identity);
             Lettuce = false;
             Cheese = false;
             Croutons = false;
@@ -239,6 +252,7 @@ public class AssemblyLine : MonoBehaviour
         {
             Debug.Log("Made a Spinach and Cheese Omelette");
             Instantiate(Omelette, foodSpawner.position, Quaternion.identity);
+            Instantiate(Omelette, foodDisplaySpawner.position, Quaternion.identity);
             Spinach = false;
             Cheese = false;
             Egg = false;
@@ -252,6 +266,7 @@ public class AssemblyLine : MonoBehaviour
         {
             Debug.Log("Made a Pancake");
             Instantiate(Pancakes, foodSpawner.position, Quaternion.identity);
+            Instantiate(Pancakes, foodDisplaySpawner.position, Quaternion.identity);
             Egg = false;
             Milk = false;
             Flour = false;
@@ -266,6 +281,7 @@ public class AssemblyLine : MonoBehaviour
         {
             Debug.Log("Made a Waffle");
             Instantiate(Waffles, foodSpawner.position, Quaternion.identity);
+            Instantiate(Waffles, foodDisplaySpawner.position, Quaternion.identity);
             Egg = false;
             Milk = false;
             Flour = false;
@@ -279,6 +295,7 @@ public class AssemblyLine : MonoBehaviour
         {
             Debug.Log("Made Fruit Yogurt");
             Instantiate(FruitYogurt, foodSpawner.position, Quaternion.identity);
+            Instantiate(FruitYogurt, foodDisplaySpawner.position, Quaternion.identity);
             Yogurt = false;
             StrawBerry = false;
             return true;
