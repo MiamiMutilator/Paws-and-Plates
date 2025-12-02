@@ -954,18 +954,19 @@ MonoBehaviour:
   hasBaconEggCheese: 0
   hasBurger: 0
   hasCaesarSalad: 0
-  hasOmelette: 0
+  hasOmelette: 1
   hasPancakes: 0
   hasQuesadilla: 0
-  hasScrambledEggs: 0
-  hasWaffles: 0
-  hasCoffee: 0
+  hasScrambledEggs: 1
+  hasWaffles: 1
+  hasCoffee: 1
   hasIcedCoffee: 0
   hasMangoPeachSmoothie: 0
   hasMatchaLatte: 0
   hasPineCocoSmoothie: 0
   hasStrawBanSmoothie: 0
   hasVanFrappe: 0
+  hasFruitYogurt: 0
 --- !u!4 &1402448999
 Transform:
   m_ObjectHideFlags: 0

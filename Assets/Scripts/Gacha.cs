@@ -4,6 +4,7 @@ using System.Collections;
 
 public class Gacha : MonoBehaviour
 {
+
     public int BaconEggCheese;
     public int Burger;
     public int CaesarSalad;
@@ -19,16 +20,14 @@ public class Gacha : MonoBehaviour
     public int PineCocoSmoothie;
     public int StrawBanSmoothie;
     public int VanFrappe;
-
-
-
+    public int FruitYogurt;
 
     public int RollNumber;
 
     public int randomSeed;
 
     //gacha probabilities
-    private int[] weights = { 50, 40, 35, 30, 25, 20, 15, 10, 7, 5, 4, 3, 2, 2, 1 };
+    private int[] weights = { 50, 45, 50, 50, 40, 40, 50, 50, 50, 20, 10, 25, 10, 30, 5, 25 };
     private int totalWeight;
 
     public TextMeshProUGUI rollText;
@@ -47,6 +46,8 @@ public class Gacha : MonoBehaviour
     public TextMeshProUGUI PineCocoSmoothieText;
     public TextMeshProUGUI StrawBanSmoothieText;
     public TextMeshProUGUI VanFrappeText;
+    public TextMeshProUGUI FruitYogurtText;
+
 
 
 
@@ -56,6 +57,7 @@ public class Gacha : MonoBehaviour
 
     public CoinCounter cc;
     public Progression prog;
+    public GachaItemDisplay gacha;
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -96,6 +98,7 @@ public class Gacha : MonoBehaviour
             prog.coins -= 6;
             Debug.Log("Roll made!");
         }
+
         else
         {
             rollText.text = "Not enough coins!";
@@ -182,7 +185,14 @@ public class Gacha : MonoBehaviour
             case 14: RollItem(ref VanFrappe, "Vanilla Frappe", VanFrappeText, 6);
                 prog.hasVanFrappe = true;
                 break;
+            case 15:
+                RollItem(ref FruitYogurt, "Fruit Yogurt", FruitYogurtText, 4);
+                prog.hasFruitYogurt = true;
+                break;
         }
+
+        RefreshAllDisplays();
+
     }
 
     private void RollItem(ref int itemCount, string itemName, TextMeshProUGUI itemText, int refundAmount)
@@ -196,6 +206,14 @@ public class Gacha : MonoBehaviour
         {
             prog.coins += refundAmount;
             rollText.text = $"Already had {itemName}! Refunded {refundAmount} coin(s).";
+        }
+    }
+
+    public void RefreshAllDisplays()
+    {
+        foreach (GachaItemDisplay display in FindObjectsOfType<GachaItemDisplay>())
+        {
+            display.Refresh();
         }
     }
 }

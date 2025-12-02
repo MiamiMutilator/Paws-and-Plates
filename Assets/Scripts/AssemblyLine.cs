@@ -170,12 +170,7 @@ public class AssemblyLine : MonoBehaviour
         {
             Debug.Log("Made a Cheeseburger");
             Instantiate(Burger, foodSpawner.position, Quaternion.identity);
-            GameObject displayedFood = Instantiate(Burger, foodDisplaySpawner.position, Quaternion.identity);
-            SpriteRenderer sr = displayedFood.GetComponent<SpriteRenderer>();
-            if (sr != null)
-            {
-                sr.sortingOrder = 10;
-            }
+            SpawnDisplayFood(Burger);
             DomeSprite.enabled = false;
             Lettuce = false;
             Tomato = false;
@@ -194,7 +189,8 @@ public class AssemblyLine : MonoBehaviour
         {
             Debug.Log("Made a Bacon Egg and Cheese");
             Instantiate(BaconEggCheese, foodSpawner.position, Quaternion.identity);
-            Instantiate(BaconEggCheese, foodDisplaySpawner.position, Quaternion.identity);
+            SpawnDisplayFood(BaconEggCheese);
+            DomeSprite.enabled = false;
             Bacon = false;
             Egg = false;
             Cheese = false;
@@ -209,7 +205,8 @@ public class AssemblyLine : MonoBehaviour
         {
             Debug.Log("Made a Bacon Egg and Cheese");
             Instantiate(Quesadilla, foodSpawner.position, Quaternion.identity);
-            Instantiate(Quesadilla, foodDisplaySpawner.position, Quaternion.identity);
+            SpawnDisplayFood(Quesadilla);
+            DomeSprite.enabled = false;
             Tortilla = false;
             Bacon = false;
             Egg = false;
@@ -224,7 +221,8 @@ public class AssemblyLine : MonoBehaviour
         {
             Debug.Log("Made Scrambled Eggs");
             Instantiate(ScrambledEggs, foodSpawner.position, Quaternion.identity);
-            Instantiate(ScrambledEggs, foodDisplaySpawner.position, Quaternion.identity);
+            SpawnDisplayFood(ScrambledEggs);
+            DomeSprite.enabled = false;
             Butter = false;
             Egg = false;
             GreenOnion = false;
@@ -238,7 +236,8 @@ public class AssemblyLine : MonoBehaviour
         {
             Debug.Log("Made a Caesar Salad");
             Instantiate(CaesarSalad, foodSpawner.position, Quaternion.identity);
-            Instantiate(CaesarSalad, foodDisplaySpawner.position, Quaternion.identity);
+            SpawnDisplayFood(CaesarSalad);
+            DomeSprite.enabled = false;
             Lettuce = false;
             Cheese = false;
             Croutons = false;
@@ -252,7 +251,8 @@ public class AssemblyLine : MonoBehaviour
         {
             Debug.Log("Made a Spinach and Cheese Omelette");
             Instantiate(Omelette, foodSpawner.position, Quaternion.identity);
-            Instantiate(Omelette, foodDisplaySpawner.position, Quaternion.identity);
+            SpawnDisplayFood(Omelette);
+            DomeSprite.enabled = false;
             Spinach = false;
             Cheese = false;
             Egg = false;
@@ -266,7 +266,8 @@ public class AssemblyLine : MonoBehaviour
         {
             Debug.Log("Made a Pancake");
             Instantiate(Pancakes, foodSpawner.position, Quaternion.identity);
-            Instantiate(Pancakes, foodDisplaySpawner.position, Quaternion.identity);
+            SpawnDisplayFood(Pancakes);
+            DomeSprite.enabled = false;
             Egg = false;
             Milk = false;
             Flour = false;
@@ -281,7 +282,8 @@ public class AssemblyLine : MonoBehaviour
         {
             Debug.Log("Made a Waffle");
             Instantiate(Waffles, foodSpawner.position, Quaternion.identity);
-            Instantiate(Waffles, foodDisplaySpawner.position, Quaternion.identity);
+            SpawnDisplayFood(Waffles);
+            DomeSprite.enabled = false;
             Egg = false;
             Milk = false;
             Flour = false;
@@ -295,12 +297,24 @@ public class AssemblyLine : MonoBehaviour
         {
             Debug.Log("Made Fruit Yogurt");
             Instantiate(FruitYogurt, foodSpawner.position, Quaternion.identity);
-            Instantiate(FruitYogurt, foodDisplaySpawner.position, Quaternion.identity);
+            SpawnDisplayFood(FruitYogurt);
+            DomeSprite.enabled = false;
             Yogurt = false;
             StrawBerry = false;
             return true;
         }
         return false;
+    }
+
+    private void SpawnDisplayFood(GameObject prefab)
+    {
+        GameObject displayedFood = Instantiate(prefab, foodDisplaySpawner.position, Quaternion.identity);
+        SpriteRenderer sr = displayedFood.GetComponent<SpriteRenderer>();
+        if (sr != null)
+        {
+            sr.sortingOrder = 10;
+        }
+        displayedFood.transform.localScale = new Vector3(0.15f, 0.15f, 1f); // your desired size
     }
 
 }
