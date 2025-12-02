@@ -966,7 +966,7 @@ MonoBehaviour:
   hasPineCocoSmoothie: 0
   hasStrawBanSmoothie: 0
   hasVanFrappe: 0
-  hasFruitYogurt: 0
+  hasFruitYogurt: 1
 --- !u!4 &1402448999
 Transform:
   m_ObjectHideFlags: 0
