@@ -20,13 +20,14 @@ public class Gacha : MonoBehaviour
     public int PineCocoSmoothie;
     public int StrawBanSmoothie;
     public int VanFrappe;
+    public int FruitYogurt;
 
     public int RollNumber;
 
     public int randomSeed;
 
     //gacha probabilities
-    private int[] weights = { 50, 40, 35, 30, 25, 20, 15, 10, 7, 5, 4, 3, 2, 2, 1 };
+    private int[] weights = { 50, 45, 50, 50, 40, 40, 50, 50, 50, 20, 10, 25, 10, 30, 5, 25 };
     private int totalWeight;
 
     public TextMeshProUGUI rollText;
@@ -45,6 +46,8 @@ public class Gacha : MonoBehaviour
     public TextMeshProUGUI PineCocoSmoothieText;
     public TextMeshProUGUI StrawBanSmoothieText;
     public TextMeshProUGUI VanFrappeText;
+    public TextMeshProUGUI FruitYogurtText;
+
 
 
 
@@ -93,9 +96,9 @@ public class Gacha : MonoBehaviour
             RollNumber = GetWeightedRandom();
             StartCoroutine("Rolling");
             prog.coins -= 6;
-            RefreshAllDisplays();
             Debug.Log("Roll made!");
         }
+
         else
         {
             rollText.text = "Not enough coins!";
@@ -182,7 +185,14 @@ public class Gacha : MonoBehaviour
             case 14: RollItem(ref VanFrappe, "Vanilla Frappe", VanFrappeText, 6);
                 prog.hasVanFrappe = true;
                 break;
+            case 15:
+                RollItem(ref FruitYogurt, "Fruit Yogurt", FruitYogurtText, 4);
+                prog.hasFruitYogurt = true;
+                break;
         }
+
+        RefreshAllDisplays();
+
     }
 
     private void RollItem(ref int itemCount, string itemName, TextMeshProUGUI itemText, int refundAmount)
