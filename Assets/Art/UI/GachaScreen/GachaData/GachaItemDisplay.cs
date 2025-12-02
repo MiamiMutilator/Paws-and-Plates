@@ -4,7 +4,8 @@ using TMPro; // Needed for TextMeshPro
 public class GachaItemDisplay : MonoBehaviour
 {
     [Header("The Data")]
-    public GachaItemData itemData; 
+    public GachaItemData itemData;
+    public FoodType foodType;
 
     [Header("Visual Components")]
     // CHANGED: Now looks for a SpriteRenderer instead of an Image
@@ -22,31 +23,37 @@ public class GachaItemDisplay : MonoBehaviour
         UpdateVisuals();
     }
 
+    public void Refresh()
+    {
+        UpdateVisuals();
+    }
+
+
+
     public void UpdateVisuals()
     {
         if (itemData == null) return;
 
-        // 1. Set the Sprite on the Renderer
-        if (foodIconRenderer != null) 
-        {
+        // Sprite
+        if (foodIconRenderer != null)
             foodIconRenderer.sprite = itemData.icon;
-        }
 
-        // 2. Check Memory
-        bool isUnlocked = PlayerPrefs.GetInt(itemData.itemName, 0) == 1 || itemData.unlockedByDefault;
+        bool isUnlocked = false;
+
+        if (Progression.Instance != null)
+            isUnlocked = Progression.Instance.IsUnlocked(foodType);
+
+        if (!isUnlocked)
+            isUnlocked = PlayerPrefs.GetInt(itemData.itemName, 0) == 1 || itemData.unlockedByDefault;
 
         if (isUnlocked)
         {
-            // UNLOCKED (White)
-            if (foodIconRenderer != null) foodIconRenderer.color = unlockedColor;
-            
-            if (chanceText != null) chanceText.gameObject.SetActive(false);
+            foodIconRenderer.color = unlockedColor;
+            chanceText?.gameObject.SetActive(false);
         }
         else
         {
-            // LOCKED (Grey #555555)
-            if (foodIconRenderer != null) foodIconRenderer.color = lockedColor;
-
+            foodIconRenderer.color = lockedColor;
             if (chanceText != null)
             {
                 chanceText.gameObject.SetActive(true);
@@ -60,5 +67,25 @@ public class GachaItemDisplay : MonoBehaviour
         PlayerPrefs.SetInt(itemData.itemName, 1);
         PlayerPrefs.Save();
         UpdateVisuals();
+    }
+
+    public enum FoodType
+    {
+        BaconEggCheese,
+        Burger,
+        CaesarSalad,
+        Omelette,
+        Pancakes,
+        Quesadilla,
+        ScrambledEggs,
+        Waffles,
+        Coffee,
+        IcedCoffee,
+        MangoPeachSmoothie,
+        MatchaLatte,
+        PineCocoSmoothie,
+        StrawBanSmoothie,
+        VanFrappe,
+        FruitYogurt
     }
 }

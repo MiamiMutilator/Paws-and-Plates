@@ -493,6 +493,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemData: {fileID: 11400000, guid: 44b547f757dad024c8d5f3a94bf1fedb, type: 2}
+  foodType: 12
   foodIconRenderer: {fileID: 221313366}
   chanceText: {fileID: 380707585}
 --- !u!1 &278916290
@@ -597,6 +598,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemData: {fileID: 11400000, guid: 4d529c060796143419bb9079f3b1f645, type: 2}
+  foodType: 9
   foodIconRenderer: {fileID: 278916292}
   chanceText: {fileID: 2045328237}
 --- !u!1 &316263262
@@ -1053,6 +1055,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemData: {fileID: 11400000, guid: 6c834053670f33a4aa44be1339a2be8d, type: 2}
+  foodType: 8
   foodIconRenderer: {fileID: 329093203}
   chanceText: {fileID: 893754389}
 --- !u!1 &378179492
@@ -1469,6 +1472,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemData: {fileID: 11400000, guid: 23313d7bfd1bcff429c764dc769e1c3b, type: 2}
+  foodType: 15
   foodIconRenderer: {fileID: 388256442}
   chanceText: {fileID: 1807070964}
 --- !u!1 &397835658
@@ -1933,6 +1937,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemData: {fileID: 11400000, guid: 39b786367e6a9d44ba3bbc17ae278850, type: 2}
+  foodType: 7
   foodIconRenderer: {fileID: 496661623}
   chanceText: {fileID: 650833273}
 --- !u!1 &512753337
@@ -2852,6 +2857,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemData: {fileID: 11400000, guid: b4ded396d4a380346be5a30c7579a9b2, type: 2}
+  foodType: 6
   foodIconRenderer: {fileID: 651555537}
   chanceText: {fileID: 1217336737}
 --- !u!1 &712837882
@@ -3929,6 +3935,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemData: {fileID: 11400000, guid: 28784f65f9e96134bb294d8cb8d690ee, type: 2}
+  foodType: 0
   foodIconRenderer: {fileID: 967455244}
   chanceText: {fileID: 316263264}
 --- !u!1 &968806465
@@ -4033,6 +4040,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemData: {fileID: 11400000, guid: 60f7433e128c4d949845544dedeb06dc, type: 2}
+  foodType: 3
   foodIconRenderer: {fileID: 968806467}
   chanceText: {fileID: 1942133163}
 --- !u!1 &975401796
@@ -4721,6 +4729,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemData: {fileID: 11400000, guid: 5fb528a6ef2d23d4897b9bc706cb2f76, type: 2}
+  foodType: 5
   foodIconRenderer: {fileID: 1058617919}
   chanceText: {fileID: 512753339}
 --- !u!1 &1084423426
@@ -5933,6 +5942,7 @@ MonoBehaviour:
   hasPineCocoSmoothie: 0
   hasStrawBanSmoothie: 0
   hasVanFrappe: 0
+  hasFruitYogurt: 0
 --- !u!4 &1241985288
 Transform:
   m_ObjectHideFlags: 0
@@ -6816,6 +6826,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemData: {fileID: 11400000, guid: 9fdd6ac75426aab4a890f62b1a41da5a, type: 2}
+  foodType: 13
   foodIconRenderer: {fileID: 1378952845}
   chanceText: {fileID: 712837884}
 --- !u!1 &1421060802
@@ -6920,6 +6931,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemData: {fileID: 11400000, guid: 7ca5d841615196242a90c0fac4c888bd, type: 2}
+  foodType: 2
   foodIconRenderer: {fileID: 1421060804}
   chanceText: {fileID: 1886952419}
 --- !u!1 &1451547354
@@ -7160,6 +7172,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemData: {fileID: 11400000, guid: c63add340f01d1942af4e5df3dcd6028, type: 2}
+  foodType: 10
   foodIconRenderer: {fileID: 1461901810}
   chanceText: {fileID: 317680048}
 --- !u!1 &1465901783
@@ -8002,6 +8015,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemData: {fileID: 11400000, guid: 418c31e32f97ffb4493c9b6e3bdd2892, type: 2}
+  foodType: 14
   foodIconRenderer: {fileID: 1583881082}
   chanceText: {fileID: 975401798}
 --- !u!1 &1606750191
@@ -8181,6 +8195,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemData: {fileID: 11400000, guid: feca95b1b605bdd4a9401cd63c6e806b, type: 2}
+  foodType: 11
   foodIconRenderer: {fileID: 1655107648}
   chanceText: {fileID: 647554679}
 --- !u!1 &1660350191
@@ -10233,6 +10248,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemData: {fileID: 11400000, guid: 508f179d51d18a047843785f99677dea, type: 2}
+  foodType: 4
   foodIconRenderer: {fileID: 1945426380}
   chanceText: {fileID: 1838180200}
 --- !u!1 &1956687582
@@ -10473,6 +10489,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemData: {fileID: 11400000, guid: 9ac372d996ee607439a7ae74cc8ff04b, type: 2}
+  foodType: 1
   foodIconRenderer: {fileID: 1993982376}
   chanceText: {fileID: 800468804}
 --- !u!1 &2045328235

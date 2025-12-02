@@ -21,6 +21,7 @@ public class Progression : MonoBehaviour
     public bool hasPineCocoSmoothie;
     public bool hasStrawBanSmoothie;
     public bool hasVanFrappe;
+    public bool hasFruitYogurt;
     private void Awake()
     {
         if (Instance != null && Instance != this)
@@ -50,5 +51,29 @@ public class Progression : MonoBehaviour
     void GainCurrency()
     {
         coins += 5;
+    }
+
+    public bool IsUnlocked(GachaItemDisplay.FoodType type)
+    {
+        return type switch
+        {
+            GachaItemDisplay.FoodType.BaconEggCheese => hasBaconEggCheese,
+            GachaItemDisplay.FoodType.Burger => hasBurger,
+            GachaItemDisplay.FoodType.CaesarSalad => hasCaesarSalad,
+            GachaItemDisplay.FoodType.Omelette => hasOmelette,
+            GachaItemDisplay.FoodType.Pancakes => hasPancakes,
+            GachaItemDisplay.FoodType.Quesadilla => hasQuesadilla,
+            GachaItemDisplay.FoodType.ScrambledEggs => hasScrambledEggs,
+            GachaItemDisplay.FoodType.Waffles => hasWaffles,
+            GachaItemDisplay.FoodType.Coffee => hasCoffee,
+            GachaItemDisplay.FoodType.IcedCoffee => hasIcedCoffee,
+            GachaItemDisplay.FoodType.MangoPeachSmoothie => hasMangoPeachSmoothie,
+            GachaItemDisplay.FoodType.MatchaLatte => hasMatchaLatte,
+            GachaItemDisplay.FoodType.PineCocoSmoothie => hasPineCocoSmoothie,
+            GachaItemDisplay.FoodType.StrawBanSmoothie => hasStrawBanSmoothie,
+            GachaItemDisplay.FoodType.VanFrappe => hasVanFrappe,
+            GachaItemDisplay.FoodType.FruitYogurt => hasFruitYogurt,
+            _ => false
+        };
     }
 }

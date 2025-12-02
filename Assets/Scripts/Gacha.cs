@@ -4,6 +4,7 @@ using System.Collections;
 
 public class Gacha : MonoBehaviour
 {
+
     public int BaconEggCheese;
     public int Burger;
     public int CaesarSalad;
@@ -19,9 +20,6 @@ public class Gacha : MonoBehaviour
     public int PineCocoSmoothie;
     public int StrawBanSmoothie;
     public int VanFrappe;
-
-
-
 
     public int RollNumber;
 
@@ -56,6 +54,7 @@ public class Gacha : MonoBehaviour
 
     public CoinCounter cc;
     public Progression prog;
+    public GachaItemDisplay gacha;
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -94,6 +93,7 @@ public class Gacha : MonoBehaviour
             RollNumber = GetWeightedRandom();
             StartCoroutine("Rolling");
             prog.coins -= 6;
+            RefreshAllDisplays();
             Debug.Log("Roll made!");
         }
         else
@@ -196,6 +196,14 @@ public class Gacha : MonoBehaviour
         {
             prog.coins += refundAmount;
             rollText.text = $"Already had {itemName}! Refunded {refundAmount} coin(s).";
+        }
+    }
+
+    public void RefreshAllDisplays()
+    {
+        foreach (GachaItemDisplay display in FindObjectsOfType<GachaItemDisplay>())
+        {
+            display.Refresh();
         }
     }
 }
