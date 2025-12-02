@@ -30,6 +30,8 @@ public class AssemblyLine : MonoBehaviour
     public GameObject Waffles;
     public GameObject FruitYogurt;
 
+    private GameObject displayedFood;
+
     public Transform foodSpawner;
     public Transform foodDisplaySpawner;
 
@@ -308,13 +310,21 @@ public class AssemblyLine : MonoBehaviour
 
     private void SpawnDisplayFood(GameObject prefab)
     {
-        GameObject displayedFood = Instantiate(prefab, foodDisplaySpawner.position, Quaternion.identity);
+        displayedFood = Instantiate(prefab, foodDisplaySpawner.position, Quaternion.identity);
         SpriteRenderer sr = displayedFood.GetComponent<SpriteRenderer>();
         if (sr != null)
         {
             sr.sortingOrder = 10;
         }
         displayedFood.transform.localScale = new Vector3(0.15f, 0.15f, 1f); // your desired size
+    }
+
+    private void OnDisable()
+    {
+        DomeSprite.enabled = true;
+        Destroy(displayedFood);
+        Debug.Log("Disabled!");
+        
     }
 
 }
