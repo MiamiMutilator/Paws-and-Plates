@@ -137,8 +137,7 @@ public class Gacha : MonoBehaviour
     private IEnumerator Rolling()
     {
         rollText.text = "Rolling...";
-        yield return new WaitForSeconds(1);
-
+        yield return new WaitForSecondsRealtime(1);
         switch (RollNumber)
         {
             case 0: RollItem(ref BaconEggCheese, "Bacon Egg & Cheese", BECText, 1);
@@ -217,5 +216,11 @@ public class Gacha : MonoBehaviour
         {
             display.Refresh();
         }
+    }
+
+    private void OnDisable()
+    {
+        StopAllCoroutines();
+        rollText.text = "Press Roll!";
     }
 }
