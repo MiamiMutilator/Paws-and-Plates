@@ -27,7 +27,8 @@ public class Gacha : MonoBehaviour
     public int randomSeed;
 
     //gacha probabilities
-    private int[] weights = { 50, 45, 50, 50, 40, 40, 50, 50, 50, 20, 10, 25, 10, 30, 5, 25 };
+    // Remove Omelette(3), ScrambledEggs(6), Waffles(7), Coffee(8), FruitYogurt(15) from the pool by setting weight to 0
+    private int[] weights = { 50, 45, 50, 0, 40, 40, 0, 0, 0, 20, 10, 25, 10, 30, 5, 0 };
     private int totalWeight;
 
     public TextMeshProUGUI rollText;
@@ -211,7 +212,8 @@ public class Gacha : MonoBehaviour
 
     public void RefreshAllDisplays()
     {
-        foreach (GachaItemDisplay display in FindObjectsOfType<GachaItemDisplay>())
+        // Use the newer FindObjectsByType API (faster and not deprecated). Use None since we don't need sorting.
+        foreach (GachaItemDisplay display in Object.FindObjectsByType<GachaItemDisplay>(FindObjectsSortMode.None))
         {
             display.Refresh();
         }
