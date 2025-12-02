@@ -2386,6 +2386,7 @@ RectTransform:
   m_LocalScale: {x: 0.018793402, y: 0.018793402, z: 0.018793402}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 1923033858}
   - {fileID: 1606750192}
   - {fileID: 590769215}
   - {fileID: 1371274900}
@@ -8052,7 +8053,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.42, y: -2.84}
+  m_AnchoredPosition: {x: 0.42, y: -0}
   m_SizeDelta: {x: 944.79, y: 531.66}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1606750193
@@ -8378,6 +8379,7 @@ MonoBehaviour:
   PineCocoSmoothie: 0
   StrawBanSmoothie: 0
   VanFrappe: 0
+  FruitYogurt: 0
   RollNumber: 0
   randomSeed: 0
   rollText: {fileID: 1942119070}
@@ -8396,10 +8398,12 @@ MonoBehaviour:
   PineCocoSmoothieText: {fileID: 1208576600}
   StrawBanSmoothieText: {fileID: 1176228832}
   VanFrappeText: {fileID: 864345482}
+  FruitYogurtText: {fileID: 0}
   inventoryCanvas: {fileID: 1465901786}
   gachaCanvas: {fileID: 639079654}
   cc: {fileID: 637764561}
   prog: {fileID: 0}
+  gacha: {fileID: 0}
 --- !u!4 &1750316142
 Transform:
   m_ObjectHideFlags: 0
@@ -9698,6 +9702,81 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1923033857
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1923033858}
+  - component: {fileID: 1923033860}
+  - component: {fileID: 1923033859}
+  m_Layer: 5
+  m_Name: BlackBG
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1923033858
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1923033857}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1.6577001, y: 1.6686, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 639079655}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0.42001, y: -0}
+  m_SizeDelta: {x: 944.79, y: 531.66}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1923033859
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1923033857}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 3564486972966285212, guid: 3e31a0f8f6d52f048be6d39fac50dc65, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1923033860
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1923033857}
+  m_CullTransparentMesh: 1
 --- !u!1 &1927110656
 GameObject:
   m_ObjectHideFlags: 0
