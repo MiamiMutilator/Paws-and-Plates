@@ -24,6 +24,8 @@ public class Stove : MonoBehaviour
     public Image fillImage;
     public Image backgroundImage;
 
+    public GameObject fireAnim;
+
     public float timeToCook = 5f;
     public Vector2 cookedRange = new Vector2(0.45f, 0.6f);
 
@@ -37,6 +39,7 @@ public class Stove : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        fireAnim.SetActive(false);
         // Set up mapping between raw items and cooked/burnt versions
         cookMap = new Dictionary<string, (GameObject, GameObject, GameObject)>()
         {
@@ -85,6 +88,7 @@ public class Stove : MonoBehaviour
         isCooking = true;
         panAudio.Play();
         cookMeter.gameObject.SetActive(true);
+        fireAnim.SetActive(true);
         cookMeter.value = 0f;
 
         float timer = 0f;
@@ -97,6 +101,7 @@ public class Stove : MonoBehaviour
             if (Input.GetMouseButtonDown(0))
             {
                 yield return CookingResult(cookMeter.value);
+                fireAnim.SetActive(false);
                 yield break;
             }
             yield return null;
