@@ -253,7 +253,7 @@ public class Customer : MonoBehaviour
             Debug.Log("Yum!");
             newSprite = arraySprites[1];
             customerEmotion.sprite = newSprite;
-            prog.coins += (customerPatience / 2);
+            prog.coins += (customerPatience / 4);
             Destroy(collision.gameObject);
             if (patienceCoroutine != null)
             {
