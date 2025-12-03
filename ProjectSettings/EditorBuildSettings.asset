@@ -15,6 +15,18 @@ EditorBuildSettings:
     path: Assets/Scenes/Orders.unity
     guid: 6d5d2c843d1a9c2439564cc4f6965ee5
   - enabled: 1
+    path: Assets/Scenes/OrdersBeach.unity
+    guid: abbe54a3ce57b6d4283b75faf2600407
+  - enabled: 1
+    path: Assets/Scenes/OrdersCozy.unity
+    guid: 08d7024327729144cb2d062799995d61
+  - enabled: 1
+    path: Assets/Scenes/OrdersModern.unity
+    guid: ffe89a5993de1ba4983ef86f9c00536e
+  - enabled: 1
+    path: Assets/Scenes/OrdersSpace.unity
+    guid: f4dd9f93ada6a6b47a95a823b3913e2d
+  - enabled: 1
     path: Assets/Scenes/Gacha.unity
     guid: e90e5ee714ba7d148917287d4356a3bb
   - enabled: 1

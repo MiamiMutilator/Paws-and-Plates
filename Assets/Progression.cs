@@ -22,6 +22,13 @@ public class Progression : MonoBehaviour
     public bool hasStrawBanSmoothie;
     public bool hasVanFrappe;
     public bool hasFruitYogurt;
+
+    //themes
+    public bool hasBeachTheme;
+    public bool hasCozyTheme;
+    public bool hasSpaceTheme;
+    public bool hasModernTheme;
+
     private void Awake()
     {
         if (Instance != null && Instance != this)
@@ -124,5 +131,32 @@ public class Progression : MonoBehaviour
             GachaItemDisplay.FoodType.FruitYogurt => hasFruitYogurt,
             _ => false
         };
+    }
+
+    public void SetActiveTheme(string themeName)
+    {
+        // Reset all theme flags
+        hasBeachTheme = false;
+        hasCozyTheme = false;
+        hasModernTheme = false;
+        hasSpaceTheme = false;
+
+        // Activate the purchased theme
+        switch (themeName)
+        {
+            case "Beach": hasBeachTheme = true; break;
+            case "Cozy": hasCozyTheme = true; break;
+            case "Modern": hasModernTheme = true; break;
+            case "Space": hasSpaceTheme = true; break;
+        }
+
+        // Save all flags to PlayerPrefs
+        PlayerPrefs.SetInt("Beach", hasBeachTheme ? 1 : 0);
+        PlayerPrefs.SetInt("Cozy", hasCozyTheme ? 1 : 0);
+        PlayerPrefs.SetInt("Modern", hasModernTheme ? 1 : 0);
+        PlayerPrefs.SetInt("Space", hasSpaceTheme ? 1 : 0);
+        PlayerPrefs.Save();
+
+        Debug.Log("Active theme set to: " + themeName);
     }
 }

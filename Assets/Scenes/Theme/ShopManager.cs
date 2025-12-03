@@ -104,7 +104,9 @@ public class ShopManager : MonoBehaviour
         if (activeTheme == null) return;
 
         PlayerPrefs.SetInt(activeTheme.themeName, 1);
-        PlayerPrefs.Save(); 
+        PlayerPrefs.Save();
+
+        Progression.Instance.SetActiveTheme(activeTheme.themeName);
 
         Debug.Log("Bought: " + activeTheme.themeName);
 
