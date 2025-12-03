@@ -103,15 +103,24 @@ public class ShopManager : MonoBehaviour
     {
         if (activeTheme == null) return;
 
-        PlayerPrefs.SetInt(activeTheme.themeName, 1);
-        PlayerPrefs.Save();
+        int themeCost = 15;
 
-        Progression.Instance.SetActiveTheme(activeTheme.themeName);
+        if (Progression.Instance.coins >= themeCost)
+        {
+            Progression.Instance.coins -= themeCost;
 
-        Debug.Log("Bought: " + activeTheme.themeName);
+            PlayerPrefs.SetInt(activeTheme.themeName, 1);
+            PlayerPrefs.Save();
 
-        if (buyButton != null) buyButton.interactable = false;
-        if (buyButtonText != null) buyButtonText.text = "Owned";
+            Progression.Instance.SetActiveTheme(activeTheme.themeName);
+
+            Debug.Log("Bought: " + activeTheme.themeName);
+
+            if (buyButton != null) buyButton.interactable = false;
+            if (buyButtonText != null) buyButtonText.text = "Owned";
+
+        }
+
     }
 
     private bool IsThemeOwned(ThemeData data)
