@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 7169033f168f5214cb53483c6d5e8bcf
+guid: f882b06721dd48d4db909768db43110e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6830004078613591875
-    second: MC_Beach_0
+      213: 281518711733326919
+    second: bellButton_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,30 +109,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WindowsStoreApps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MC_Beach_0
+      name: bellButton_0
       rect:
         serializedVersion: 2
-        x: 13
-        y: 16
-        width: 348
-        height: 525
+        x: 1345
+        y: 333
+        width: 186
+        height: 137
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3477b38c58c09ce50800000000000000
-      internalID: 6830004078613591875
+      spriteID: 7449d7ad6c728e300800000000000000
+      internalID: 281518711733326919
       vertices: []
       indices: 
       edges: []
@@ -160,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      MC_Beach_0: 6830004078613591875
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
