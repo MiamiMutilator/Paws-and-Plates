@@ -109,7 +109,7 @@ public class ShopManager : MonoBehaviour
         {
             Progression.Instance.coins -= themeCost;
 
-            PlayerPrefs.SetInt(activeTheme.themeName, 1);
+            //PlayerPrefs.SetInt(activeTheme.themeName, 1);
             PlayerPrefs.Save();
 
             Progression.Instance.SetActiveTheme(activeTheme.themeName);
@@ -125,6 +125,7 @@ public class ShopManager : MonoBehaviour
 
     private bool IsThemeOwned(ThemeData data)
     {
-        return PlayerPrefs.GetInt(data.themeName, 0) == 1;
+        return false;
+        //return PlayerPrefs.GetInt(data.themeName, 0) == 1;
     }
 }
