@@ -46,15 +46,7 @@ public class AssemblyLine : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (TryMakeBreakfastQuesadilla()) return;
-        if (TryMakeBaconEggCheese()) return;
-        if (TryMakeCaesarSalad()) return;
-        if (TryMakeCheeseburger()) return;
-        if (TryMakeOmelette()) return;
-        if (TryMakePancakes()) return;
-        if (TryMakeWaffle()) return;
-        if (TryMakeScrambledEggs()) return;
-        if (TryMakeFruitYogurt()) return;
+
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -325,6 +317,19 @@ public class AssemblyLine : MonoBehaviour
         Destroy(displayedFood);
         Debug.Log("Disabled!");
         
+    }
+
+    public void bell()
+    {
+        if (TryMakeBreakfastQuesadilla()) return;
+        if (TryMakeBaconEggCheese()) return;
+        if (TryMakeCaesarSalad()) return;
+        if (TryMakeCheeseburger()) return;
+        if (TryMakeOmelette()) return;
+        if (TryMakePancakes()) return;
+        if (TryMakeWaffle()) return;
+        if (TryMakeScrambledEggs()) return;
+        if (TryMakeFruitYogurt()) return;
     }
 
 }
