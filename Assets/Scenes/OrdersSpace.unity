@@ -3741,7 +3741,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: (Add Tortilla first)
+  m_text: (Add Tortilla First)
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2e74c716cb2474f4ca5345462250539b, type: 2}
   m_sharedMaterial: {fileID: -5488422313694984647, guid: 2e74c716cb2474f4ca5345462250539b, type: 2}
@@ -3768,8 +3768,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 20
-  m_fontSizeBase: 20
+  m_fontSize: 19.5
+  m_fontSizeBase: 19.5
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -18266,6 +18266,10 @@ MonoBehaviour:
   hasStrawBanSmoothie: 0
   hasVanFrappe: 0
   hasFruitYogurt: 0
+  hasBeachTheme: 0
+  hasCozyTheme: 0
+  hasSpaceTheme: 0
+  hasModernTheme: 0
 --- !u!4 &2029658617
 Transform:
   m_ObjectHideFlags: 0

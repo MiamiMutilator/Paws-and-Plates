@@ -80,12 +80,12 @@ public class ShopManager : MonoBehaviour
         if (IsThemeOwned(data))
         {
             if (buyButton != null) buyButton.interactable = false;
-            if (buyButtonText != null) buyButtonText.text = "Owned";
+            if (buyButtonText != null) buyButtonText.text = "Done!";
         }
         else
         {
             if (buyButton != null) buyButton.interactable = true;
-            if (buyButtonText != null) buyButtonText.text = "Buy";
+            if (buyButtonText != null) buyButtonText.text = "Remodel?";
         }
 
         gridScreen.SetActive(false);
@@ -103,7 +103,7 @@ public class ShopManager : MonoBehaviour
     {
         if (activeTheme == null) return;
 
-        int themeCost = 15;
+        int themeCost = 30;
 
         if (Progression.Instance.coins >= themeCost)
         {
@@ -117,7 +117,7 @@ public class ShopManager : MonoBehaviour
             Debug.Log("Bought: " + activeTheme.themeName);
 
             if (buyButton != null) buyButton.interactable = false;
-            if (buyButtonText != null) buyButtonText.text = "Owned";
+            if (buyButtonText != null) buyButtonText.text = "Done!";
 
         }
 

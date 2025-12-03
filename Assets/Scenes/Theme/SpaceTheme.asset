@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: SpaceTheme
   m_EditorClassIdentifier: 
   themeName: Space
-  price: 15
+  price: 30
   iconImage: {fileID: -5858099061022299432, guid: 27607657f606071438d33561978003b8, type: 3}
   fullScreenImage: {fileID: -5858099061022299432, guid: 27607657f606071438d33561978003b8, type: 3}

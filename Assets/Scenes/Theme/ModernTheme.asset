@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: ModernTheme
   m_EditorClassIdentifier: 
   themeName: Modern
-  price: 15
+  price: 30
   iconImage: {fileID: -2387952366586716151, guid: 6f34d74cce2a09346ad896b237dc1eeb, type: 3}
   fullScreenImage: {fileID: -2387952366586716151, guid: 6f34d74cce2a09346ad896b237dc1eeb, type: 3}

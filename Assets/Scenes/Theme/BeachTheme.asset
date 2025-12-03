@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: BeachTheme
   m_EditorClassIdentifier: 
   themeName: Beach
-  price: 15
+  price: 30
   iconImage: {fileID: -6146795774391780013, guid: 5f683d7ae95ce8346af17c814bd8ab20, type: 3}
   fullScreenImage: {fileID: -6146795774391780013, guid: 5f683d7ae95ce8346af17c814bd8ab20, type: 3}
