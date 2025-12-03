@@ -261,7 +261,7 @@ public class Customer : MonoBehaviour
                 patienceCoroutine = null;
             }
             // wait 4 seconds before destroying the customer
-            StartCoroutine(DestroyAfterDelay(4f));
+            StartCoroutine(DestroyAfterDelay(2f));
 
         }
         else
@@ -322,7 +322,7 @@ public class Customer : MonoBehaviour
 
         customerOrder.text = "I'm leaving!";
         Debug.Log("I'm leaving!");
-        StartCoroutine(DestroyAfterDelay(4f));
+        StartCoroutine(DestroyAfterDelay(2f));
         newSprite = arraySprites[0];
         customerEmotion.sprite = newSprite;
 
