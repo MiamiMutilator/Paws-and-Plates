@@ -17,7 +17,26 @@ public class Scenes : MonoBehaviour
 
     public void LoadMainGame()
     {
-        SceneManager.LoadScene("Orders");
+        if (Progression.Instance.hasBeachTheme == true)
+        {
+            SceneManager.LoadScene("OrdersBeach");
+        }
+        else if (Progression.Instance.hasCozyTheme == true)
+        {
+            SceneManager.LoadScene("OrdersCozy");
+        }
+        else if (Progression.Instance.hasSpaceTheme == true)
+        {
+            SceneManager.LoadScene("OrdersSpace");
+        }
+        else if (Progression.Instance.hasModernTheme == true)
+        {
+            SceneManager.LoadScene("OrdersModern");
+        }
+        else
+        {
+            SceneManager.LoadScene("Orders");
+        }
     }
 
     public void MainMenu()
